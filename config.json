@@ -1,0 +1,28 @@
+{
+  "_note": "Your control panel. Funds need only the NAME - the robot finds the code itself. Add or remove anything, anytime.",
+
+  "mutual_funds": [
+    { "name": "UTI Nifty 50 Index Fund Direct Growth", "alert_pct": 2 },
+    { "name": "Nippon India Gold Savings Fund Direct Growth", "alert_pct": 2 },
+    { "name": "ICICI Prudential Savings Fund Direct Growth", "alert_pct": 2 }
+  ],
+
+  "fx": [
+    { "name": "USD / INR", "from": "USD", "to": "INR", "alert_pct": 1 }
+  ],
+
+  "commodities_mandi": [
+    { "name": "Rice", "commodity": "Rice", "state": "Kerala", "alert_pct": 3 },
+    { "name": "Wheat", "commodity": "Wheat", "state": "Kerala", "alert_pct": 3 }
+  ],
+
+  "news_topics": [
+    { "label": "Palm oil", "query": "palm oil India" },
+    { "label": "Edible oil", "query": "edible oil price India" },
+    { "label": "Fuel", "query": "fuel price India" }
+  ],
+
+  "data_gov_key": "",
+
+  "settings": { "default_alert_pct": 4 }
+}
