@@ -1,7 +1,45 @@
 {
-  "updated": "",
-  "funds": [],
-  "market": [],
+  "updated": "2026-07-02T07:14:43.624610+00:00",
+  "funds": [
+    {
+      "name": "UTI Nifty 50 Index",
+      "nav": null,
+      "change_pct": null,
+      "alert": false
+    },
+    {
+      "name": "Nippon India Gold Savings",
+      "nav": null,
+      "change_pct": null,
+      "alert": false
+    },
+    {
+      "name": "ICICI Pru Savings Fund",
+      "nav": null,
+      "change_pct": null,
+      "alert": false
+    }
+  ],
+  "market": [
+    {
+      "name": "Nifty 50",
+      "price": null,
+      "change_pct": null,
+      "alert": false
+    },
+    {
+      "name": "Gold (GoldBeES)",
+      "price": null,
+      "change_pct": null,
+      "alert": false
+    },
+    {
+      "name": "USD / INR",
+      "price": null,
+      "change_pct": null,
+      "alert": false
+    }
+  ],
   "commodities": [],
   "news": [],
   "alerts": []
