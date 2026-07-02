@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-02T07:14:43.624610+00:00",
+  "updated": "2026-07-02T11:43:58.429370+00:00",
   "funds": [
     {
-      "name": "UTI Nifty 50 Index",
-      "nav": null,
-      "change_pct": null,
+      "name": "UTI Nifty 50 Index Fund Direct Growth",
+      "nav": 168.5869,
+      "change_pct": 0.59,
       "alert": false
     },
     {
-      "name": "Nippon India Gold Savings",
-      "nav": null,
-      "change_pct": null,
+      "name": "Nippon India Gold Savings Fund Direct Growth",
+      "nav": 55.6467,
+      "change_pct": -0.44,
       "alert": false
     },
     {
-      "name": "ICICI Pru Savings Fund",
-      "nav": null,
-      "change_pct": null,
+      "name": "ICICI Prudential Savings Fund Direct Growth",
+      "nav": 588.9316,
+      "change_pct": 0.06,
       "alert": false
     }
   ],
