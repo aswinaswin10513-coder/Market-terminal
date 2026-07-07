@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-06T19:22:24.612113+00:00",
+  "updated": "2026-07-07T12:16:50.786830+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
-      "nav": 170.5031,
-      "change_pct": 0.43,
+      "nav": 171.6185,
+      "change_pct": 0.65,
       "alert": false
     },
     {
       "name": "Nippon India Gold Savings Fund Direct Growth",
-      "nav": 57.9838,
-      "change_pct": 2.23,
-      "alert": true
+      "nav": 57.5981,
+      "change_pct": -0.67,
+      "alert": false
     },
     {
       "name": "ICICI Prudential Savings Fund Direct Growth",
-      "nav": 589.4405,
-      "change_pct": 0.02,
+      "nav": 589.6207,
+      "change_pct": 0.03,
       "alert": false
     }
   ],
@@ -31,32 +31,39 @@
   "commodities": [],
   "news": [
     {
-      "title": "Crude Palm Oil Export Prices Soften, India's Market Stays Firm - ALCHEMPro",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0RhZGFuNXNTUnIzN3RwVUJHc2RlQTRXNlNmdVZwQ1ZOTkl2eE5lQ3ItRjlkaC1qaGVHalE1OUwyM3dIMWh1NmxFRzRJSko5OTRTbVVTaFE3R0plZ2JrMjZYbmFLZ0F3bXAyT1JLVkdyWmlmZnJfQVNlS3l4aWxINW1mSF9QLWxQU29LMmw1cFZJeWh4ZVdHZ0Y0VUpKMkZVOS1pX0lEZ0tEaXY4djRB?oc=5",
-      "domain": "ALCHEMPro",
-      "topic": "Palm oil",
-      "seendate": "20260706T143511Z"
+      "title": "Why Centre thinks crude oil situation still slippery for retail fuel price cut - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUtWaHBUa1FYYjJaNUhyenY5aHlpT2hZUGEwZ21HcVF4WWh4TkdrRW4tVE9TVDlkQUFMLUwzbkc3UzJta284bXN5dUZSRXdLdWFLTkRxd3hxNTR3UFNXSDIwbEdrSUItZWN1Q1lEYzUtdmp3eUNMUEFwMzYyX3dNTldmaUZ6eFVaVGtDWmVnVzZaZ2ozeGFKbnFKLWl1d09LSFNDbTFrUi1KaXJPNUswc25NLVltcE1ZT2dMVE5HTHF0d25LNURfV2taNlpnNVBCN1dRQzlSWTUwUDZ3V0ZiZjRFb9IB6AFBVV95cUxQRHRoS2ZDcDg2dC0tMTJFWGhxcHVXd3czdmRHN0NqZU52X0hMek1uc1drazBOd1hkQmZGUlY4SnBXZllzQnBYZFJoN1Y3TkNGcnlLNmU1UEJadEFfU0JseTdRc29BSjZCS0JRZlN2Z2c1OUdKZjBwZDFRTElXQi1PNEFrY0t0ZHk4R0NpRnV5MmUzOFh4S29KUFk2X3R4eFBVSXJRVjhwWnRHTktlTHJ1b0xEZ2lrLV96UWZiZ1Nzdzl4b095MGdfeUd3NXJad2lERk9MelE1a0M1eTJlNExPX0M0UzMzVFBU?oc=5",
+      "domain": "India Today",
+      "topic": "Fuel",
+      "seendate": "20260707T113706Z"
     },
     {
-      "title": "Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcXh0OWVHaHBjcUp3VlVTdGFDRENlZ0trTEZzN3RYZXdhblE2S3pvUnJ5MEJObmNjeG8wZUdsVXhRQm5lclQ1djFlcGNpeS10WHB2OXNoV2FlbXl4dDAxT2VmLUxabmptYlpfTG9XdXFKZDIyRHpLeTNxdi1ZYjRiMDRyVVlXcEZrRlFOS2NxZElmVnFkM3R3aThZd0JYMW1kTXRTSjMzNVhLTXlIZ3RHZkF0YkRlYXdrTFpmbi1aV25pdWpza0dhNHBjc0VEd0tCNS1LcHdmQWhsVTdyRHM0dFNiczI1ZTdsbk1sZU5PVmtqdXdtdE90RE5JUEtSbk9sWGxLVnFTTUZLZFBqMHVj0gGUAkFVX3lxTFBFOHhzeW45YVBfMjdWUjRDcml0dElzMWRHMmpSQ21waVJvU2s2ZlFYTG1yOUU5M1ZyRzlHYzBqcWxpNlRRQW5Iczd3R0J3Mkhpd0ZBSk9ac0xvVFZ6VWtFektPWGJkeHJmb1NEdThlSHd0Qm1iWnBlejd5MHZLUlR2SGpNZjAzYVdrZDMtYVItVEE2MGxTMm9ST0doNWU4ek5BZEs0Y2JNVFJvdmZ1VENWckROdTRZUlc2MGUwZVZlSTF1SW9yY2ZueUpKWmhMelBkclplSjlFOEtaekJUNk5sbDlQY25neFZYMVJDTGFnN1J0X2hOYXA2ZTIwQlRUblFsRXpWQVItbllpTklINnNNMThaRA?oc=5",
-      "domain": "The Times of India",
-      "topic": "Fuel",
-      "seendate": "20260706T132900Z"
+      "title": "Hot Right Now: Palm oil, India sugar ban and Agthia energy drink - FoodNavigator-Asia.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXBmbUpNa2U5SjlWMm5mTXgwZGZIQjhhaG1HeGdzUHN4RzNIWDZrb295Tlk0eTN4NGozU3JWb1g4SzVzTzBPQko5QjFuQVVaNUpvV1dvYlBPTW94eFlYQlBiRFdCSUhTalVweXdzRldZMXJ3QzZIcExoOENlWWlWSnJRZzVBek1razZHMlM4VDh1MTRGWFd0aHFfOEtBNVgxMTJBZzBVMk9pTzJlWGJJcU1pcEctdEgw?oc=5",
+      "domain": "FoodNavigator-Asia.com",
+      "topic": "Palm oil",
+      "seendate": "20260707T103121Z"
     },
     {
       "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
       "domain": "News On AIR",
       "topic": "Fuel",
-      "seendate": "20260706T101559Z"
+      "seendate": "20260707T095339Z"
     },
     {
-      "title": "Policy, Energy, Climate & Geopolitics To Influence Global Vegetable Oil Industry: IVPA President. - TRIPURA STAR NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUhoaTlObWFCWHJjMThORVEtbEZSVjR6OVVsLWpUdlB1ZTRwVklMWnB1cXF1am82MmRya01CaG1PbTlBMHpZTmduOTQ1RVZ3bHVhWFFWVXZfQVU2RktLTGlfUjk4RFViWTRab3lvNVZkbC1jYnpGM0hxcmZEdkkwTEhGQWc4NHd5NnBmMENnRmlJVk1wTGlCbXpQVzBtNW04VFF5cms2S25xNjJkY1NWNVRmcXV3YjVSZ1RCTlh2N2M5dw?oc=5",
-      "domain": "TRIPURA STAR NEWS",
+      "title": "Low oilseed acreage may keep edible oil inflation elevated - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNW9UYi10Ti1RdnlZQmNoOEpROUtXODVEanBmUzdUbHJKQ0JWTnBJOWYxQnQyY1RPWWo3QWx2WHUxN0E5N1o0M3pIenBpMlBDSGZPa3pPT29wblNiNkp0Z1lQbTduSG5NT0dsOEtxcGtpTDBFSFY4UWc0ZjVzdjIzbGMxS25zaWktaUdjcjVWNEt6YWUxQkxqeDZEekhUUEctMTJIX29SUHJzb3dzVnN1ZFJmSlI2NGxpRGFmWGI4ZVc1bmhyLVHSAcYBQVVfeXFMTzVvVGItdE4tUXZ5WUJjaDhKUTlLVzg1RGpwZlM3VGxySkNCVk5wSTlmMUJ0MmNUT1lqN0Fsdlh1MTdBOTdaNDN6SHpwaTJQQ0hmT2t6T09vcG5TYjZKdGdZUG03bkhuTU9HbDhLcXBraUwwRUhWOFFnNGY1c3YyM2xjMUtuc2lpLWlHY3I1VjRLemFlMUJMang2RHpIVFBHLTEySF9vUlByc293c1ZzdWRSZkpSNjRsaURhZlhiOGVXNW5oci1R?oc=5",
+      "domain": "Moneycontrol.com",
       "topic": "Edible oil",
-      "seendate": "20260706T100140Z"
+      "seendate": "20260707T084418Z"
+    },
+    {
+      "title": "Crude Palm Oil Export Prices Soften, India's Market Stays Firm - ALCHEMPro",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0RhZGFuNXNTUnIzN3RwVUJHc2RlQTRXNlNmdVZwQ1ZOTkl2eE5lQ3ItRjlkaC1qaGVHalE1OUwyM3dIMWh1NmxFRzRJSko5OTRTbVVTaFE3R0plZ2JrMjZYbmFLZ0F3bXAyT1JLVkdyWmlmZnJfQVNlS3l4aWxINW1mSF9QLWxQU29LMmw1cFZJeWh4ZVdHZ0Y0VUpKMkZVOS1pX0lEZ0tEaXY4djRB?oc=5",
+      "domain": "ALCHEMPro",
+      "topic": "Palm oil",
+      "seendate": "20260706T104327Z"
     },
     {
       "title": "Malaysian Palm Oil Futures Rebound on Stronger Edible Oils and Weak Ringgit - ChemAnalyst",
@@ -74,10 +81,10 @@
     },
     {
       "title": "Sustainable Palm Oil Production Key to India's Long-Term Edible Oil Security - RuralVoice",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzVqaDA0MUNwMGVwZ3dKQV9YME5fMUJFRmUyWGNEcl8xX3hHRF9rcS10bDhrdU9zX0V3STQ0SDJCdjlsWlBWYnZIZDctT3dGLTFpZE9iU2kxQ1VoZUpuNkZ5S3NUNFFJeWtWOWZVUFFPYThKdU9Pc3BxT3VGZkgzWjhXdkpMTVo0NmJKZTM4cVhLdVVlSVF0RXZhYTd5cnlDd1F5aGlGRFQwUnVMSVJvc1BER2VhVXJ0SWfSAboBQVVfeXFMT3c1amgwNDFDcDBlcGd3SkFfWDBOXzFCRUZlMlhjRHJfMV94R0Rfa3EtdGw4a3VPc19Fd0k0NEgyQnY5bFpQVmJ2SGQ3LU93Ri0xaWRPYlNpMUNVaGVKbjZGeUtzVDRRSXlrVjlmVVBRT2E4SnVPT3NwcU91RmZIM1o4V3ZKTE1aNDZiSmUzOHFYS3VVZUlRdEV2YWE3eXJ5Q3dReWhpRkRUMFJ1TElSb3NQREdlYVVydEln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXh4eDJHUDFCQ2lzanctQ3BQcWFmamI3aTdPZzFCSEhrWjRYd3JCYjRQZ1VpbkdTY2xQUm1VZE1TQmU5TUMtUjAxLU1FRUJ1azcxd1RnMkV1UDNHM3dtMDM2VmRSaDZnelMtSzlaaTU0WDE1LVJFelZnQ1k1MHJydkhsSEJIdXdUMzdQbnUxU0pWN1VyWEZ6WWQ2LVlpYm5SbnlLODBHc3ZBRjhjNXZkREM1ZHrSAboBQVVfeXFMT3c1amgwNDFDcDBlcGd3SkFfWDBOXzFCRUZlMlhjRHJfMV94R0Rfa3EtdGw4a3VPc19Fd0k0NEgyQnY5bFpQVmJ2SGQ3LU93Ri0xaWRPYlNpMUNVaGVKbjZGeUtzVDRRSXlrVjlmVVBRT2E4SnVPT3NwcU91RmZIM1o4V3ZKTE1aNDZiSmUzOHFYS3VVZUlRdEV2YWE3eXJ5Q3dReWhpRkRUMFJ1TElSb3NQREdlYVVydEln?oc=5",
       "domain": "RuralVoice",
       "topic": "Palm oil",
-      "seendate": "20260706T060150Z"
+      "seendate": "20260706T044300Z"
     },
     {
       "title": "India Keeps Eye on Indonesia’s Tight State Control over Palm Oil Exports - Jakarta Globe",
@@ -120,13 +127,6 @@
       "domain": "TradingView",
       "topic": "Palm oil",
       "seendate": "20260702T092152Z"
-    },
-    {
-      "title": "MPOC expects CPO prices to range from MYR4,400-MYR4,650/tonne in July as palm oil supply outlook tightens - Oils & Fats International",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRHhxX2hfQkFPVWtRU2s0cEc0TFZIRlRjU0d1d3Q0WVY0aFpSMUxuT0NlS2U4eVhvYV9qUTZVNTZYZFJWU0IyYzFOLU5YMHF0aHpmSndvOTNtX3JFdU5yaFN0ZWFUVk1EV1VEN3ZicGN5cnpYNGZ5Q1FibnZKd1NyTHlYdlNfVG9vY2JHa0xrQWxiVDZFVHI2X2R0Z0c5TmJCV3E1NVY4RDVFTWpOcnZpb1lTUEt5OUlkdXFwanlsNTB0VUhIV0czcF9LZzY5QjRVamN1TQ?oc=5",
-      "domain": "Oils & Fats International",
-      "topic": "Palm oil",
-      "seendate": "20260702T073910Z"
     },
     {
       "title": "As war pressures ebb, edible oil prices may ease 10% ahead of the festive season - livemint.com",
@@ -241,7 +241,5 @@
       "seendate": "20260318T070000Z"
     }
   ],
-  "alerts": [
-    "Nippon India Gold Savings Fund Direct Growth: NAV +2.2%"
-  ]
+  "alerts": []
 }
