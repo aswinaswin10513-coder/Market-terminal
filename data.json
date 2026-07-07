@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T12:16:50.786830+00:00",
+  "updated": "2026-07-07T19:25:37.017585+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,8 +23,8 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.4,
-      "change_pct": 0.2,
+      "price": 94.97,
+      "change_pct": -0.45,
       "alert": false
     }
   ],
@@ -87,13 +87,6 @@
       "seendate": "20260706T044300Z"
     },
     {
-      "title": "India Keeps Eye on Indonesia’s Tight State Control over Palm Oil Exports - Jakarta Globe",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmxaSzlVQ0tQdGVFb1Q1RHR0aDVaQ2laYmdZYUkwdmpSN2NOTDZuazJtSUhZRUZ4X21fTVpSYVRxNWNIQTFzTzRoZ3JWaHk3Q0FRWm5MQkZfRXI1QUJjR1lEdEdXOUxpZERDZXl2LXBEaEtJbU5OTVNEYzZPS3RqZzZrbUV3ZkZuVjlra0haa3pOM2JDS3c4RjVqTzlqMXJsU0pLeUhEQQ?oc=5",
-      "domain": "Jakarta Globe",
-      "topic": "Palm oil",
-      "seendate": "20260704T022300Z"
-    },
-    {
       "title": "India’s palm oil imports fall to a 14-month low - UkrAgroConsult",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUdCLXMxSHJuRlR5OEFKNmQzdVlvTXJpYXkzclBvZ0E5S3loaWwzSjVYNDRRWHpsLTBpcUhxLXBGdy05b1REYlYzNmRjUDdxeFk5REtHN2dUemVZcTZmb1NuZVpIYlBZbXNWZl91akx3OHlMcnVlaXR3T21jUDVNLTZhM1FKQWpGc0E?oc=5",
       "domain": "UkrAgroConsult",
@@ -113,13 +106,6 @@
       "domain": "The Economic Times",
       "topic": "Palm oil",
       "seendate": "20260702T092919Z"
-    },
-    {
-      "title": "India's Palm Oil Imports Hit 14-Month Low Amid Subdued Demand - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTJrM2dkamlkNG9UZnpVMEl0YktINTFhelpqOXlCUkxGeXQ0STB5YVpKcVdNOVVHRFNsZG5YWHFydVRRMUpYQmFLME83eXhPQ2liZWZPeS16WXhXUWtiUVdWWFN3aHBlbnhwNEdNTm9JOEpVU0NFTk50VVpJWTB5blBBTFB3YU9CX2ZLWXFSN0IzeUNZU1pXc2oxaC1kMDhZd3gzZ0tZQktZM19faVJpQUFuZDXSAboBQVVfeXFMTTBrcmVpOHJKV0lCUGdkcU1HemtWUFNpbFBfWTlCa2N4UWU3NzVDUG9SV3JQYzdBQ3NLeUdmeHRTYlROcjhpVDg5VkVqVlVkdVV1aUdxMVFaYTd0Q2VVY1JZMDFrODhSX25aYjBhQXJKcG5EcE9VYXdHY3hraVhQeVVDYW9Yd1NxQk42OEhXcTdtSXh1RldQTmxZaUIwalZsWF9xR0Vmam5idW41T2tDb0JseFVpcGE5cWJn?oc=5",
-      "domain": "Devdiscourse",
-      "topic": "Palm oil",
-      "seendate": "20260702T092308Z"
     },
     {
       "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - TradingView",
@@ -192,6 +178,13 @@
       "seendate": "20260519T070000Z"
     },
     {
+      "title": "Palm oil is turning into fuel—and India’s import bill could rise - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0p0NUMxTEVVMVhPTkhVTG9SR0JpRzBobDdnRk1URDgyMWxKZ2ppcXFIcW9Xa3VjTHU2amxpc2pYdWpaOEtKZ2ZiZndmdzNXZFpDZmNJRTN3V2VRemZPN1I0NTNMTG5lYkNJUWxxUDBsNmxMYVFHcjJBa29Oa2N3Tm9SeUx1d3Fza04xa1ZfaUN2aERVdjZvLTN4TDNMdVhLUHZKY1Y1MFNjMXVZVHlMMNIBtgFBVV95cUxOVmtsR3Y3aVducmVzWk9obU5MSkxOSTJETzF4dHltYlJhTHA2NzY0aHFPZDlCSk9jeUFsU1lkUS1LRGZneTRrU3M5LTc0UEJ0QmZWM2d5Sm1zVjMxWHNuTDJmZnFTUnVaRm94R21CV2hEVlN1bzc4T2Vtekt6NWpQVDR1VGZIeFBzc0l2RVQwNkJVUElWSnJWUkNuUEhNd3h3ZzdtT3ZUdUw5MXFOVEpSeDlYTzJ1dw?oc=5",
+      "domain": "livemint.com",
+      "topic": "Palm oil",
+      "seendate": "20260518T070000Z"
+    },
+    {
       "title": "India faces threat of sharp rise in edible oil prices - UkrAgroConsult",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzNGTXhueDdVa19fc3pzSkEwUndsazRYbmkzdlAyZ2ZCd2tDSlh0MnpaYXdVaWNCR2pSWmtGSEF4SVdVdEdiSnpZeURaVWxpb0NXcXh0aHBBSW44QkNXNkdhTGV0MmJKc25Za25nSkRzUkg4OTFUOXo1X09kNkVwckZ4cmxYX1IzUEFKcHZOc3ZWMEE?oc=5",
       "domain": "UkrAgroConsult",
@@ -232,6 +225,13 @@
       "domain": "orfonline.org",
       "topic": "Edible oil",
       "seendate": "20260426T070000Z"
+    },
+    {
+      "title": "Top 7 Indian Palm Oil Companies, Manufacturers & Brands - IMARC Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxNW54WkVoRF9VMGxUT0NvelN2ZHJCeUVUNEprRGd1VjFSbm5udW9UcVM4T05XUmotOUljcXhHek5QeEN6RWlkRVFITHBReWcwY0JMbzE4N2FxS0hKMkI4QWpYVkJvZDRLQVFPLWdkOXFpZWVaQnVtR09R?oc=5",
+      "domain": "IMARC Group",
+      "topic": "Palm oil",
+      "seendate": "20260420T062927Z"
     },
     {
       "title": "Rising cooking oil prices strain household budgets, hit eateries in Tiruchi - The Hindu",
