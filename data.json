@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T10:32:00.454031+00:00",
+  "updated": "2026-07-08T18:06:50.491531+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Nippon India Gold Savings Fund Direct Growth",
-      "nav": null,
-      "change_pct": null,
+      "nav": 57.1499,
+      "change_pct": -0.78,
       "alert": false
     },
     {
@@ -23,26 +23,26 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 94.97,
-      "change_pct": -0.45,
+      "price": 95.56,
+      "change_pct": 0.62,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
     {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260708T150447Z"
+    },
+    {
       "title": "Home-cooked thali becomes costlier in June as tomato, edible oil and LPG prices bite - Agro Spectrum India",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRi1wWGtfWHdkN0V1T0gzblZQUWd0SkVpc3RYWUV0MGI1eVlkaGdocjdfMm5YeFFSdHRuajljN2FNYzhRRHRYVzYtN0t4Q2RvMm9lYzJYczhaYUgwUDlnS01ZLUVpLVh5ZGhZeW4xSGZhNld4emRpd1R3eFdwRWJYV1ludzUtUU9TQUotMjNkeDhyTXB6SWFGS2ZBT2tHeDlvZjdzVldfMVhPLWtBaDJtV0g3em1DWFp5SGRPeUtnSjYyQkVicXpxYw?oc=5",
       "domain": "Agro Spectrum India",
       "topic": "Edible oil",
       "seendate": "20260708T081403Z"
-    },
-    {
-      "title": "Petrol Price in India | Check Latest Petrol Rates in India Today - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaXdUbGdvVVBKNjgyUUxweXN1RDNhUlBOelhDcHJHdGJXTTlVTk0tMFFpWUJXczhaNjlLOF9hX2JQT2xCVzdzczlNWFNKekVINExaNk93aS0yMFEyNm9fRDRtWDk1MEhoNFFpak9yYw?oc=5",
-      "domain": "Hindustan Times",
-      "topic": "Fuel",
-      "seendate": "20260708T072427Z"
     },
     {
       "title": "Higher tomato, vegetable oil prices push thali prices to five-month high in June - Moneycontrol.com",
@@ -52,11 +52,18 @@
       "seendate": "20260708T071741Z"
     },
     {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
+      "title": "Vegetable oil prices remain under pressure from lower global demand and increased supply of rapeseed oil - електронна зернова біржа України",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFhqNEhPT2VsUTdOd2w0cXNhclBmR3FLZHE2WjRTbUVVay1hRzFYUUF4cXpMaDdlZXVOTGlqU2tFbDlHTkUxZThPcHlBTGc0ZXljYWhaWWotN1lUMjRJUmFYNlN0Q3ZsbDVqcjFXNGs4TTREaUxzdFlCdUgybUxjNGU1czdxZVZzWk1WLXdObl9iMUFXOFlmRjdUeVZzdHpUUWZpOE96akhXcHFQWjRJalQzakJ2MUUyYkRwSWxBNjVibHgwVFl2RFk1a2I?oc=5",
+      "domain": "електронна зернова біржа України",
+      "topic": "Edible oil",
+      "seendate": "20260708T060228Z"
+    },
+    {
+      "title": "Petrol, Diesel Prices On July 8: Check Updated Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenlGX19zb0l2aGx3QndJLXlVeksxclh1RWF3Tm5MbG50MzdMNld6TVBpMndmTzRfTlBqTmo5SW5HWGdMOGQ0b3FLaF92OHJ0eFgzRWRVVTUzYWNjZEFOcmhJVUNhQm93RnNtVV9NSWQtZnRSUzd2Y1c3cEdpX2pqTXNkZ3BVUUtfTlE5a3lMb1BOTUxjN3VWUjNkdDFnMlc3MXdMNFcxbndNdC1RdnhWcmVPR0pZZlNqa0Fmd2ZHZVJzWnVjZlVFb3RENG5PT28wQTk0QnJ2MTNYNnhaTHlINGhaTdIB6wFBVV95cUxQQ1FEUk9xNzJidlFXV1VCSDlvUUpJcWNMd3hCdWUzc3VrV05tSjU4VTZDX0xFM2gyb0Zzb0h2bjNUdVZTanpUWG50elpIb0hTZHAwU1k4RFpYYmtMaVRqNVdIa0hCbjJyUXMtbnVxSk5xaDNOUFVobW4tM3hxR0pHRHluXzhMYnprYmlRcWc2WXhXb01IWk1VeUJJdDFzT2M3SEZ3cjFXTTZxMmVUbXZPVjkzbTBpbzlwNkFzSHhiMGVkNXFRUXFhV0F5aGhFdWJBWkVDbHpiaVE0WkRGZ1ZhNWI4WWgxUE1IRmJn?oc=5",
+      "domain": "NDTV Profit",
       "topic": "Fuel",
-      "seendate": "20260707T230529Z"
+      "seendate": "20260708T005737Z"
     },
     {
       "title": "Hot Right Now: Palm oil, India sugar ban and Agthia energy drink - FoodNavigator-Asia.com",
@@ -64,13 +71,6 @@
       "domain": "FoodNavigator-Asia.com",
       "topic": "Palm oil",
       "seendate": "20260707T103121Z"
-    },
-    {
-      "title": "Low oilseed acreage may keep edible oil inflation elevated - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNW9UYi10Ti1RdnlZQmNoOEpROUtXODVEanBmUzdUbHJKQ0JWTnBJOWYxQnQyY1RPWWo3QWx2WHUxN0E5N1o0M3pIenBpMlBDSGZPa3pPT29wblNiNkp0Z1lQbTduSG5NT0dsOEtxcGtpTDBFSFY4UWc0ZjVzdjIzbGMxS25zaWktaUdjcjVWNEt6YWUxQkxqeDZEekhUUEctMTJIX29SUHJzb3dzVnN1ZFJmSlI2NGxpRGFmWGI4ZVc1bmhyLVHSAcYBQVVfeXFMTzVvVGItdE4tUXZ5WUJjaDhKUTlLVzg1RGpwZlM3VGxySkNCVk5wSTlmMUJ0MmNUT1lqN0Fsdlh1MTdBOTdaNDN6SHpwaTJQQ0hmT2t6T09vcG5TYjZKdGdZUG03bkhuTU9HbDhLcXBraUwwRUhWOFFnNGY1c3YyM2xjMUtuc2lpLWlHY3I1VjRLemFlMUJMang2RHpIVFBHLTEySF9vUlByc293c1ZzdWRSZkpSNjRsaURhZlhiOGVXNW5oci1R?oc=5",
-      "domain": "Moneycontrol.com",
-      "topic": "Edible oil",
-      "seendate": "20260707T084418Z"
     },
     {
       "title": "Crude Palm Oil Export Prices Soften, India's Market Stays Firm - ALCHEMPro",
@@ -85,13 +85,6 @@
       "domain": "ChemAnalyst",
       "topic": "Edible oil",
       "seendate": "20260706T090616Z"
-    },
-    {
-      "title": "How India kept fuel prices in check while the world burned through its wallets - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUzd6aGNHY1F5U21iU2M3WGRYV05nWnB5WDNRdFAwbkR3OFJ2eDhnVldIdUdxcG82TnBOYXhsNlJ5d0NtbWFBM3ZONXNLVFlrWHlSQjA4dGNvR3A0bUZYTjlwcmhNY3E1TFdGcmNaSmpoSDRZOVAzYVk0cjVlY1pMSWlrWHNhTTRiYkw3Znc3ekoyZlpwMVNvWDc3ZTFMN2lFbEZsZE1VTlVZQW9IX1AyX1JiLTF6OUs1UmRmR2VCd28yVHhUWGdpcVU0WjVmXzlYakZZaEZqeERLYWFfV2Z4MS130gHnAUFVX3lxTE9TcFZ1VU1UMlFQakFsLU5FQnV2SFpVZTM2dFNnSDEwc1B4U1hCXzdiNURxQmpTR3YxblJWZ0ktVzhQMWV3czVMMlMzN1dMdUtTTWo0dGFFTm1POGY4X1ROMW5JSHlvWVZpVlpjX21lOXladS1WTVo3YmVqbkJFRVRHZThHMWVJYVN4Rjk2ZjU5X2htU1h6dFNEcEkxUl9UR1IyeEJlOThaNmpsNGc0eVJyT0FJRG0zQUh2RTNNRFZBRml5ZzhWX1dyUHRqV085aGxCYlgxd0VkQ1N1ZTlyN3VYc05xZ2l5cw?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20260706T084716Z"
     },
     {
       "title": "Sustainable Palm Oil Production Key to India's Long-Term Edible Oil Security - RuralVoice",
@@ -115,13 +108,6 @@
       "seendate": "20260703T075037Z"
     },
     {
-      "title": "India’s Palm Oil Imports Hit A 14-Month Low In June - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa19UZ1NXZ3daOWt5UGFFQU1SOENNUWRDZE5WbjhwZWpRV1hpZi04andXTlBoclJ0M0pqRHBjX1p1VHFOQ3VGTklEdG9SQUtXZGZXWUxUWDRqWGh1Q2lwMklrOXRrR3NiRW12aVBZaVM5NnIyMkVPaFhkZFZ6UGF2TTVSOXVIUQ?oc=5",
-      "domain": "Finimize",
-      "topic": "Palm oil",
-      "seendate": "20260702T113233Z"
-    },
-    {
       "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORXZjdk5tbmRjVkRiS0c3aUY4ZmJVWUFEdWYxbFg5cVRPZmFsSkh2LS1QSmlNNmt6Q1VGdVFUaG9HM0Q5SGVZay1RQldZZk5EVUNuZXdrT0ZEd1NScHprdWo3SDE4RXd2cy1Bc0s0M1llSVZiV0VNVHVDMTN6clkxMFhSaTJXQjJRNVRYV2ZFLVZBaVloWGVsQkd6anlSVnltUGhBTi1EWmRpeVgzcGlyczVIQU5qbVN5bHQ5RjR2aHNvbTR1UDFpVHo3T2ZvRGpRUjY4T3hUUGJWSWhhLXhNNjhXOC1LbkMwZFJBVVNqeGs5d9IB9wFBVV95cUxOTFlfWFIwM3Q1Y3hZblMxZkR2VEVUNXM5UDdfOFBmUDBUZzM3NFN3TFRvLUpwcFROV2dDM1lIRTV2MmNzZ3BVZmRZV3RLNGlDdnlwcjk3UXBjNGg2MzdBSWF3ZVd3NnBHNmhBeXU0NHhoOW9pWEZYZmc4V3k4aFJiVmlXeWREQ2Eyd0RzNTdrcThFV1NUUElvNmNDc0JOZy03aHd4RUdGQmlpZFF0WFBlS3o2Q1p1OV92WGlfMDM2MkpZZndoSDJDU1h2NV9neHN1VlRvcmtjOGo3SmJNYWVlN3ktTzdCM1d2TVdTeTBnZlhLa2lPTmp3?oc=5",
       "domain": "The Economic Times",
@@ -129,18 +115,25 @@
       "seendate": "20260702T092919Z"
     },
     {
-      "title": "India's Palm Oil Imports Hit 14-Month Low Amid Subdued Demand - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTJrM2dkamlkNG9UZnpVMEl0YktINTFhelpqOXlCUkxGeXQ0STB5YVpKcVdNOVVHRFNsZG5YWHFydVRRMUpYQmFLME83eXhPQ2liZWZPeS16WXhXUWtiUVdWWFN3aHBlbnhwNEdNTm9JOEpVU0NFTk50VVpJWTB5blBBTFB3YU9CX2ZLWXFSN0IzeUNZU1pXc2oxaC1kMDhZd3gzZ0tZQktZM19faVJpQUFuZDXSAboBQVVfeXFMTTBrcmVpOHJKV0lCUGdkcU1HemtWUFNpbFBfWTlCa2N4UWU3NzVDUG9SV3JQYzdBQ3NLeUdmeHRTYlROcjhpVDg5VkVqVlVkdVV1aUdxMVFaYTd0Q2VVY1JZMDFrODhSX25aYjBhQXJKcG5EcE9VYXdHY3hraVhQeVVDYW9Yd1NxQk42OEhXcTdtSXh1RldQTmxZaUIwalZsWF9xR0Vmam5idW41T2tDb0JseFVpcGE5cWJn?oc=5",
-      "domain": "Devdiscourse",
-      "topic": "Palm oil",
-      "seendate": "20260702T092308Z"
-    },
-    {
       "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNWQyZzhnSjRUOUJxMTVmRm4yeHNNUUs0ZXVPbGdXVlktRUUzVk5mN3lEcFFXUW94Y0pzbjdBWHBzXzBsb2JWZ1czeU16eGdpSDdWMjFnelhYSUI4bDlYV29hcS0xS1Jqc3Ryc3NCdW1EenNCcDFlZU9vQ19JV0JzRERqOGpEWWFjX0k0LXlJaTY0ejR4STdlUWs2anBTQjBkTTlRTDNaR3phY3UyaXUtdS1CcG5ldllLYVpCcVM3N3RZdVJOMmFZcVpPXzdLaWlYRjZXb01SVTZVbWZ6SktmZ2RvUzQ?oc=5",
       "domain": "TradingView",
       "topic": "Palm oil",
       "seendate": "20260702T092152Z"
+    },
+    {
+      "title": "Palm Oil Climbs on Higher Exports and Indian Demand Expectations - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW85M2pRTWtfWmI2clBvZkpaai1BZEpXS3R2dU9XYnpWSktRUE1mTHVqM0R6NERzemMzb0J0N256RXE0UVJMcWlNVEVaTl9MVmQ4MDRMY1BoLWxkRVBFdlpqZlRfRGhhTlQ5UHRCazkxNEExbGJEN05EcmEyZU1WQnZoTVNWd1pJYWd5dk9LMzI2dzRjdGVyeFQ3OHZKblVZWkNMZk5Ha1NSQzYxQ0huR3Z0c3RCdw?oc=5",
+      "domain": "Bloomberg.com",
+      "topic": "Palm oil",
+      "seendate": "20260625T070000Z"
+    },
+    {
+      "title": "Explained: Why Petrol Prices in India Don't Follow Crude's Trajectory - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFoZkhnVmtzaWRTVXZ0R205TVR2NXRoQnRZdDhTSDMyM2JaTXFYTEpSR0dUYVZVLXE1ajctVDU4eTZCTGwxOWlRamFpV2x6LXYzbS1adzlsT3dQbGdxbEdFZXpveFU5VVRBV25SUjQyRjdnMjV6UU5PY1lfUzJKeUhYb0t4TlF4cFhYc0VFSUdXaE9FZmxIZ0sxb0d2TkhBT1VMYWs3MFliTDFfMmRxSGY5MWNQUXZFUEpGQ3VsVml4QjJaMzZVOHlMV2oweDdjamlV0gHbAUFVX3lxTFBSZXp1Zlh1dG5SQnRpY3FsYk16S01iVzkxV0xTck1SNm9UUTFsOGdpa3VkWGlZdlF1dklLYjVsbnV4dEJsY1BkTHp4S3RBYks3OHlBa1BjV3Y5dmxOU1BFa0xkeDZlS0Z5NTIxSzdiLWRUXzM2M1JxRTlEOEJHbVVzRUs0WWZJWms0cjFhd3lXZlZUejJYMVB5WkIwLWozYzRjQnBJSkg2bTNLcEg2MDR1dTZLOHJaV2tWSEI2U1NBVTRKdFZRUG0yaXZrUE5Gdk5RNjBFNF9DTnJWVQ?oc=5",
+      "domain": "NDTV",
+      "topic": "Fuel",
+      "seendate": "20260623T070000Z"
     },
     {
       "title": "As war pressures ebb, edible oil prices may ease 10% ahead of the festive season - livemint.com",
@@ -160,13 +153,6 @@
       "title": "Edible oil imports rise 6.7% in May, higher soyabean oil shipments drive growth - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObUdyRXl2bHRfNnBrbWZlUngzbUhyYTd1NG01bzdIaXFTSTVNc0tvcXZKblVyMm05Yl9PalNhNXE0WWJKZDZZRFhRcHItZzdTRm1jYWRuN0dTSDlSTm1fNVF1VmQ3azU3WG1LTkFrMVdkNFVqMWltek9DVjdEQkU0WWRrT2dUNm1xMWlHcEhHNmVHejUwSDZQWkhTRHdpUUdaaUQ0S1dPU25zYVZKNDFCb0dka0ZSeHdCMUhsTFpISXBOMFZiNEk4UElHc1Fpdy1QSG83N3FacG9zMGNJWnQ0QjFkTEVPSVNTSzNnLUw4TUFPSVNWNmfSAfsBQVVfeXFMTVJ6Nzhyd3ZfanNGRUlFdDZBeldBY0RlUHBOa1ZIaUJmNHZpVUkxWWZ5Z1BESjF4SHZOQmVUTXMwWkNqUXhWOURxVjU3N09kZmNlRXBtODg4OXBGNTAxY2U2SXdkMDhaQnFMM1JKODNPYkJxM0NKV19vUWVudEdWZEIwOXNjRGJ5VE9fUDVxNWoxaDNPUElYMUV5SGNKckNXQTJHR2pXWkR5WGduMjhmUlAycEE3OWhzWjZmbWZUVkxrdHc1blpnVG9GSGd0TjdaYURVYlBxZmFFRnM5ZWRGM2N0N3YtcXlFSWkyYmdWa1RkR1VFaWRKYmpmQjQ?oc=5",
       "domain": "The Times of India",
-      "topic": "Edible oil",
-      "seendate": "20260612T070000Z"
-    },
-    {
-      "title": "India's edible oil imports rise 6.7% in May to 1.3 mn tonnes: Industry body - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTl3Y000UkJBZTZUbkdxWk5WWWZtS0JWeVBlcHpZQ3lRVTNGbjJVWWR5Q1FoUUdVeXlaUmNlamVVeW5ibDd0ak1pNDJ2ZVJQdHVyVmo3RFVVWWJHMmlsRnZMOTBXSTRud1N1b3BpeGgwZzY1THNyOW5MNUgyUl9hM01ydHZUU25UR0U4Tnd0YmVXZzZZM01vYlJmYk1hb21vd2RvT3oyOVpqSlRWc3FMRExhLUV2MGpyZVZCektlX1FNR3lmWVB5MG9jeHBsX012bTA1Nkp6d9IB3AFBVV95cUxQLWx1YTkyOHBQQzZkdnFWM1l4Ml9MVEZ6YjUxWXlfdzk4ZVBybDlON3VMcGllOE5QZklsczRxU3dDV0JqQVd1WGN2MHFzT0RaLVJzc2g0bmprRGFsdWluQWUwWTVZbmtXVDd6cVFqMzV6RWNXbHQ3bWtjb0VtMDVUdjMzWGJhYlFRR3JvUkRzT19MVmtuOElIQjBLN1ZBQVRGbUdwVXZMaVY1YTZ2NUpMMmxYLTlOd0N6TlpYSWdEdkluSmhGczdFZEt3M2lhZENKTmFEQVVSS1NkdDV6?oc=5",
-      "domain": "Business Standard",
       "topic": "Edible oil",
       "seendate": "20260612T070000Z"
     },
@@ -239,6 +225,20 @@
       "domain": "orfonline.org",
       "topic": "Edible oil",
       "seendate": "20260426T070000Z"
+    },
+    {
+      "title": "India's March palm oil imports fall 19% to three-month low - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0puaUlkUE5QNEhTbGVfRDBsQ2RxeUgxVlhGcElQT3hLR1RkSVA3QTU1d0JIUzgyYUh4eTliM0ctMkp3ckM4dDhFcEI5d194TlRKM084dlJ2dWhKNHZOZDhzQU1sanFHMlJ3VTc5cV9VVzQyVi1rb1RDRGJTRHlaWDFMbFdTV0s0VUpmWnB3S3ZaZFZPMHRZSnRRb3hudFBoNzlV?oc=5",
+      "domain": "Reuters",
+      "topic": "Palm oil",
+      "seendate": "20260413T070000Z"
+    },
+    {
+      "title": "Rising cooking oil prices strain household budgets, hit eateries in Tiruchi - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFdLQTE5bV8tZ25BNDZ5WU4wZnVKeXRLLWViQzV6MUVkQ2taVE82RjA2LUVyUHFjWlBWX3hsclJjMTZ3dWYtaVFfVkpfeUQwRkVrSlpnbDlpcUlCMmYxbmt2VlVmcmdQRFF3ZDNjZ2haU2tFMk5PY2hoR3UwQW1oZU5vVjVKTGp0MnFmYlVCQ05yUDRPUGU4ZDBpZmZ3aXotUnkyY0VQZ0ZFemZNSFEwVDZyOHZtazhXUTFOMF9naXV5SEdPaUNsSG5INFpneEgtTXk0bVZxOU9HOXh5RTdN0gHmAUFVX3lxTE4zR3FRaXk3NXFSRnR0eG93QlFrN3hIVlRvdXh0M3h4a252OVNBSGJoVW9faTEyRHJDeXR3T1pqcTBKRnk2ZURtSlk5X0U2TVJRb2w1djRXblNQTTNUNGc2dU1PX0ZsQ0lCUl8wbURaUGU1N0tzb1RWT3l5eEtGLTBacVliT3pzNVRmWHRGRWlDNG1RVDRlSng4dUlHT0Y4YlQwd0NuZUJtVVVadU5za2VLOEc5Y1RYRVR1ang4RFB3NURxMzg3cU9fN01vd1hmX0szbkMwS2s5Um85anFXaFRjNTgtVjR3?oc=5",
+      "domain": "The Hindu",
+      "topic": "Edible oil",
+      "seendate": "20260318T070000Z"
     }
   ],
   "alerts": []
