@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T12:26:13.739608+00:00",
+  "updated": "2026-07-09T19:08:36.563080+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,13 +23,41 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.56,
-      "change_pct": 0.62,
+      "price": 95.39,
+      "change_pct": -0.18,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "FM Nirmala Sitharaman Assures No Fuel Price Hike, Dismisses Lockdown Rumours | Akashvani News - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUNSSVZkT291SUp2dWFsWVpqV3o2MGtkTXEzcHFXMUZZRW5KN19JaHNubXVzOW9HOWEweTg3QzBpNUtKVW9qcGVwTnlIZDRKcWpYS3BlUUEtMHduYXdoaWlockVQMHJTZlBvZkdXcGRmWWhTdExEcGlvV0NwYkM1bjBoUjVsTFZaMWprTnFpSFd5b3dPZEVPWk1xZnZsTjF5OTI0?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260709T181305Z"
+    },
+    {
+      "title": "'Petrol price should be reduced to Rs 82 per litre'; Centre helping oil companies earn excessive profits, says AAP - Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmNrMUFDMjdETEd1VUlCMmNaY3dVMVZqLTRJRGlLV0dVcnAySGZsVUk3NFJvZnpLelhzT1QtaTg1ZlRFcmVjRkRMVXA2WlQyMmhBWGlkQXdzRmNNV3FMR1FPM1RueUttek5ZVW0yaUV0amFkODI2MWpWamJvemFJT3dydGVtUllfQkhIVFYtV05uX2MtaUJSVjRXaWxZS213ZUsweXJ5bHdiV2xWd2tTZHBZbC1YeVVZOUpqbWlXRUNEeF9PT3c?oc=5",
+      "domain": "Kerala Kaumudi",
+      "topic": "Fuel",
+      "seendate": "20260709T160603Z"
+    },
+    {
+      "title": "'₹82 Petrol, ₹70 E20': Kejriwal urges centre to cut fuel prices after questioning carmakers on E20 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUlBVE56dlZ4R3VFMW52SHA2eGN2RTU4ZHd2b2pTdUM5OWE1ZWpqdF9vUzJhczB4bnFxUUVvSUJqazF5aUNCdFZvZWZoelhBWjRwNEtuOGFvVTc3bktJbmR5MHNQVk9zbFE0dGQ3dnVydlZEY1NGRGtzS0kwbHEzdDRqMGp1M1UxZDlJTDJJYnBCQnRNMl9XMWwyY2txYzJ4X180RFR5TEpFbjM4VmVHMl9OQ0VGRV9Sa2NuVXFOWFhaYzUtZktMQXlSdmxwa1lCN1psOGdIQUFYMkNPR01LMlY4dnYzdktmX2E40gHwAUFVX3lxTE1MbjhINWlVWUZQZkszRkJPV3JhVXRUM0s1N0tIeTg2VGZ1dE13MW9EallNREI3cnBkazFRV2tiODdiWlN2V0ZGREFaTDJDaHhGendlYmk1Z19LWHkxZTNXRkxoc0hBN0E1NFI2bzFkQVRJTm93TEl4dnZEWktQUzBkdjdleUpWZFpHdVFMdFo3NHRNbWgxUjhWNVlwWDRNNHlNX2RWcF9tamE4N2Q4V25xVmtTczltSkE5N2JkbmJRRnhoVXh4UE11VjBRcnNqRkRGR0pnNjlEWHVOTkRjZlliYkczVTA4YzVfTTFDRnhNTw?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Fuel",
+      "seendate": "20260709T125943Z"
+    },
+    {
+      "title": "'Petrol should cost ₹82, not ₹102': Kejriwal targets Centre over fuel prices and 'illegitimate... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUU1R25HR2pBZE05MW1IdVNHNlRXTktzcGNKT18tN0VEN1ByaDMyM0ZMeFlya1BjYk91QUxXejg3TjlWUEZsb3FGMC1DbXVLNHlGOW02U0dQUTBRS29qMUFOc0JrZWI4UFV5MUtmOGsySVJYN2ZjbFk1eEM2ZVVuX1l4cmxkNS1kS3dfeS1MQnFUSzNuYU5DZ1pLRnZtMExmM0RFT0hkTk5sdWJxZUZBbW0wSjgwWWEyUS1GN0YtYlRCRTVja0IxZ3RQZWZhSE43bDZIdmlMbDIzbVl5Yy1TalJLSdIB6AFBVV95cUxNcEdIbFREVzJTMk1EdjBqbTBybU9XTGE2S0JrVVZYbFQ1RzVLMllQZ19pYWtjY21pOXZRWXhQSGtkcktmWTdja2tsaWZGazc5R1Z5V1RTRVppWmFjMEt4YndtN1NLMlJGVWRiOU9TazJoU2pXT0szOUlZVWhqWlZ6N00yMWV2YTVXOXlwZUpqZEdjdWFHcktEdVBsd2FmemgzYWlLNk0xSF9uU2FrSzVoWE92ZVZpSTNvN0xoazVnYXV5cUp3bFY0N3pSVllCbWhrQXNWSE9aQTkxVllfbFBFRlR5YXF0MEts?oc=5",
+      "domain": "Moneycontrol.com",
+      "topic": "Fuel",
+      "seendate": "20260709T125256Z"
+    },
     {
       "title": "'Centre allowing oil companies to make illegitimate profit': Arvind Kejriwal on fuel prices - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGV4TG9YME9xZ20wQ1IzYWNvM3ZVZk53dDdMUlJrMkkzUUlRbElLamMzeVY4TTJYZzlZU21rTG4tSXBOS3BfN3JsWElrQ09SbVoxQjhmdTJGaXNzYUFSNWg2UEJySHVDOFQ1R1J4NThtMVN5RU96UzRELVBTQnhLVzNrZ293MXhaOW03X1ZxZC1KUV9pWG5TWTEwaW5lU081RW9ld2FUNWVqeDFyOXNZU09BNWpmdkVLU0VTQmctdVVDM2Z6c3h4aHMzVHRFNTI1WkNBRUhjeFRkdlhIN19lU01fTmV1TVNadWNwVNIB8gFBVV95cUxNX1V1THJ3bVVRb1RPWl93TU4xakgwUTdvZS1QMWtlblE2UVpDbGxKM1ZGY0doeEpFblQ3UzVwWkZ2WTFHRUctaEkxYjVrT3E5bThYcDJsXzVxTk44bW14R0p6VXAzY3dLcURlZjlfSDZFak1HUjZmNGp3YlpJNUdaY2xpTjczNUlSM2JaSF94MVZuYm9DalZMTHRwcG1ZM2Zhc1RtQjFzUDdrU0NSd0FnYTlHTVpTY3gzYWZ3WkFoZzE4bnptSUlTREtjek94bUdYSjNUa2dVNkZnalByZWhRQ3MxZVR6QlJnT0ZEZzNQMHF3Zw?oc=5",
@@ -45,13 +73,6 @@
       "seendate": "20260709T120710Z"
     },
     {
-      "title": "Arvind Kejriwal to address media at 4 PM over fuel pricing - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTQ5Ty12b0t5VExjZ0lGNUxMNnVOVVZweU5hU2xfc2t1UWJmVF9LcFdORTc2aWtDbWZDeW5EbFhuNFV4LVFOZ2U2OTFGdzU0V1Q5Wkx5SHU5bEhjZkJqNzFwbXhyNUhUTHZHTllHRFdPdXRPVVpEeVhPZGh5akM0XzBtdGxHZC0taGFlZVFYXy1KWnhSU295TXBBakRDT0x2LXV6RjhiazNERFctQnZVdkZZSENzOFdmRDZMNGwtUTnSAcYBQVVfeXFMUF9QNlh0Q2Q1bHN1MzNYSWUyTFdzTy1oVm5qU0FocFkzSk00cHNENU90MlR4NHBTb05iMmdVOXJwaHU4ZldIelRRSzNKbnlwYllpVUN1T1BBOUdMVUszV0txTl9lY3ZmSWZJeEZIMnpXYXdTNXpwWFJWeU1LYlI5WHNOcnZJV1g1ZWN3QXRMaEJLS0NEQTlzVG0yZm52bmFxVm1jLU9UNV9xQWE1YzFxVEN3TzF3QVRjdGhjZTloa04ycDhiQWRn?oc=5",
-      "domain": "The Economic Times",
-      "topic": "Fuel",
-      "seendate": "20260709T085757Z"
-    },
-    {
       "title": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Brent sustains rally on 9 July - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWFpvVzNSSjJHS1lUZkpKV0pjM1hoRkJ4bU5kbUI2NWhvdDBxRWp6LWw0VXk3dVFYQ0RTNFhIVkgzREczTzVobkNGQUJLdlBzd2d6X2l6TmtEc0F4SnVIajloZjFIMmxYSDg5eGk2bTUtQ1hVY3J5LU96VkcxRDVteGVVN2ZjNmxiRkhaSGdiYkVGX2RJSlp0UGNLRzZSbWNlS0tSVV92UllFOWdtanVsNnlpR3AxZlItY2RlQW9iRGtwZEFSRTJqMnlGN3RQUkNJcUdWYm1KU24yV1pRWlBPNU10VnBZWWg2SmtmUGI2S2hyRlHSAfgBQVVfeXFMUDdTbFp1aHZtYjI1eXFRU18xQXJkYjFKYnhheWxVdWs4dWluR3dvbWZXRDFCd3RDWmlWM3R4M1ExQ2tIVFcweWs0U0s3alJ2WkVmcmJiZGpUb19LbkZuMzBkV3pNYnd6WVJZT2FzV1NtZGV1bzlMR1BGTkUwMzRteTV1aWw1a292c3FvUmtEX2JHSU1ZOXRYVWxEcGlwOFR0QkNKSFNKa256QW5NQld2WU01OVdYcTI3dWhqX0lvUmdiQWNEM0pfd3JGaFNjbDVycUVRWFo4ZlZZczVlaTVvb2dBSkIxZ0NMdkxJZ1VqUmxEaG9lT20zWWk?oc=5",
       "domain": "livemint.com",
@@ -64,13 +85,6 @@
       "domain": "NDTV Profit",
       "topic": "Fuel",
       "seendate": "20260709T011741Z"
-    },
-    {
-      "title": "India is adding biofuels to petrol – but many drivers are unhappy - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5",
-      "domain": "BBC",
-      "topic": "Fuel",
-      "seendate": "20260708T220600Z"
     },
     {
       "title": "Home-cooked thali becomes costlier in June as tomato, edible oil and LPG prices bite - Agro Spectrum India",
@@ -94,25 +108,11 @@
       "seendate": "20260707T084418Z"
     },
     {
-      "title": "India's Fuel Consumption Slips Despite Record Crude Oil Imports - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3pnTS05ek8yMmpBQng0bnRQdTdfdE9hME02eExaYlNkdVFyTFMzZklQb0YyWW44WTkzQjFWSzN5UU5uUzd1cEpwZG1RbzRWWERUM2F1WGhBRTRnYXNhQlVKTVFyQ0hhRDlfZjAzM0tYeWFXd1JQOEdrS0JOWDAwdnFjVDd5YlRJOEozV3haZEhhMDVwVUxyS0k4aUNrQ0tWbGJudURXakk4cGNQdThRX09ieUpYaWtVR2fSAb8BQVVfeXFMT0NndnRWYjFTV09fUWU3YkEwdmZ5U2Nsd2Q3bDQzdE9VLXVsVmY5c1pkQVJxMDJYVC15Mkl0cUNlbzZUeEdOUWhUSnVJbjE3aTVTVHNSSmVvNWoyRFEtWmpXVlBMdEFxZlVIZGJEMzhSNkczcGlaS2phSGNjTnR2RnZleUVFZGdNMElSOXNpNVlxYUh1MjF2NGl4alVxd0xncHFhQVA5V2dpcEk5S2Vvc2F2NFl2QzdYNEh5aDc1N0k?oc=5",
-      "domain": "Crude Oil Prices Today | OilPrice.com",
-      "topic": "Fuel",
-      "seendate": "20260707T054500Z"
-    },
-    {
       "title": "Crude Palm Oil Export Prices Soften, India's Market Stays Firm - ALCHEMPro",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0RhZGFuNXNTUnIzN3RwVUJHc2RlQTRXNlNmdVZwQ1ZOTkl2eE5lQ3ItRjlkaC1qaGVHalE1OUwyM3dIMWh1NmxFRzRJSko5OTRTbVVTaFE3R0plZ2JrMjZYbmFLZ0F3bXAyT1JLVkdyWmlmZnJfQVNlS3l4aWxINW1mSF9QLWxQU29LMmw1cFZJeWh4ZVdHZ0Y0VUpKMkZVOS1pX0lEZ0tEaXY4djRB?oc=5",
       "domain": "ALCHEMPro",
       "topic": "Palm oil",
       "seendate": "20260706T104327Z"
-    },
-    {
-      "title": "Policy, Energy, Climate & Geopolitics To Influence Global Vegetable Oil Industry: IVPA President. - TRIPURA STAR NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUhoaTlObWFCWHJjMThORVEtbEZSVjR6OVVsLWpUdlB1ZTRwVklMWnB1cXF1am82MmRya01CaG1PbTlBMHpZTmduOTQ1RVZ3bHVhWFFWVXZfQVU2RktLTGlfUjk4RFViWTRab3lvNVZkbC1jYnpGM0hxcmZEdkkwTEhGQWc4NHd5NnBmMENnRmlJVk1wTGlCbXpQVzBtNW04VFF5cms2S25xNjJkY1NWNVRmcXV3YjVSZ1RCTlh2N2M5dw?oc=5",
-      "domain": "TRIPURA STAR NEWS",
-      "topic": "Edible oil",
-      "seendate": "20260706T100140Z"
     },
     {
       "title": "Malaysian Palm Oil Futures Rebound on Stronger Edible Oils and Weak Ringgit - ChemAnalyst",
@@ -136,13 +136,6 @@
       "seendate": "20260706T044300Z"
     },
     {
-      "title": "India Keeps Eye on Indonesia’s Tight State Control over Palm Oil Exports - Jakarta Globe",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmxaSzlVQ0tQdGVFb1Q1RHR0aDVaQ2laYmdZYUkwdmpSN2NOTDZuazJtSUhZRUZ4X21fTVpSYVRxNWNIQTFzTzRoZ3JWaHk3Q0FRWm5MQkZfRXI1QUJjR1lEdEdXOUxpZERDZXl2LXBEaEtJbU5OTVNEYzZPS3RqZzZrbUV3ZkZuVjlra0haa3pOM2JDS3c4RjVqTzlqMXJsU0pLeUhEQQ?oc=5",
-      "domain": "Jakarta Globe",
-      "topic": "Palm oil",
-      "seendate": "20260704T022300Z"
-    },
-    {
       "title": "India’s palm oil imports fall to a 14-month low - UkrAgroConsult",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUdCLXMxSHJuRlR5OEFKNmQzdVlvTXJpYXkzclBvZ0E5S3loaWwzSjVYNDRRWHpsLTBpcUhxLXBGdy05b1REYlYzNmRjUDdxeFk5REtHN2dUemVZcTZmb1NuZVpIYlBZbXNWZl91akx3OHlMcnVlaXR3T21jUDVNLTZhM1FKQWpGc0E?oc=5",
       "domain": "UkrAgroConsult",
@@ -162,6 +155,13 @@
       "domain": "TradingView",
       "topic": "Palm oil",
       "seendate": "20260702T092152Z"
+    },
+    {
+      "title": "Delayed soyabean sowing likely to push up edible oil prices - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTG9GYk5HTU9nRzk2Q1FWazZ1ejJfdHRoRHI2VDNQczN1M1JkS2xPSXpPejNhdkpPVE5Ma1ZkTGJpRDJYNXVjT3Y1cFRPVTJiRm9PSWYwaVlKMEtpcTdCTXo2WEgtSXluOEt3Z3lLdHppQUxWSEtsWmhoN2syTHRXaWZ1NUR3ZGFxSXZPWFc3NjU2ZGptbkotcHh5OF9rRnd0QlBVUFN0Rk1GN2VyX0ZqWlRWeVRSSEFwck9wOThZbFhuQ3Q4dnUxNWNGbi1RSEx5ZmJBZNIB2gFBVV95cUxQVUVSOVVaRGNiVzBUb3g1czIwMlpoNTlMaE1jTWM1ekpCRTJGSTFUVTIzc0RzaG1TaXhxUldyOXBpUnU3VVVZWmJEM0lEY1BWWUc1N1hGOHJvNWdPZ3BvNEM3NmJTaUdQUVRyd0FVR3NFWUl1dHhSQXFzRDRacjQzTlFyZWZOSGQ4cW9GbWUzVUpFdFhvVndRX1FpM0VUTlhnVTNlZFhPb0hYM2sweGNuZUJoNVQ1NUJKY2J1cll5RGNMZGtROWxWaFV5c2FNQzUtakxZcFM1RGdvdw?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Edible oil",
+      "seendate": "20260630T070000Z"
     },
     {
       "title": "Palm Oil Climbs on Higher Exports and Indian Demand Expectations - Bloomberg.com",
@@ -206,18 +206,18 @@
       "seendate": "20260612T070000Z"
     },
     {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260524T231817Z"
-    },
-    {
       "title": "Edible Oil On Boil, Monthly Budget In Soup: Food Inflation Hits Households - NDTV",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnNKdi02STBwWUNvYjVia003Mk9Mc0xVNkhOZHhoOXpvazNBb2lqdXhmWXA1RXRTOF9PVVp3TW9PV1ZkSU5KOUU5NklPajRmcEZwXzlXQV9uN1ZQT050Vk1UTG9ncEs3WnJNaEdoQTMydW92X0VWLWRYcVNMbXB1ZGNZNkF5OEM3V19BUEZBVGhTNWpha0RmWjdaT2llLUJKWHE1ODZpNFJDQkZhMm16N0N6bDM2Y2dmUXBrVFVR0gHGAUFVX3lxTFBNeHlieVNXc1R5c0JGZS1PU3ZOMkVfZl9FYXc3bm5BOGVLSmJWdTd2eGdRWWZwOXowZG96M2hzZExFOG5IYU1sSFp4QnJ5Z0lPLXRmZzFDcVNXSVpVUFgtVTBiVjlmSEtRREhSTGFiZEIxTXBzMmw5ZWNiQmkzdHk1NVNKc3NKazVyT212Mk44ajNaSGc4Qkt6T2hfbnY1SExXaG4xX0xnRVB3Zy0wa0t0X0gzMnowWVgwZE5pRlFFX2xIUHYyUQ?oc=5",
       "domain": "NDTV",
       "topic": "Edible oil",
       "seendate": "20260522T070000Z"
+    },
+    {
+      "title": "Palm oil is turning into fuel—and India’s import bill could rise - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0p0NUMxTEVVMVhPTkhVTG9SR0JpRzBobDdnRk1URDgyMWxKZ2ppcXFIcW9Xa3VjTHU2amxpc2pYdWpaOEtKZ2ZiZndmdzNXZFpDZmNJRTN3V2VRemZPN1I0NTNMTG5lYkNJUWxxUDBsNmxMYVFHcjJBa29Oa2N3Tm9SeUx1d3Fza04xa1ZfaUN2aERVdjZvLTN4TDNMdVhLUHZKY1Y1MFNjMXVZVHlMMNIBtgFBVV95cUxOVmtsR3Y3aVducmVzWk9obU5MSkxOSTJETzF4dHltYlJhTHA2NzY0aHFPZDlCSk9jeUFsU1lkUS1LRGZneTRrU3M5LTc0UEJ0QmZWM2d5Sm1zVjMxWHNuTDJmZnFTUnVaRm94R21CV2hEVlN1bzc4T2Vtekt6NWpQVDR1VGZIeFBzc0l2RVQwNkJVUElWSnJWUkNuUEhNd3h3ZzdtT3ZUdUw5MXFOVEpSeDlYTzJ1dw?oc=5",
+      "domain": "livemint.com",
+      "topic": "Palm oil",
+      "seendate": "20260518T070000Z"
     },
     {
       "title": "Iran war, edible oil price shock, weak rupee & monsoon could hit India middle-class hard in FY27 - ThePrint",
