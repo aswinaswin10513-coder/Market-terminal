@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T12:21:39.617850+00:00",
+  "updated": "2026-07-13T18:51:00.238468+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,19 +23,40 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.34,
-      "change_pct": -0.05,
+      "price": 95.62,
+      "change_pct": 0.29,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
     {
+      "title": "Retail inflation rises to 4.38% in June as fuel costs lift food prices - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG9xMTAwZHlFd21WeDl1bFRHX3A0dUZKelJWam5reTFQTUc2RmZ6bXBuTTNUZ2I0WUI3UXVvTVMzZk53RXFYeDBUTnhHQXRHckd0NkFPLThEYmFOd1VZOWxPeTdqMVJRc0JsSzhEcTZVOThxTnNvZmpVRHVLbENTY1dJOVJPcDdMVXJqLWlldFc1dFV3Vk9XZUdYRDRpNWZvcDFvUnYwM3l3LVY2WEhSNTB4el9JTzgyTjFqb0U3THBWM2RaMDJMaGlUQ2dLUVFGR1HSAdcBQVVfeXFMT1dKTmVlVXBjQkhhT25SakFuTEVQcVEyQTNfMnZPUjRoOVU0Z1gxYWVOdG95MXFYWEhnQWlFb3BTQVBnRlNuQVJEekJFY25CYWhZWkc2NDN2bnlBZ2pwOVZqVU0tTWdNMlB6eFZLVGRwZHVVQlZRZHNXLVZjWWtKTDh3QTVrRGJMUkVkWE5jcldKUXRBeHk2NmVXQXRjQVpxYWZMQjhnMFJhUXIteGQ0X1hrcjJ0a2lQWGZMc3FBZ3NURWQ2LXRwZmloOEFkd25sOTVhcldWazA?oc=5",
+      "domain": "Business Standard",
+      "topic": "Fuel",
+      "seendate": "20260713T142833Z"
+    },
+    {
+      "title": "Fuel price hikes, weak rains show impact as inflation crossed 4% in June after 16 months - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZC1xeHgtbUVUNE9ucUhpRWp3ZVRObk9rYWh0VG8wNGlIclZFai1WaGNrTWxBeHZGS19pbzlpMTFEd1Y2aTNXbWFsdDliZFoyYXhXLUhuTWdrdXh6YldUcXUzekNqdk5mMXYwckd6akw5emMyZW9KUG55UzRZTldiQnZkY3lScF8yQ0o0T2x6WVg2QnRrVU5SdjdQa2ZoZGJveHYySjJ6RTdndzE2elNldjJZQzZGU2pONEZFSDF1T2Fqc2dmQ0hQOFp0RDk1N2PSAdYBQVVfeXFMUG9NX3AwZFA2bWx2VTBKSnZ0RWthR2dUT0luYnlGdGUtWkRoVUtzYmJxbDBFTHF0SWZFWjBBRnhsY2ZLWFhpOVdPX0ZxdlV2WWNQenV2Tm85a3Q2ZEJCNVFFY1dKZG5IbmdqXzdzMDhqeE1qYlFEOVJTS3lrcHhlTHJCWW0zNXQtcV92c0VkdEowTjFraHpVOElGQkZTNzU1a0FEaC02MXk3MEpvV0Y3NkpLNThSbzVGVjhHMll0RUdweGZiSWZUNmlNVGUzRGhmNG5MMnNRdw?oc=5",
+      "domain": "The Indian Express",
+      "topic": "Fuel",
+      "seendate": "20260713T112419Z"
+    },
+    {
       "title": "India Retail Inflation Rises to 4.38% in June as Food and Fuel Prices Drive Pressure - India Infoline",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUdTWFhsT3BZb2FuLURBcmFWX0tnQkg2YXVEWTJTUnYybHkyOWtQWTNkdEZQZ1phek5EdTdpS3BvekNNVTdDQVlpUmhpdmFMSkJPNmNCbHN2RkJvRmsweVc5bFhzejdXVUVTX0twN3RoelQySUl0V2hrQThxSVFweXFwZ2NNYjB0NlZlWUdUR09iTnVQZzlyMXJGQnRQX21RbGJmTUNteEEtZU84ZFJoT1RrbEMwNEptaHdjYnkzSm5PbmVt?oc=5",
       "domain": "India Infoline",
       "topic": "Fuel",
       "seendate": "20260713T111233Z"
+    },
+    {
+      "title": "Government reduces central excise duty on Petrol and Diesel by 10 rupees per liter - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzVjZFBGNzUwQ3NzQUFvZThTVHZET0VDazJSVW0xLVduMU1Eb0ZfT3J4UjNZd2pOUXVVaEpoWXNXaERDTmhjemN4VGhzc2tkZl9HeV9oTU14NlVsdDV4eUJTOEktemRqNm94cFY0cmx0NXlZUnV5V3g0MDE0QUNFLXVWS3dxel80b1dzeHlqREo5M2wwTGNHd1Fhc1hVR1NVUm9EYlJGSlJOempwVGJz?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260713T104448Z"
     },
     {
       "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts - CNBC",
@@ -59,25 +80,11 @@
       "seendate": "20260713T015235Z"
     },
     {
-      "title": "Government reduces central excise duty on Petrol and Diesel by 10 rupees per liter - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzVjZFBGNzUwQ3NzQUFvZThTVHZET0VDazJSVW0xLVduMU1Eb0ZfT3J4UjNZd2pOUXVVaEpoWXNXaERDTmhjemN4VGhzc2tkZl9HeV9oTU14NlVsdDV4eUJTOEktemRqNm94cFY0cmx0NXlZUnV5V3g0MDE0QUNFLXVWS3dxel80b1dzeHlqREo5M2wwTGNHd1Fhc1hVR1NVUm9EYlJGSlJOempwVGJz?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260712T221704Z"
-    },
-    {
       "title": "Retail prices of petrol & diesel remain unchanged for general public: Indian Oil Corporation Ltd. - News On AIR",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVlzRnV6RkpfT0tQQzNMZHNnQmRManRLZWhOR1YzdkQzaVNTdUF3NnJrVVhKelBJalFaRmVVcE5yeVVPQm43cWhPMHdrd2w5dS1ncDBGTXdGWE4yY2hBbG1rTnpDZjB1bGVlX0VYTDVsOWZSUi1iSVNzWVMtNUltczNsSlNYak5lckhVQzJjQUJHbWRwQWc1T2MwczBVd3VNTVNLbE8zbFF4akw0MEFMejFUUGd1dGx5ekFV?oc=5",
       "domain": "News On AIR",
       "topic": "Fuel",
       "seendate": "20260712T204826Z"
-    },
-    {
-      "title": "​Insular incentive: On ethanol-blended fuel and the Indian consumer - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckhBVnNUYzdVVXF2R0x0YnNHOTRjLTFyM0o5ZHBVaUxROEJyZnBmdk42MXFHcGExb0tyWmF3d1RXcjVWVW1Oazl3a2hQN0NZNUYwWHM3YVFQNjItSmRfckZmbzRJUFUtaFdnZmZEODEyYlVDOERyT2ExN2gtb0hTWVBvb1A4akJyNm10STF2YUFQaEJoRS1wUnBUZkxOME55eWprM05hd2V6R2V6SUNEVWc0Wk51MW1SS3FOMEhuZUM2NVE5SnRn0gHOAUFVX3lxTE5YdGI4NndJV3JudmpYOHFCOFdYZnRCRks5b29JTVFJZzJaQTNZQjBlZFJndm9FVnFFeUw2aVdES2ZfSXhpei14N1hJMUROV3NrZUlpOHRXektRVjhlaDBIOUJqUkhCeGxUWnIybThCMVJod0h0WlkyVGFNQ2VKRV82blRCY3NUeDNYSVFKUURaVG9VcDluaGpEU3l2ajJJTjJRWG5BZFZjQ2tMV0Y0dWVBV1E4czVZQWFrYWRZRnpoNWlsemZpQzk0dWdDN2pB?oc=5",
-      "domain": "The Hindu",
-      "topic": "Fuel",
-      "seendate": "20260712T184000Z"
     },
     {
       "title": "Standard pack sizes for edible oils: India weighs Legal Metrology packaging rules - Goodreturns",
@@ -87,18 +94,18 @@
       "seendate": "20260711T215649Z"
     },
     {
-      "title": "Petrol and diesel prices today, 11 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as crude price softens - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2xFUVMzMmZGOWhqckpzRmJUMm16N21oUzVFd3E2TjhJRnJWREp4OGgwWW1KaEYtdDltdVVhbzNoeTB6dVVUbUk0cG5Vdm96UTRtdE5EcTZzaC1UMmRxd0QzQlg1WFE4Wnp2anVuYTlLZlZYV1NMUmRmV2dBODkzYmEtNWtES3p6Q3VTbHhXQl9VUk9BX2JZODEzbWpUYVVycnhWaFBBVUI1NG1nYWlsUEF2TmxyS0dBbUVaNXhjZGdmZXFVUkh0Qi1LU210SkY1djVtanlza1dBeDJLdWhYQXBsd0hqSjBVcW9wa3NBTWRmWEZC0gH6AUFVX3lxTE5hM1BhOXRMTjZrX254bVlXWGxDa1N3N1plQi1UY19jZ2lrRldmTnR2dFM1MjQ0MUxuOUs1TTB3Nm51WE5pR1hhbDNIZW9oS3ZyMmNUSEUxZ1hoMDFEZlNNU2MwOEd6RVN2ckRCR0dpZl8xZVFnc1pZdWhlR2pITTg4eFU0V1dnQ2hDOGlKY1dqZjBUM3FUSHRRSUlyTkpaNGwzcXMyNFMwc2FCejR2YW9oM0JvUXZySE1wejNTLWlMTDJhRmo5ZDkwcVhRZmUyWW9IUmlJbW90QjZUZWJPZ3o3c19ramdpazltQWw4WERubEZzb08tcTZzS2c?oc=5",
-      "domain": "livemint.com",
-      "topic": "Fuel",
-      "seendate": "20260711T023305Z"
-    },
-    {
       "title": "War Shadow Over Tourism As Fuel Price Hike Pushes Up Airfares - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbk1LMDdlSTJOQkhqOWNOSnFwVzNCZktJUC1UTldCODJ6UHRua0pEOFRHc1V6Ti10RV9tN2NSa2JEMlgwQWdzb25PYVF2eWM0M3d3ZmRvRHhJX0Y4ZDJEUW5aeDc5S19iM0xMZGZqZmFSc1A1aDJmbFRzTFpuNWZjU3NGWFVLbWxSUE91dFZaZEFoSmlPcXhIY0JtSjFTZFl6N2FjM0tYMVBpajhUbjcyOW5pUXpZaldqMXl3dXpNU3VsVG44aThfRnFWYndyNWd1cnfSAdcBQVVfeXFMTUlLczR4aXBhdUliak9mNVdRTVZWSDFTaHRwQWQ1SlZzbjItWWpwUzRrd0R2Wkd0WGV2cnEwQlc4ZDZCU1BHTUp5LUllc3FsSnc2TDNFOFdzblpqYmNkNEtIMXB2alFWeFlrUWtvVE1GN01FWkd6T1g3bVRwa3NnVHZ6VlU3WWdEY3QyUHhjS1A0MDBremx6ZWFSbm1objRFMHlLc3BpQkNlUUt3VENLOWlURVl4d1FYSFFUMTFMeVpYZ0NKNXExZi1rV09wOWhTdTRpUXM3b0E?oc=5",
       "domain": "The Times of India",
       "topic": "Fuel",
       "seendate": "20260710T183000Z"
+    },
+    {
+      "title": "Vegetables, pulses, cereals: How a weak monsoon could hit your food bill - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1AwSzd4V3htdEpKdEtHQ3RvTkFsUkxZcTByNEQwa1ZMSnJIaW9VTlpCZW9MRl9UVUVuTXVtdEhZaU83aEgydTRsWG0ySUMxdUJWdHR6M1NGWFYyUlhOc1k3b2RrN0I1VkFNWF9hS1dIMHJ3LVNLLVlPX2ItczlubzlyblpMR0l1V0NqUTVGYlVBT05aNHRjaWFhVFhXSGdBRWp0UTBrb3hlcjBicVJDbFZRUzZOUFA4ZU5XcHRhaWJtRDdBM1pZVi1pbmNPcFROa2fSAdcBQVVfeXFMTkNyZ2tDZHhlMTNWX253eG5acXc3OEZnZUlJVHBKSk52U01PR0dwYk5nUklzckpqZFNfZ2VyVlh3QUN0aS1XbVBtZjhVRUVaWDZUOV82N2pnTGhuTDE2eXBwQWNHbnZEYWUxbng3cDdHZTV6QVNhekozcVlJNGlDVEdxNEU1UURuZUNzNTRNTmF6cUhsNnRBeDcwX2I3U0gyYmpYbzJMYUxjUzFZMmxIeFBTcndKeFROaEIxNTBxbHo4UjcwcFMwbFJNQUZhbkxVczktWS1XYTQ?oc=5",
+      "domain": "Business Standard",
+      "topic": "Edible oil",
+      "seendate": "20260710T055100Z"
     },
     {
       "title": "Policy Picks: Indonesia palm oil, India food safety and UAE Nutri-Mark - FoodNavigator.com",
@@ -136,25 +143,11 @@
       "seendate": "20260706T084716Z"
     },
     {
-      "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORXZjdk5tbmRjVkRiS0c3aUY4ZmJVWUFEdWYxbFg5cVRPZmFsSkh2LS1QSmlNNmt6Q1VGdVFUaG9HM0Q5SGVZay1RQldZZk5EVUNuZXdrT0ZEd1NScHprdWo3SDE4RXd2cy1Bc0s0M1llSVZiV0VNVHVDMTN6clkxMFhSaTJXQjJRNVRYV2ZFLVZBaVloWGVsQkd6anlSVnltUGhBTi1EWmRpeVgzcGlyczVIQU5qbVN5bHQ5RjR2aHNvbTR1UDFpVHo3T2ZvRGpRUjY4T3hUUGJWSWhhLXhNNjhXOC1LbkMwZFJBVVNqeGs5d9IB9wFBVV95cUxOTFlfWFIwM3Q1Y3hZblMxZkR2VEVUNXM5UDdfOFBmUDBUZzM3NFN3TFRvLUpwcFROV2dDM1lIRTV2MmNzZ3BVZmRZV3RLNGlDdnlwcjk3UXBjNGg2MzdBSWF3ZVd3NnBHNmhBeXU0NHhoOW9pWEZYZmc4V3k4aFJiVmlXeWREQ2Eyd0RzNTdrcThFV1NUUElvNmNDc0JOZy03aHd4RUdGQmlpZFF0WFBlS3o2Q1p1OV92WGlfMDM2MkpZZndoSDJDU1h2NV9neHN1VlRvcmtjOGo3SmJNYWVlN3ktTzdCM1d2TVdTeTBnZlhLa2lPTmp3?oc=5",
-      "domain": "The Economic Times",
-      "topic": "Palm oil",
-      "seendate": "20260702T070000Z"
-    },
-    {
       "title": "Delayed soyabean sowing likely to push up edible oil prices - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTG9GYk5HTU9nRzk2Q1FWazZ1ejJfdHRoRHI2VDNQczN1M1JkS2xPSXpPejNhdkpPVE5Ma1ZkTGJpRDJYNXVjT3Y1cFRPVTJiRm9PSWYwaVlKMEtpcTdCTXo2WEgtSXluOEt3Z3lLdHppQUxWSEtsWmhoN2syTHRXaWZ1NUR3ZGFxSXZPWFc3NjU2ZGptbkotcHh5OF9rRnd0QlBVUFN0Rk1GN2VyX0ZqWlRWeVRSSEFwck9wOThZbFhuQ3Q4dnUxNWNGbi1RSEx5ZmJBZNIB2gFBVV95cUxQVUVSOVVaRGNiVzBUb3g1czIwMlpoNTlMaE1jTWM1ekpCRTJGSTFUVTIzc0RzaG1TaXhxUldyOXBpUnU3VVVZWmJEM0lEY1BWWUc1N1hGOHJvNWdPZ3BvNEM3NmJTaUdQUVRyd0FVR3NFWUl1dHhSQXFzRDRacjQzTlFyZWZOSGQ4cW9GbWUzVUpFdFhvVndRX1FpM0VUTlhnVTNlZFhPb0hYM2sweGNuZUJoNVQ1NUJKY2J1cll5RGNMZGtROWxWaFV5c2FNQzUtakxZcFM1RGdvdw?oc=5",
       "domain": "The Economic Times",
       "topic": "Edible oil",
       "seendate": "20260630T070000Z"
-    },
-    {
-      "title": "Understanding South Asia Soybean Oil (Fastmarkets) Futures - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0RNSEZ1eWpnajd2MDd5OGxPa1ZVYnFWSXJOMU04NU01eThnQzI0N2hqZTd6MHFXaGVyaG5JU0xzM3FQTmxLOWVjdHhRT1VfRDFTSzRJZklQYk5fSU1fVmJXRXZTLXA5bnRWRWF0U1E4elgxb05UOThqbVFlQXBwVlBGTi0xM1lhLU15VERCZUVIWGp1VzIxdlU0eUJGNFAwVVE?oc=5",
-      "domain": "CME Group",
-      "topic": "Edible oil",
-      "seendate": "20260625T070000Z"
     },
     {
       "title": "As war pressures ebb, edible oil prices may ease 10% ahead of the festive season - livemint.com",
@@ -183,6 +176,13 @@
       "domain": "Oils & Fats International",
       "topic": "Palm oil",
       "seendate": "20260603T070000Z"
+    },
+    {
+      "title": "Indian refiners shift to soyoil in May as palm oil loses price advantage - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN3NfZ2NueGlfS1REWTM5dU1aYzNxWmJFUjQ0NU9ZUVpnQmRPSDhEcTRNZ1dxU3B1cFBabF81aUdaYUFURU9DRVU5a0RQVklxdG55aHM5RVl4YklWa0FqQlVfdEdzQVpNX2VPT0RDQkJXaXNwUG1nMG0yenJsU1cyLTR3WjZrOURBYktVdkIyWUI5QjR6NW5sY3k1TnpPcnFDRml0VHY3ai1vYWs4TDlhWUJ3Z3VhWTVhc0FYTlZhRkE3Zm9XaHZMV01sUzZnTG1uREttMVlQeGJ2STl5eWM3U1hjeEtjQdIB6wFBVV95cUxPTk1RYnVyNUg2Q2ZCUGZDazZMa3Bnb0RlZ3ZieGRvdkNMQXRHYUVRNUFZSW1OMEpWcW1uRG5vZTZmQ3NLSGZBbnB1OWZmdzNycWdDTjEwWWFIc1lUUTVpZVp3b093Z1IwX1Mzd0p3Mml3M1RhYzhqMkJkNnhhWkFZVGRlOFBKT3BSMDJfTjFzRnRRQkNWWHhxTkx1X09oX3MyZExzSkhHbGk0MW5iTU5nTXBZMVRVZm1BbUx2RG5MVE9rTWV4U3hTaUtraXVjYnl0OWxTNGdCdVB1SWdHVlhEYmktTWdHNzd1Z284?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Palm oil",
+      "seendate": "20260602T070000Z"
     },
     {
       "title": "Edible Oil On Boil, Monthly Budget In Soup: Food Inflation Hits Households - NDTV",
