@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T13:24:41.853642+00:00",
+  "updated": "2026-07-27T18:15:14.472366+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,13 +23,20 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": null,
-      "change_pct": null,
+      "price": 95.92,
+      "change_pct": -0.66,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "Indian CV Alternate Fuel Penetration to Hit 40-45% by FY30: ICRA - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmVOVHNUZHBiWU4xbFlGSmduR2kyN1F0Ull5RVd1dlYtdjY1SzJ0TmxJd3RHMzNXSDczR2lpLUR2OEdhVHkxS0NxcVl3elJLNzItRzJDd0tpTjdMVF95bm5wRGNveU5mVWI3bmw1eXRzclZuVnMtNGw0dlE3bFRDd2ZTVEdtRmtFb3g1cnhvcWFwLVdENGZqLUotZ3ROVUlkSGRNajNZS1lvQS0tOEdzbGRqbXXSAboBQVVfeXFMTzlPQmMzRU4wZ0NHRzdwckdodmUzNHpvTzB6WS1mRm1UaVZKcFgwRE5xVERkd1phZ3c3dzFWLS12ekRscEJBY2xrdGFmV2YtbUpSQnlyMms0U2EzcWJ6ckxkR3N5U0hmLVhEZFIxNGt0d1VubzZ1TTljX0ZWMG93d3ltM2xlZzVFdWEwaXl1S2VpS2R3V0d3LUY4V0pPZXB5Q2ZXMVd0b1BURHBUOGtMVDkwY2hfTG1mSFBR?oc=5",
+      "domain": "Rediff MoneyWiz",
+      "topic": "Fuel",
+      "seendate": "20260727T130830Z"
+    },
     {
       "title": "Indonesia’s palm oil curbs could open the door for India to step up - Fortune India",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2pwS1N5WnpGTGtRaHVGeTl6TzlYcW1OWmZBblVsWUc3cGtzSkU5cWxHVUhDNlJRTzJkWVM3R2ZtbXVPT3hORVdFSXNUV2tqal9STWhVTVNrUndBTGVrQ000YWQzUTFIVDlPcUlmZDRmY3ZiWDVCN3Y4VTlJLTB1R3VzUl9xblpVNWtyaXlKRF9CaDQ3bnlaWVhtWGVUQV94ZV9MYkhqQnFPbXBDQ0I00gG8AUFVX3lxTE1xWm9rMWRvc0pydVEtUWlwR01OcHlibW80aHJ2ZmVpVmJFZVdfOWpBRklnNGpMQzFta2Yxc3ZUcm9DMDBNTGc2Ul9zX2tpaU9ONGdGVDQ1OWd4czJWUmZPXzZqbUZBbURRNDlJc3JuYW9QMkwyM3F1b0VYMHF0UmthdE9YVGMxMTZKU1NJSC1oQ3hwMlBoRDR2enFsT3pRVDhFekI2bUUtdVRWT2hZTEVUTHdXdFRKTDhmNF9E?oc=5",
@@ -64,13 +71,6 @@
       "domain": "News On AIR",
       "topic": "Fuel",
       "seendate": "20260727T082536Z"
-    },
-    {
-      "title": "Maruti Suzuki targets 9 lakh CNG sales as fuel costs lift demand - Indian Television Dot Com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ21SZEwzZWRtdmhWSklaaTBydDRZcHJ4NWZLVW1xNWx5MkViSUxVcGloOFR0M2VpYl9QSTI1eDBpNDdmSjhNTDZoOV8tMU9vS0MwdjdrbzFEVS1zYXBTRS1BQ1RNU1B5RmhaMHc2VXRaWFV3LXVtdUV1S2pVSGcyYmV4a1A3eHF0V1piNU1qcTYzeHowM19oQ052V1I2M1k?oc=5",
-      "domain": "Indian Television Dot Com",
-      "topic": "Fuel",
-      "seendate": "20260727T074828Z"
     },
     {
       "title": "Indian edible oil imports decline by 30% in June due to drop in palm and soyabean oil shipments - Oils & Fats International",
@@ -157,6 +157,13 @@
       "seendate": "20260722T082432Z"
     },
     {
+      "title": "India's edible oil imports to surge July-October as supplies shrink before festivals - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkp2TWZDYVlaeEFxWE5EZG5hN2pXcDM4b09yY3duWnhtYVljd01nbjNYSlg5NXEzbDlFLVN5UnFBVzJ4VlAzU0Z2ME9YWDU3V0ZhZGgwRU82QnhqMUR5cWxReG14MVpZaTZIME9RUHBremRYRzFLMC1kX1J2cDJ2cU15WWwyZUdlYVB4VGFGN1pSZmN1MTcxMDZ2cWtXNy10cUM2ZHk0bjlvMXhrNWtYLWdsMy1KS2pNNXNzLUlZX2wwcEk?oc=5",
+      "domain": "Reuters",
+      "topic": "Palm oil",
+      "seendate": "20260722T082343Z"
+    },
+    {
       "title": "The ‘No Palm Oil’ Pitfall - orfonline.org",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51R21renJNZXFGUHo4V1l5VjVpLTg1UGpOMlQ4QUVhdy12MHBoWnBCU2J5a0ktbG9VRUZQVEotOW8wNHE2dF8wcldYdUJDYVVJM2xra3luaERkSTlxelJIaFM1R3UwOUt4X3c?oc=5",
       "domain": "orfonline.org",
@@ -225,13 +232,6 @@
       "domain": "IMARC Group",
       "topic": "Palm oil",
       "seendate": "20260420T062927Z"
-    },
-    {
-      "title": "India's March palm oil imports fall 19% to three-month low - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0puaUlkUE5QNEhTbGVfRDBsQ2RxeUgxVlhGcElQT3hLR1RkSVA3QTU1d0JIUzgyYUh4eTliM0ctMkp3ckM4dDhFcEI5d194TlRKM084dlJ2dWhKNHZOZDhzQU1sanFHMlJ3VTc5cV9VVzQyVi1rb1RDRGJTRHlaWDFMbFdTV0s0VUpmWnB3S3ZaZFZPMHRZSnRRb3hudFBoNzlV?oc=5",
-      "domain": "Reuters",
-      "topic": "Palm oil",
-      "seendate": "20260413T070000Z"
     },
     {
       "title": "Rising cooking oil prices strain household budgets, hit eateries in Tiruchi - The Hindu",
