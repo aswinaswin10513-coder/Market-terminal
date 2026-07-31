@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T11:12:36.744139+00:00",
+  "updated": "2026-07-31T18:11:54.413886+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,19 +23,40 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.69,
-      "change_pct": 0.04,
+      "price": 95.39,
+      "change_pct": -0.31,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
     {
-      "title": "Without Ethanol Blending, Petrol Could Have Hit ₹125/Litre: Govt - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZkZRcW43enZkRmVtTlV3YTZfV1B4ZTBhbjNqdzVoRk95NTh2RzlQWWFHMS1UMnJqVmUzUlNzQlpBTGJaOTdhQUYwOXJST1VHOFNqOXlITWRCdGVCNWRnODI0RWEtUlNpVExKdklRQXJwRDVlSDJRLUlQWWc?oc=5",
-      "domain": "Sarkaritel.com",
+      "title": "IOC Reports Q1 Loss Amid Rising Costs, Fuel Price Hold - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVkydGlKN0lrbm92MjZ2QW9Ba2tJRHJZeTE1OXBYd1BpSE1pOUdIX2VBQXI1VDZGRTl6WV9ONklTMG5NcUo1MGhzd1FzZUs4LXNhSWdRZzNFdEtUclpXY1hlcHlxWUtSajlUWUxxN3pvMHZyam4zZjVyWkNGNE4taC1ScFRJNUczVUg4UGhpRkZjRUdpUjJ3ZkxhWnZPU2drMWZwSEVPRmLSAa4BQVVfeXFMTTVSbW9KdjF4OHBsZ3IxU3IxY1dCQnc0WGY1RGZMNUVDSDZicHV3S3h0TUNwQ1cwT3E1VGdjX21yWTZKYjh0cGppQU9YOXlQQ2xIbnFvMVZVbkV5S1h1Mmx5bEROd0c1NHItaGZ3bEVTYktPUHBUY29OX0JCMk9TN1pSRVd6NDBfbVhIQ1lONHVISUdESHpuc2VJVlJpdkdreE00dW9UNmxIUUV1UGtR?oc=5",
+      "domain": "Rediff MoneyWiz",
       "topic": "Fuel",
-      "seendate": "20260731T094051Z"
+      "seendate": "20260731T152235Z"
+    },
+    {
+      "title": "India's fuel retailers lose nearly $2bn shielding customers from energy shock - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDFuU2lsa0Z5akd1S3laUGgtTFdxSmNXbUpKUWdCRzBjZVZMSmJZZ3lEY3NRT2NERmxlOUdxa3RRUWZwVHI4THBkVTRiYkVlbTFmNUpTcEJESThFbTlFUkFpY1VKNkNYeDdpbW5ZeFJfNWdXUDZ3RHpQTlBzTEhQSXhzVU50WHA4VGRsTGdqTHM2UzVaZGx3MkpGaTIzTlF2Q3g0a3hxVE9NVXdXN3BVZm0wdHJUN3M?oc=5",
+      "domain": "Nikkei Asia",
+      "topic": "Fuel",
+      "seendate": "20260731T133400Z"
+    },
+    {
+      "title": "UK petrol prices hit highest level since Iran war began - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5",
+      "domain": "BBC",
+      "topic": "Fuel",
+      "seendate": "20260731T111923Z"
+    },
+    {
+      "title": "Government reduces central excise duty on Petrol and Diesel by 10 rupees per liter - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzVjZFBGNzUwQ3NzQUFvZThTVHZET0VDazJSVW0xLVduMU1Eb0ZfT3J4UjNZd2pOUXVVaEpoWXNXaERDTmhjemN4VGhzc2tkZl9HeV9oTU14NlVsdDV4eUJTOEktemRqNm94cFY0cmx0NXlZUnV5V3g0MDE0QUNFLXVWS3dxel80b1dzeHlqREo5M2wwTGNHd1Fhc1hVR1NVUm9EYlJGSlJOempwVGJz?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260731T111256Z"
     },
     {
       "title": "India's largest edible oil maker from Ahmedabad projects double the volume growth - CNBC TV18",
@@ -66,16 +87,9 @@
       "seendate": "20260731T014617Z"
     },
     {
-      "title": "Government reduces central excise duty on Petrol and Diesel by 10 rupees per liter - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzVjZFBGNzUwQ3NzQUFvZThTVHZET0VDazJSVW0xLVduMU1Eb0ZfT3J4UjNZd2pOUXVVaEpoWXNXaERDTmhjemN4VGhzc2tkZl9HeV9oTU14NlVsdDV4eUJTOEktemRqNm94cFY0cmx0NXlZUnV5V3g0MDE0QUNFLXVWS3dxel80b1dzeHlqREo5M2wwTGNHd1Fhc1hVR1NVUm9EYlJGSlJOempwVGJz?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260731T003609Z"
-    },
-    {
-      "title": "If the sky doesn't relent, Centre must - The New Indian Express",
+      "title": "If the sky doesn't relent, Centre must - newindianexpress.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkdMU2FfSGY1M05pMGIwQUt2ZGphNEhDOWMxX2JLS2NxY3poWndlTll2QTFqWlh4S0ZzQkhPd3FYYXdyc0JoelVRUmEyZ1FMOEpRVUFkSFRneml2Rnd0T3R3RUt2VWR6SlZSLU0xT3lxVC13Q0hFbWpfVTY3OHRmQllDRDd2Z2RzLWhFRHlQd19xeknSAaABQVVfeXFMTmo1ME9KY0ZIYS1XOHE4QTUxVjJRUndqU0oxOEcyY2wySHdWekxzODBoUGRNaHB2Vy1Pa1EzQVV6Ym5JVHVITEViVFVTRDVPQkxfQTRBZVkyOFJHVGd5LTZxeWlVQ2xZZ3N6YTYxenlEdnE0RThTMFQ4aFN1dzFRTUxZX2xYWGlaZzA1Wm0wWi1ocjc0OTgyTVhIbWZLaEpiVw?oc=5",
-      "domain": "The New Indian Express",
+      "domain": "newindianexpress.com",
       "topic": "Edible oil",
       "seendate": "20260730T183000Z"
     },
@@ -113,13 +127,6 @@
       "domain": "ThePrint",
       "topic": "Palm oil",
       "seendate": "20260730T053600Z"
-    },
-    {
-      "title": "Petrol, Diesel Steady as Crude Eases After Sharp Rally - HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTlaR1c0RFRPay1MaWtwOXdHT0Q5WWM0WS00LXVDSGgwOWpvY0czdndsWHkxbnlRQ2tZam0wTzlPbjlqT2RfYWRZRFdCbGVVU2Z6QV9mQkNzbGFtUTI0Tmw3NGZEOFE5eXVJbTlTejZTZGV6SjRmUWhxM01CNXo1T0dSaDNtS0xtX2xITGVtOXBpa3l1cTFlVHVsUjFRc05vcDJRQjA4dnZUeU9nR3c?oc=5",
-      "domain": "HDFC Sky",
-      "topic": "Fuel",
-      "seendate": "20260730T051805Z"
     },
     {
       "title": "India seeks sunflower oil alternatives on Black Sea disruptions - The Economic Times",
@@ -190,13 +197,6 @@
       "domain": "BusinessLine",
       "topic": "Palm oil",
       "seendate": "20260714T070000Z"
-    },
-    {
-      "title": "How India kept fuel prices in check while the world burned through its wallets - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUzd6aGNHY1F5U21iU2M3WGRYV05nWnB5WDNRdFAwbkR3OFJ2eDhnVldIdUdxcG82TnBOYXhsNlJ5d0NtbWFBM3ZONXNLVFlrWHlSQjA4dGNvR3A0bUZYTjlwcmhNY3E1TFdGcmNaSmpoSDRZOVAzYVk0cjVlY1pMSWlrWHNhTTRiYkw3Znc3ekoyZlpwMVNvWDc3ZTFMN2lFbEZsZE1VTlVZQW9IX1AyX1JiLTF6OUs1UmRmR2VCd28yVHhUWGdpcVU0WjVmXzlYakZZaEZqeERLYWFfV2Z4MS130gHnAUFVX3lxTE9TcFZ1VU1UMlFQakFsLU5FQnV2SFpVZTM2dFNnSDEwc1B4U1hCXzdiNURxQmpTR3YxblJWZ0ktVzhQMWV3czVMMlMzN1dMdUtTTWo0dGFFTm1POGY4X1ROMW5JSHlvWVZpVlpjX21lOXladS1WTVo3YmVqbkJFRVRHZThHMWVJYVN4Rjk2ZjU5X2htU1h6dFNEcEkxUl9UR1IyeEJlOThaNmpsNGc0eVJyT0FJRG0zQUh2RTNNRFZBRml5ZzhWX1dyUHRqV085aGxCYlgxd0VkQ1N1ZTlyN3VYc05xZ2l5cw?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20260706T070000Z"
     },
     {
       "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - The Economic Times",
