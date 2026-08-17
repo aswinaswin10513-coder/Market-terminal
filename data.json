@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T02:54:50.240623+00:00",
+  "updated": "2026-08-17T13:34:53.419956+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
-      "nav": null,
-      "change_pct": null,
+      "nav": 22.3733,
+      "change_pct": -0.94,
       "alert": false
     },
     {
@@ -31,18 +31,32 @@
   "commodities": [],
   "news": [
     {
+      "title": "India set for record soyoil imports as Russia-Ukraine war disrupts sunflower shipments - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZkl5OGdrSTVodmgxaGxwLWJmNkZ5MEVHMWNKTVZSNGJhZllGVGJ0dURNdm1HUWhQQzZQVy1hVHRRcnltX3owM09la3NreVZxVzJwQWFqUmwxZHRlY3pwaG0tZGx5clBGeXM3U0hmak8wV2lfVDRyRXFweXFvTzg5aGxKZi1jd1pJYjhOdndxTkM5QzFQX2NndDBVUEtMcGF4S0VkTGVUZmN5cFZSZXZ0ZUIxOWxvRGxqREVYN3BOYW1KWTdSQ1ZzVS1jbTlEZ1RldHVVblRnOXhnR084WVBYZ2JTblpiN3FPNzJTTC10RTFJYWxUZDlpN29QVktpZTUzRThkdFZmQ2RhVHBOOEdBOFcyejJibXU3bW95Rl9xTUozVW1XTENJUEI5Nno1ZEN2cC03YTBWSG4zQTZ3NXl6TE9SbUZuUHF1ekhHLWZuOWlPVmNtTnfSAf4BQVVfeXFMTkhvSnY1QnE0d0RvTW11QnQ1RVB4Z192ZWJDZnhvYTJCaVNWTDRqVGNFNVhLbjVmTHJkRTVlVFBtOTlxSGFJTWU2VVk2UzBHNkRDWkZxMHVScnhmeTUxU0hKS25LcFEtZ3dnSHY5S1FhZ01BaE9pVWxZR1BJQ1BEMTU1aEtSZzllamlwSnFTdTJ4OWNQdnN5VDc3N01hU3N4d25LNmxqcUkyTGFZN2MxOE1wMFlaSm9MVThuSVFDTjllZmlxNl85d1BCTlhnejlla2d4ZVhhZDFTNEkyc2J4WU9qdDZ6QmNTY1lHejVRdlpqVVRGS0xJTVdhTTlpSWc?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Edible oil",
+      "seendate": "20260817T114310Z"
+    },
+    {
+      "title": "E20 petrol row: Bring back lower blend of ethanol fuel at pumps, says Chief Economic Adviser Nageswaran - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbngtek93RllTZnAzc05LZFVHSi1EQ3RIaXdmR1N5Z3pFUnowMGZDZnJsWU53RkVIangxOHpvMU1qVDFvOVRkdDd0TXpwbnlRdGVMbUI1czlrQmlOMDBLMk9fT2lpU2dMaUlmdFA3ZzZWVVVWZ2NSOWJxZXFfRDI0bkhTWUJQdXZXZlNJNFU0cXFaWHRiTDZwV3BnLXVTMm45QjlaV3Z0alpkOVgwbC1QZ2k1cDNpQjlOY1NXYmRJS2tCT0cyN1Rmbi0xRm9yR3EzN0FSaXhhNGZwRWdlRDV2eEY3LTIzNFFVeEZyNnZ0dHdjbVgzTFVhbWpiQ0JXTi0yeXd1R2FNUFdLUERsV1NGNExLX0xxQdIBmwJBVV95cUxQcy1tMUhLdkNQUUxYTEZoV0ZETE1TZmFRYUc4alpkXzFZY1JjMjAtQVZobkc1Y0U4bVN6a3lQc3J1ekJoM25RclRtZ3gxcUVhX2xhUHFzZnRBQm5NaEtCSHc2dzNqQ1JBeXVBcktkeEtpelplMEdwdXBKREJOajVrcWFKbndyZ0ZRRTdMSXM0N1k3RUlUU1NodXRVdGZram4tMlNNQU11NWdWN2xLSWh2RFJSMkl4dGVNTW5RWGhIc2JtLXBnU0ZuaFB5ZFVQRkFacHpsVUFQSEZJMUN4blFQVEFfOU9MRDlpcGdneHFDeTdrOTJKZ3JvMUc0ei1LaXZVLTVJeHZ4T3FTXy1xY09OcWE5WFcxVkRMSkJv?oc=5",
+      "domain": "The Times of India",
+      "topic": "Fuel",
+      "seendate": "20260817T104800Z"
+    },
+    {
+      "title": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru amid stalled US-Iran talks on Hormuz - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbVNRLVdJMlhRSjNLSDN4UjFyb2NleGx6SGt0UjNnbFJpSUt1Zk9pX1FlTUNBNzBlYlg2UFprQ0taWGxyU1ozUURzUEhJd2M5OEVlQm04OFNqQWhWaGNCSGxxaFNjaFhYUVJpekJNd1FrbGl5Wm9jaVlJSGJrd0xwbWFrcXlPUURyei1mTW93MXB0dXFsRy1jcFB5aTh0TGFkeHVDSEtzdUVHZEtnUE4yRU9mVS1LUHA4R0prMy01aUVXUE1BRzVMUWFsVXRjaE1Mc3kxYUZhS2tlVjVKTUhicTdHWkt0YUN1QXd4bXM2b3RiUdIB9wFBVV95cUxPSlIyb0dEai1sM0dLNXJSYkdMQVhXTWFBLXRYSDlYVnJSN3d0eVlWSWRQUDN2VWllbFJWMHZ3bU15VDNvZ0RZMGlNYzlSa3FYSDVUYUsyT01pN1Z2TkU5eW5ZeXBTbXdrMl9oR2tEM0M1MHdoTUxJUm1kcng5dWo1YmN0dGxQcG5zbkhrTXVwZmMyb2thODQ3cVAyYzN4eG9PdnpQd1VNbnBudnAwbzg4anUtQXlXVlI0dHY2UWxuWnNaT1JRVmdxbU5fVTlEZVBJMkRfZ1owT1RLMERkeUpiY19JeTdWZjB6Q0hUQ2xxdkZlOTZPQ1pr?oc=5",
+      "domain": "livemint.com",
+      "topic": "Fuel",
+      "seendate": "20260817T025543Z"
+    },
+    {
       "title": "Petrol, Diesel Prices On August 17: Check New Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWNub0ZmdVdTRk5EVHNKOEVGWlJoTEVFREtDSUxHVUFlal9GcUdubnMtd0N4X0F3LXAyVnRPRk1JYWhQNDctV2hRRk1DdWFmZVZCZENJMkNrN2tqcjN6dkdUZW82MUhwQ0N4VDByWjJRMldsMnM5TV9NT1paeWFneDdNTWRTOTJ0dWtjekVMSUpjM3pFTjhaWDNXWjBiUmZibDRpWE5SUktGN3NYRzJybDFXd3dYZXdhXzhvX2JsaGhia2FMWTdJRmxXOXhDd1NhQUozbDAzSXF4c2vSAeMBQVVfeXFMUHZ0b1FQeklHQW9IVWtCM01aLTdqNFFZOHppSHhKOU90NDVvU3JqX2pISkxDVHQ5YWRURlN3bzJTVkJzZDZQTm9TQmJQS0MxNEpMbU9FQUZJQ290a3daSmxlVmhCWFg4Xy1SLTMxOUQwdEk0SV9MUjl5Qm1Xa0hzbDNlY0V2WjdjOTlkazZhbDZpSjZFWmxRakdRTnNsbGx4Qk9kMTQyc0hUb2c0NmxIZ2h5Q1VvbllxU3pOTWdKNGgwbnduQWhXSVpmU0JIc2dJUlRUX1Bvclo2RDVtSkZfQ1FMSEk?oc=5",
       "domain": "NDTV Profit",
       "topic": "Fuel",
       "seendate": "20260817T010116Z"
-    },
-    {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - Newsonair",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "Newsonair",
-      "topic": "Fuel",
-      "seendate": "20260816T190122Z"
     },
     {
       "title": "Hindustan Petroleum And Bharat Petroleum Stocks In Focus As Oil Price Risk Returns - simplywall.st",
@@ -59,11 +73,11 @@
       "seendate": "20260816T113158Z"
     },
     {
-      "title": "Petrol and diesel prices today — Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTmhJa3lZMTdQN24xSzEyT0J0Wk5fOU91WWhORzk0UnBKS1djaTRZYjJCZnJ4RXY5Z295SFg4RldDM2JLSnhZVDVMWEQ1QV9zZUtFd2hoNFIzdm1UdFBHdnhKM3hPWk5MWGxjdWpFS1RkdFpLTTI1QjBWeFNLaDAxYjR6a0hVS19nQkVEZ0dwc2UwSG5LUmlGdU8ta2lLby1Xa0c1X2tYWHVrYzhGV2lOMS1sdTVjS1dZR0s1aV91SHg2aXRkV011R2JYQXFJdjR4SWtLS3F1NTJJaUphaUJhUURwb0J1NFBJdmVVS3A1SktsZkIxUUdVeFdPeXZKZ9IBgwJBVV95cUxPNkNSUkRVSWxJTGIwVk9ZVWEyX3NzNk56bkVzRlZjaHp1MTNJekdVS3RhWGYtSU5ROTBJWndRcmNkTU5uLWFVQjVUTm9rel9oSnQ5RjZzWFpuZHZrWmVTVFc2V0QxWUN6Vk02MnBybk5OQ19BbTBoYVFnaTdFWEdBTDlySGUxZFFJSV9QNzRuWlhlNTB1bks5QXY2RVRsR3dNWlJvSG4wU3J2RjdGd0JkU2FLXzN6VTJiYjFTZk0yNU1PSllveHVXX0Y0WmhydExSVzFuX0FEZVVzQk92SWtwY1RRTTR3WUVVUUg4V2poN1FDYWdfSVdUeDZhcnFpQ2lMS1hv?oc=5",
-      "domain": "livemint.com",
+      "title": "Iran stands firm on Hormuz, Trump asks Americans to brace for higher gas prices - India Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEFRaGQzNzhpak1EcUwtYktTQlpEdjJRTHh4NlItRHF4NENYNE1LYzZKVUd6VmhTYmVTWWxuT3ZuM3ZMOG5qV05DeWFhZDV1TThWbkRXZzdEOGE1QWY2QTRsMVpST2o4ZE5hd2taMVljV3lHTUROVDNsT3hqdm1fUjZRa2ZPdEFfQTBUTHlNX3ExaWpWVUhiOWZ1WW5YZGpMaWFEWkxyME1tU05GSUxvMmJielNpU0tN0gG-AUFVX3lxTFBTTU9ONndBMTE4LWE4SldrWmlKaUhFbVpXa05ZTS0wbjJPWXF5YnNVTTlzV25MTm5kT0RpX2thWnE5VFNqb0Zld3dqWC10anhsb1hINEFhRVpvb3NxQUFpV0R1WVdENWpLN3ZWcHF1OEpEM0UwcTFBcGhTQnZNWmtNNTFYek5VRERRSG9tbWttaTZFNnRudG1ual93Ym5KeEg3aTVKSEtBaWphYkN1UlpXRXRVeU5ZWjUwYnRZUFE?oc=5",
+      "domain": "India Today",
       "topic": "Fuel",
-      "seendate": "20260816T030543Z"
+      "seendate": "20260815T170522Z"
     },
     {
       "title": "MCX launches Crude Sunflower Oil futures contract to strengthen price discovery - Business Standard",
@@ -73,18 +87,11 @@
       "seendate": "20260815T042002Z"
     },
     {
-      "title": "India cuts windfall tax on exports of petrol, diesel, aviation fuel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWtWeURpNmxxSWZNSDh5Q0tpN0t4NmZpMlAwUjFaRHU3ZXhOcjVjcnFhbjdNYUp3Sk1WRXlkQWt3VlN6QWlGakoxS0lJVldOWEtJZnUtSTVwLWtDd1duaWFBZ2RvYjRad2lGcG9Wc29PUFNwTEJfcTh2WjFJRFhEZnB0WkM2UVBLTm5FY0xwSWM4VUZoZU1odGJEbGZCWjFWbmVkRnBoS3c5eDlHYjNuag?oc=5",
-      "domain": "Reuters",
+      "title": "India's WPI inflation cools marginally to 9.78% in July as fuel prices ease - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaU9QaTlfQ3ZaWVBtTnp3cHpvNHZDMmh4cjBzQ1hSLVBlNEtrdEd6R1FYS05VZDRQMjdRUmZwbUVpUmFCM1dFWVRmZkprMHkwRkllS05JN2kzNDZaNjhXTVJkQlpYdnNzMTNlbG1NWDRpdlVEZ1UxZzUzSHpBUmVnWlE5d3ZOY0xQZ3I4NEdVeG80WElmdDh4NW8zd1ZEYTRGYlRZazhCMkF0alpNa3I4LW9SLVN3SGxGczN3SWVxMWdzcXN0ZFZCYnVvbw?oc=5",
+      "domain": "TradingView",
       "topic": "Fuel",
-      "seendate": "20260814T184553Z"
-    },
-    {
-      "title": "India Food Inflation Warning: Edible Oil Prices Surge, Black Sea War And El Niño Raise Household Cost Risks - WION",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU0hOVkQtTUJ0ZlJGcUg3U01LZzQ4UFZsYzNDTHBFVm51c2g0Vk9fNk8tUy1GdEdLNVJ3d19QMWI2NllUU2l3NHc5cmszTThNYzUwdnBQdDR2M3VRaUx4OF9HYVZ3MFhtblFRdi1KWFViLUhhOWNrME1LSXNBc0NNdUMxWVVwaTRJbDFrbFl0QWtaTkxCVHB0aXVBaWJ1VTJVdnpndEszaWY5YjFqZFdhcWZxOFJtdVhScFVJV2xuM2lfZHdzV2YtR0Z0aXQ2eFlnbUFRcHIyaGNfSFdTczdEQ05pa2PSAeoBQVVfeXFMUFR3Y0tzTTZYeDhGTG1zc25BRjNVZUtpVTQ2bms0VFBNYWZqYzhvWlVpSjV1U0FTQ0tiM3dXVG1JTFgyaWRmSzhxNkJ3WjIyLWJrR3RVUVpPTWUxaW9mYlBSc0h1cG95aXI1MjhYQ3hBaDQzNUF6WkdvSWFHYnhQb19JaG1nRjFobzBmMEpic3pjUXpFTUtJRjBCTl9SR0lkenhZN1JxMnJSSk1oNTZuZFNQTjRONWdfNlRoY0ZGUFhDbi0yYUI1dFBZMGpJVF8wVlpKZlAxRVNyNzZpRGp0S2FrQm1EckpwUXV3?oc=5",
-      "domain": "WION",
-      "topic": "Edible oil",
-      "seendate": "20260814T121600Z"
+      "seendate": "20260814T145515Z"
     },
     {
       "title": "India Inflation Warning | Edible Oil Prices Surge As Black Sea War & El Niño Threaten Food Costs - WION",
@@ -94,18 +101,11 @@
       "seendate": "20260814T103100Z"
     },
     {
-      "title": "Retail prices of petrol & diesel remain unchanged for general public: Indian Oil Corporation Ltd. - Newsonair",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVlzRnV6RkpfT0tQQzNMZHNnQmRManRLZWhOR1YzdkQzaVNTdUF3NnJrVVhKelBJalFaRmVVcE5yeVVPQm43cWhPMHdrd2w5dS1ncDBGTXdGWE4yY2hBbG1rTnpDZjB1bGVlX0VYTDVsOWZSUi1iSVNzWVMtNUltczNsSlNYak5lckhVQzJjQUJHbWRwQWc1T2MwczBVd3VNTVNLbE8zbFF4akw0MEFMejFUUGd1dGx5ekFV?oc=5",
-      "domain": "Newsonair",
+      "title": "WPI Inflation Eases to 9.78% in July: Food & Fuel Prices Cool - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGdfTkhuYWVmWi13Wjk3bU9xYmhfX180ZjFqWkpKQ3ZZSHRMNk9mbjFlV1VVQVAxT1gxUUp3bzhocGVwcFBOcmJMLVF4c2dsRy1PdjZXN0dCVEtCVnJmVUtSdzAyT2tuXzFBSk1vRzJVb2xZUTR0Y0JTbzlRLTVkSXMtbTJ4Y0xETHBCWUdKYWYtTklmaVRkRTR4RGVYN0dpcG5ZcC1Vek4tUlpmMVHSAbMBQVVfeXFMUDU0LUk5RmNKQzhSS3RZLXhrUkhCSlJhRmp2UEpQTjg0WEFrTHQ0Ny1XaEFhdDJVckpUUW85RXdJVTJ0YkRyVnVvN1dONWF2SXoyMFlmaEZ1M2ZrWmhyaVZzWl9XRjVmTThpYU5YVkxkcmlJa3RmTm9wR3JYT3hLYUVqY3hTdTA5UnUwbHZWZXFqa0xmdDFGdzlJMXVQRDJoZUhETFJReFRUZ05HdjQzcFhHam8?oc=5",
+      "domain": "Rediff MoneyWiz",
       "topic": "Fuel",
-      "seendate": "20260814T080623Z"
-    },
-    {
-      "title": "Petrol, Diesel Price Today, August 14, 2026: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad - HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnJjNTdkdWN4R2lNSWdqMWtybXlGRzZOZlpGTlg2Y1YxSFlrbElfNWt2NGxySGFGYllSZFhTOEtyTnZ0UGlzcXl0ejM3ZUxSVnZ3akpTaEYzd2FVSlpUWl96RnVhWmpMWll1TTJOX2Eyb05VdmVkWThWLXRXRE1uR2NRQy1qNXBLQ1VrSlgyd2dOWVhrYTFsMFZLVGFqVkEzRDdTSmNzSXJXazB4d0MyZTdnYU9CdDN4YjRBU1RsUHpzZzlsWkVsNUdpakhzSzg?oc=5",
-      "domain": "HDFC Sky",
-      "topic": "Fuel",
-      "seendate": "20260814T041356Z"
+      "seendate": "20260814T070940Z"
     },
     {
       "title": "Palm Oil in Your Biscuits and Namkeen? Centre Says It’s Safe, Legal Under FSSAI Rules - Open Magazine",
@@ -171,11 +171,11 @@
       "seendate": "20260812T133534Z"
     },
     {
-      "title": "Edible oil prices up due to West Asia crisis, but availability 'adequate': Govt tells Parliament - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQWpvbmJQVVdFYWp6OExvQV9qaGU3NHZETThTWmoxV3FBSGRRcE15UEJjNzJfaTZ6NmhGbmpJOUtnSXBPRXNPaHB5bmxlOVZZODBKR0NZcklUdUQ4ck5tZENJTzk3WDZ2clREd0w2Zmx6TUgzX1IzNzBrbEVoYUl1dHA1TnNONk1feUl1cERNaWxhZUcwdlZ2MFE5d2pPSzJKaUo3UzZmOUlaYUFXTm12MGZyN082dXNpM0R3SHgtLUx0d2NWRU90MktuSFdkNU5XV1Z2QUZSUzlRUGpLcUZudXV4RmNlQzUzUnZjMmhuenYwbHZJQTFhR2ozNGpvQdIBgwJBVV95cUxOVVVzcUVsTmhVUlNVY1E0RnBoVWo3elQ3TFRPTlhlTU9LVEs5OEFyUzBxZVNQRExBaHMwYk1VRXRLZFMyYWFGMmFuSjZ3MXBjaVdaSXc4Ull4d3FKRWJvX2x1WkxiZHFJZ1pYUXhIMnc4c2FEYkhySlJnTDE0LXJ3VkRqNnJXajJYTUNsczlKbHIxSGNUR3JGR3lSSEtSTGhXY3ZmYW85VzExc0JZMGlUeVRMbXBOeGl6b0g0NUdDMEpUbVRPbUFObWY3UXF5UHBvWlFNeVF4eC1PNkJVR3g0YXZoLWptc0kyQUY3ZXJkTGRqOGY4dkJLT3MwMVRYWEFnRnpZ?oc=5",
-      "domain": "The Economic Times",
-      "topic": "Edible oil",
-      "seendate": "20260812T132212Z"
+      "title": "India’s edible oil imports surge by 34% in July - Oils & Fats International",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlBRNm9TOGNYNldvYzd3VHNxUkRldmhQN0NWcVBtalBFcEsyWURucFhkZnk3TVFkV3VId05NRVotbmlvVi1xV0dub1RSWUcxUnJJaENzM2ZMMGRSN1NlaTBKbHEyRENPNkttTUw3cFZzbnJnQnVDbUlRUE1iV3BJa29qbnY?oc=5",
+      "domain": "Oils & Fats International",
+      "topic": "Palm oil",
+      "seendate": "20260810T074053Z"
     },
     {
       "title": "Indonesia’s palm oil curbs could open the door for India to step up - Fortune India",
@@ -192,6 +192,13 @@
       "seendate": "20260723T070000Z"
     },
     {
+      "title": "Govt Silent on Fuel Price Cut Despite Falling Crude, Cites West Asia Volatility - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2JlQlJGOVNnV1lLdC1qVS1remtVV29LTmRGZnVId2IzZTlPNDBSQ2ZVU3lITUZDS2o2N3FFUGlQLURHZHEyazlpbnpFUW9PMk5fSEVDUzBUMTh6VTJpVjVBVGxfTWRVQUh2QUJMd3RqYmU2ZXBhdEZjTmoxV250WmhBRE9wZlVyMmlzNmJMVTJibVF3S0RldHV2b1RaeUpTOVktY1oydlRVeGYyVlFxYzJkcDVBdw?oc=5",
+      "domain": "Open Magazine",
+      "topic": "Fuel",
+      "seendate": "20260723T070000Z"
+    },
+    {
       "title": "The ‘No Palm Oil’ Pitfall - orfonline.org",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51R21renJNZXFGUHo4V1l5VjVpLTg1UGpOMlQ4QUVhdy12MHBoWnBCU2J5a0ktbG9VRUZQVEotOW8wNHE2dF8wcldYdUJDYVVJM2xra3luaERkSTlxelJIaFM1R3UwOUt4X3c?oc=5",
       "domain": "orfonline.org",
@@ -199,37 +206,30 @@
       "seendate": "20260721T070000Z"
     },
     {
-      "title": "India's Oil Import Cost Falls Below $70, But Fuel Prices May Not Drop. Why? - ndtv.com",
+      "title": "India's Oil Import Cost Falls Below $70, But Fuel Prices May Not Drop. Why? - NDTV",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHZERlcxZ1luZi1nUHlNTWxFTS1YZkpNTEZYbFJQZkFIOHlfZ0JYMDE5VUdXQXA2cnA2S3ZYRnpBUlhSeGplTVc0QmRkOXhfQmFRV3I1LWpDZTlaR0pjVFlhTHhrWmloUUFLTkV4dnNRYVYyWDlCVFpwWEhJMzRkdzM2dXJwdnRjcEpLZUZUTl9xdG5HR2xtRkRkcjNRZEgtRDhPSEViWU91Z0d4cDRBR1ZCOVFldEtpRlZ3eGdyONIBxwFBVV95cUxPeUtiMVQwTllIQ1VKQUh1MVcyS29MRUhDbnBqaFBpMG5qX0NwLVY4OHR2V0xzb2VsanIzT3B0VXh3UlhiN0VsbWF4OWktNGkxWk4xcWtra01WcVZKeEVqNU05d0Z0RkkwUkxEUW53T1hjZERfVlZpWDN5dS0yUzVyUzl0X3JscU1KUkxCbU82VFdjNFV6WXJZQW1nYzg2VVVlWk8zOW1uejdxa2xDUHdQTkZFc2IxSFBQZ1VEX2dlV2VCeDVnOG1F?oc=5",
-      "domain": "ndtv.com",
+      "domain": "NDTV",
       "topic": "Fuel",
       "seendate": "20260630T070000Z"
     },
     {
-      "title": "Edible Oil On Boil, Monthly Budget In Soup: Food Inflation Hits Households - ndtv.com",
+      "title": "Edible Oil On Boil, Monthly Budget In Soup: Food Inflation Hits Households - NDTV",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnNKdi02STBwWUNvYjVia003Mk9Mc0xVNkhOZHhoOXpvazNBb2lqdXhmWXA1RXRTOF9PVVp3TW9PV1ZkSU5KOUU5NklPajRmcEZwXzlXQV9uN1ZQT050Vk1UTG9ncEs3WnJNaEdoQTMydW92X0VWLWRYcVNMbXB1ZGNZNkF5OEM3V19BUEZBVGhTNWpha0RmWjdaT2llLUJKWHE1ODZpNFJDQkZhMm16N0N6bDM2Y2dmUXBrVFVR0gHGAUFVX3lxTFBNeHlieVNXc1R5c0JGZS1PU3ZOMkVfZl9FYXc3bm5BOGVLSmJWdTd2eGdRWWZwOXowZG96M2hzZExFOG5IYU1sSFp4QnJ5Z0lPLXRmZzFDcVNXSVpVUFgtVTBiVjlmSEtRREhSTGFiZEIxTXBzMmw5ZWNiQmkzdHk1NVNKc3NKazVyT212Mk44ajNaSGc4Qkt6T2hfbnY1SExXaG4xX0xnRVB3Zy0wa0t0X0gzMnowWVgwZE5pRlFFX2xIUHYyUQ?oc=5",
-      "domain": "ndtv.com",
+      "domain": "NDTV",
       "topic": "Edible oil",
       "seendate": "20260522T070000Z"
     },
     {
-      "title": "India's first fuel price hike in four years may do little to cover refiners' losses - S&P Global",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdFgyOTQtd0NjMHN2elRJRVozS3NtbWRCSW1BaXlmaFhuZEpPTkpYMDVHRy1KWGt3end2T2E4U3JLcnllOEV1NDlreWFiNGkyOTNXY2JKVDdnQi10NURQTFR5VTdwaWlBMm1IbEJhbWpqSlVpdHNhMnU2WkUzbEpmc0FrQjVOcVNkdXJwTmhUSmtzLXpSZ25kS2xtV1JuTVRuakdZNjBSNWJMUVpraTA0Ry11dDd0R0JjNXNyR2N2ODluVFJoVWNzQXFuWFBWYXVTVTBGakFodUFpcmVmeTF0Q3RwZ3FFRGJLa2tGTmNUcGg?oc=5",
-      "domain": "S&P Global",
-      "topic": "Fuel",
-      "seendate": "20260519T070000Z"
+      "title": "Strengthening India’s Position in a Globalised Edible Oil Market - orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVVhVEpjenRVb20yVHItU3JiWDlkWlpCRzRGVUVpQzR4R3lWd1F3QlhsZXprTTdwdnJvMmtBWnNUVW9iQUhvSVNYam8xR3k5V1dUOU54UFdCaUJmdnJoakZfNGxNR1lqWmxoUmxVaU9tZGZKWXRxUjhveDAxWGFkekJJTXhhbi1NZG9vX1U2MDJETW1POEIwRjQtaWd6bEZ1?oc=5",
+      "domain": "orfonline.org",
+      "topic": "Edible oil",
+      "seendate": "20260426T070000Z"
     },
     {
-      "title": "Top 7 Indian Palm Oil Companies, Manufacturers & Brands - IMARC Group",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxNW54WkVoRF9VMGxUT0NvelN2ZHJCeUVUNEprRGd1VjFSbm5udW9UcVM4T05XUmotOUljcXhHek5QeEN6RWlkRVFITHBReWcwY0JMbzE4N2FxS0hKMkI4QWpYVkJvZDRLQVFPLWdkOXFpZWVaQnVtR09R?oc=5",
-      "domain": "IMARC Group",
-      "topic": "Palm oil",
-      "seendate": "20260420T062927Z"
-    },
-    {
-      "title": "Rising cooking oil prices strain household budgets, hit eateries in Tiruchi - The Hindu",
+      "title": "Rising cooking oil prices strain household budgets, hit eateries in Tiruchi - thehindu.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFdLQTE5bV8tZ25BNDZ5WU4wZnVKeXRLLWViQzV6MUVkQ2taVE82RjA2LUVyUHFjWlBWX3hsclJjMTZ3dWYtaVFfVkpfeUQwRkVrSlpnbDlpcUlCMmYxbmt2VlVmcmdQRFF3ZDNjZ2haU2tFMk5PY2hoR3UwQW1oZU5vVjVKTGp0MnFmYlVCQ05yUDRPUGU4ZDBpZmZ3aXotUnkyY0VQZ0ZFemZNSFEwVDZyOHZtazhXUTFOMF9naXV5SEdPaUNsSG5INFpneEgtTXk0bVZxOU9HOXh5RTdN0gHmAUFVX3lxTE4zR3FRaXk3NXFSRnR0eG93QlFrN3hIVlRvdXh0M3h4a252OVNBSGJoVW9faTEyRHJDeXR3T1pqcTBKRnk2ZURtSlk5X0U2TVJRb2w1djRXblNQTTNUNGc2dU1PX0ZsQ0lCUl8wbURaUGU1N0tzb1RWT3l5eEtGLTBacVliT3pzNVRmWHRGRWlDNG1RVDRlSng4dUlHT0Y4YlQwd0NuZUJtVVVadU5za2VLOEc5Y1RYRVR1ang4RFB3NURxMzg3cU9fN01vd1hmX0szbkMwS2s5Um85anFXaFRjNTgtVjR3?oc=5",
-      "domain": "The Hindu",
+      "domain": "thehindu.com",
       "topic": "Edible oil",
       "seendate": "20260318T070000Z"
     }
