@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:26:59.102136+00:00",
+  "updated": "2026-08-24T02:57:23.782160+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -30,6 +30,13 @@
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260823T143744Z"
+    },
     {
       "title": "Petrol, diesel prices today, August 23 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS0lDUnZQMlE4TEdyVFQzS2FnaEp1MWpJYW1yaDVubG1XQ2M5X2xoNllEeDhhd2N0MkFrYVlGSzJQWWdRd0xuMWlfM3YtYTVXbTNtaHllbVhyekhMeVlzcl9rOXZuZE1kVVFWY2JhMEpkLU05TXVta05DajRJVFlSNE1TaVhfVFNMcXJCLVJtR3VPdzlDYTM4bWV6Y3hLaS1IX2JHbFhjWWFibmY3MzkwOHI3dlJkUmlsckFiYlFWc0lZcjgzNnZ3RUZ6N2RmUnpKT2NNV2h4bmZqMGN0dWcwRGVyUVVyQdIB6wFBVV95cUxQcFQ5ZGRNQnBzbEoyOHlJUEtuTzlyWUpxV2JrVzFIZlcxTFN4elMxbU4tbmE4aWRRaFIzOGdUZ3RLLVBQblZMc254aTdNeExEYjJhMVF1a1hJazBJQmxZT3lyZXBIX09UNVRNOGJUSWc5TlM2SE1LZDNpX3M1U3VwR0JzMVRuMTBzWTdJY24zWmJ5bnl4bndkeE5EajRhUUs2TUR6Tl9nTGNjYm1vak5fQUMxYlF3X1kySml3STZZQUZhbWdnSDdBQmFya3dBR2t5eGpXbFlGNHpqU1VPZEg4VTVqekU2T28yY3Fn?oc=5",
@@ -122,13 +129,6 @@
       "seendate": "20260819T113915Z"
     },
     {
-      "title": "Petrol-Diesel Price Today: Fuel Rates Updated, Check How Much Petrol and Diesel Cost in Your City - chshyd.in",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vc0J1NXduRFE5UFE0RlZyTEM5THYxODFOcEpqYThVenUzVm0xRGJUNkRlLVNmZnk0RHFaNlZXNG9kRTJ2RDhjeHBybldkYkZxanlSS3ctSXo1Zw?oc=5",
-      "domain": "chshyd.in",
-      "topic": "Fuel",
-      "seendate": "20260819T080043Z"
-    },
-    {
       "title": "The palm oil paradox and India’s growing stake in Southeast Asia’s forests - ET Edge Insights",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkRMZGduR2wweWh2VEkzUjI4a0sxOGl5aUtTeTBTcThFaDRBSm9hekVCdkxRSmJLZUI3SHlqUXF1SkFJeXRjVlRXV0hGQzNwdEpwTnJTZFgzS3BzZ095QjdobXhEU0FmVlFjSkhpYWx2ZzFrNG5wc0RnakJaaGlCVTduVXM4WXpOVm91c1F6RkpwYXhJTGN3aWVrWmxBeUFMejZUemlIZl9XbUh5cGFZazJzeEtUR01RcENN?oc=5",
       "domain": "ET Edge Insights",
@@ -206,11 +206,11 @@
       "seendate": "20260702T070000Z"
     },
     {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
+      "title": "India's Oil Import Cost Falls Below $70, But Fuel Prices May Not Drop. Why? - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHZERlcxZ1luZi1nUHlNTWxFTS1YZkpNTEZYbFJQZkFIOHlfZ0JYMDE5VUdXQXA2cnA2S3ZYRnpBUlhSeGplTVc0QmRkOXhfQmFRV3I1LWpDZTlaR0pjVFlhTHhrWmloUUFLTkV4dnNRYVYyWDlCVFpwWEhJMzRkdzM2dXJwdnRjcEpLZUZUTl9xdG5HR2xtRkRkcjNRZEgtRDhPSEViWU91Z0d4cDRBR1ZCOVFldEtpRlZ3eGdyONIBxwFBVV95cUxPeUtiMVQwTllIQ1VKQUh1MVcyS29MRUhDbnBqaFBpMG5qX0NwLVY4OHR2V0xzb2VsanIzT3B0VXh3UlhiN0VsbWF4OWktNGkxWk4xcWtra01WcVZKeEVqNU05d0Z0RkkwUkxEUW53T1hjZERfVlZpWDN5dS0yUzVyUzl0X3JscU1KUkxCbU82VFdjNFV6WXJZQW1nYzg2VVVlWk8zOW1uejdxa2xDUHdQTkZFc2IxSFBQZ1VEX2dlV2VCeDVnOG1F?oc=5",
+      "domain": "NDTV",
       "topic": "Fuel",
-      "seendate": "20260524T231817Z"
+      "seendate": "20260630T070000Z"
     },
     {
       "title": "Edible Oil On Boil, Monthly Budget In Soup: Food Inflation Hits Households - NDTV",
