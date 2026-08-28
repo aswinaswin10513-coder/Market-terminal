@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-28T13:40:45.947408+00:00",
+  "updated": "2026-08-28T22:50:37.640295+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
-      "nav": 169.6315,
-      "change_pct": -0.48,
+      "nav": 170.2276,
+      "change_pct": 0.35,
       "alert": false
     },
     {
       "name": "Nippon India Gold Savings Fund Direct Growth",
-      "nav": 62.6741,
-      "change_pct": -1.75,
+      "nav": 63.0596,
+      "change_pct": 0.62,
       "alert": false
     },
     {
@@ -23,19 +23,47 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.54,
-      "change_pct": 0.13,
+      "price": 95.39,
+      "change_pct": -0.16,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
     {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260828T184838Z"
+    },
+    {
+      "title": "Hormuz crisis costs India additional 22 billion dollars in fossil fuel imports: Report - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzhLek9iT0tWcXZKU1gxeE5FUWIxZXRSdk8tMmpyRV9RNWduRnVzcDcwTjB2RUZiWTg3QUN3UTdnbm5rRzNaQkZSUll5cUlwQmRJVUJOOTJpSW1Pbi1PVmNfLW16WHAzdVB6V2hLSTBxZGdUV3U5RHBxcUpzUWNqVWVwODVvbzgySkdJQzByZnk1Mms2WC1NaGQxNEFRTkNRQWg2T0lvWFJPT290UE5yVWtvVWZwMzlVeU03YlFya3FLRW5wcjE3b9IBzAFBVV95cUxOQ3NuVkFjVnNrb2lmc0dTMEZocmZPdmQtNFQzanhzcmpGQXZxTWV4M2x1cHJMNElsdHZTaWc2dGxJbnBzcGlENVZvYTRnRHFwaFp6b0hNYkl1VEdDNXJpYklHWnhCLXB1a0tnSlVQSWdXWG0xc1pVOTVHY0JIZk1pYU5NYXNBaWgzOEFPTTJ5N09tWlJpQUlQQXR4MVhpYm9Kak5pNENsOEdKSVNHMnBzOUF5dkZtVFlHOE0zQ2k3MFR5WHdpeXc2X2czQnE?oc=5",
+      "domain": "The Tribune",
+      "topic": "Fuel",
+      "seendate": "20260828T160325Z"
+    },
+    {
+      "title": "Colleges ordered to cut fried foods amid edible oil crisis - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFJsU1B5X21Oc1BVak92Tm9CVmVCZTVoSkRzUGlQR1ozLUhzUmlVRnFGaVlaNW1tSWt1ZmptNVpXSnllUmNXcGNsWkJWQnhIVXlIWHBINVR6Y2ZSVDRSUmlWMm82TmdJd0l2cGNyWDJDbk9ReFZQNGRlYTh2YjR5VEl0bmZqRkJlS1RHckFJMk5KcFI5dEJtVUVHRzVjX2xhQ19CVGpvVW9LWThhU3Y2bDVSdWE0UHhIUF8wX2VKSUZDaDBPVzJuZV90QXZqdElTbkNB?oc=5",
+      "domain": "The Times of India",
+      "topic": "Edible oil",
+      "seendate": "20260828T155700Z"
+    },
+    {
       "title": "India faces $22 billion extra fossil-fuel import cost amid Hormuz energy shock: Report - The Statesman",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3BtSWFUVkYtVkRiS0ZHcnJDSHhvbXVWM3h6UWotaVpQRC1iRTAyNW41THktVkpxMUVDUThrbnVoS0dzdElvUy1pQnJIUEI5WTg0S29Sc3lvbHRZMk12dThYZmNLNnYwUXplQ3o2aUJsd0taWkdabTdYanl2S1pyeHpWMXNyTTQ4ckNmeWNWc3loR2ZkcVlrbkVWejF6U3VfSVpSWGNDSlYyTVFsdG1KQVZ5TUtKX1FMUmdEUGFqdkx5QUdzVVBUSmVEWW1iazJwRXBIM9IB2gFBVV95cUxQbXB4ZTdtTnd5VTdudjRhUUFCaU1CVkc5TzYwRnZvMGhIY1lQVzBEcUdxczFjU2pnU3VnQzdNRFd1Q09UUnVPM2NHRThBcFkzS24tTVlxODNoNGZ2SnA4Y2JkTWJQRkhUeVdtQUxzRUJNdG5Jb1V0QjZWakIxTFVucTdmTUs4QUtpVzZtaHY1d0hfUkx0cDAzeHpaZ1ROazlVZGYyQXd6d2hPcGhxeUpaSzFBVHNnNE1hdF9HZW1QakxNbGJFYzQ3dE1MSEI3MEd4d2RwQnBRU0hOdw?oc=5",
       "domain": "The Statesman",
       "topic": "Fuel",
       "seendate": "20260828T120100Z"
+    },
+    {
+      "title": "Who Paid The Price For Hormuz Crisis? $330 Billion Fossil Fuel Shock Revealed - outlookbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0NRaWxBU295ZU5FS2x4YTBKNWF0cnNBcDR0TWlsUjd1azQzc0YzMjBQYjRxbFA4QkMzeWJUWFhackt2VEZNM2cydGFvbTBxSGZ0WEh0TTc4RHNUTXFuZXotZlZQMDZlUUh5QzBabGNjbXcxdHdSOWtVcFNLanFtMnNzY0g0MXZOQktIbkZUWjJHekJ5NUhOdVJRTnM1U0JlX1N0cHB2YzJrSDE1VTJZMVh30gG_AUFVX3lxTE9KeFdVYm8wNjJnV1FQNUFxdy03bktmZEZWa3FVYUdKSlZhVUM0MjRYWU5XbGc1cGNWMjg2Wm5kcnhGVVpzclBlR1ozUGJjODVnd0NQcjdVN2JMYXhIWXNrOUF3ZnZwVmJwZk1MallMXzNHTGc2c0JCR2pJbUtpNW5PNDNNVUl4MkRQdDdUNUtmbTRUMkdMRmtCUkhKSlhFMWV1NFd4eHdDUXAwVld1WjFTbktfWHhrVGhxOUc3UVQ0?oc=5",
+      "domain": "outlookbusiness.com",
+      "topic": "Fuel",
+      "seendate": "20260828T113258Z"
     },
     {
       "title": "Hormuz crisis adds $22 bn to India's fossil fuel import costs: CREA - Business Standard",
@@ -66,13 +94,6 @@
       "seendate": "20260828T023345Z"
     },
     {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260827T233134Z"
-    },
-    {
       "title": "Hormuz crisis-linked fuel price, energy security management gets mixed verdict in MOTN - India Today",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaVk5THM2OW01bi0zWldzZUM1X25GeWlHLTBHYkZRSEpDZFgzX3I2aWJ1OHYxaWs2Njl4a2dWcTJXQWJmTThPZU9kOUFuZEZEdGtWZVJNeDBrVTAwbWNkeFBiT0gxMU9KWVZpMEUtb0Y1YzdtQmN1cEdOQlBwdlFQc3ZEakJXQzFtTnZTYkZpOWxfSXBYbjRwZl9lYUc5cHRBVzFwQUJxUkZHTFhKOW14NF81QnB4MVhFMFMzTzV3OUtwRnJnVDhDeWFDcWp5Z1cxOHViQklwMzlBbnFQSHpJOXFTX2lCY1c00gHuAUFVX3lxTE56elJ3SFJDOVl4NFZfOUszLXFfc3BMWXRZdVNrM3ZWMTZWQ0NYQ0c4bndhVWJKTkgtZ1QxYUsxam9ieEE5dmw3c0x1NzgxdEZFSnVwYjRXdE9xNzFJZmoxU2R4ZnFsVWJDOGx4WWdRNDduLW5BdFlkY0J2MThYRlByaW9JQTZ4UGZFR3BXbHkwUjM1UExIMVZVcHFvRnhNdWxkQVE4RzNrQmVpS09HY2RrQUFfTE44X0R1OEV0WTZUYURhaWI0eXd4VXFNTDhQaXlFWW8wUjdYQmdRYUsyR1FnRGdzVEFsRVNsWEYzS0E?oc=5",
       "domain": "India Today",
@@ -85,13 +106,6 @@
       "domain": "HDFC Sky",
       "topic": "Fuel",
       "seendate": "20260827T041157Z"
-    },
-    {
-      "title": "Flight ticket prices may remain high in India despite easing jet fuel rates - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckpRR0FhRWdZQkpVTzFwYVVwMmlvTmNoRmNhVU81RjAtQ2dfRFJ4bk1TT1d2a3EwazZBZWRXbHY0WkxkUkJIR0dScTl3N0h6c1JjUS1OUlE5VzRtMjZPUGJoUWVIb3RfWjhnQ19kRU5XZnRodjlTSmNWNGpVdEVXUzE3cDNwQm9sMktaYzJLSEtZM284anhUODRpd0J0RnJGVVVKUkozQnF3TF9MZGRJb2lMbms0cU0wMnNvNkJBeTZ2VXNuRnhZU0x5X3k3aE1kcjZGS1QwNTdvZmRtNE9neWk2U2TSAesBQVVfeXFMUFVuUGZzWmtvTlBlREoyS2NWM29FNXZ2blVmaEhYNUxpREtBNGYyeUlXQzJ6OWNmM0Z5M19IMDZSWmdRUHE5UjJrRWw5SDhPV2tMMU4tUVNwRU1yVjdXOExDc2ctSFR4bGcwWWJEdVh2U1FxdUxLLWU2LVRJcXd5cVlXc1AzTG1ST250Z09TWDFDTXI5NVZYZEhkeG5CZzEzdWcwY09WUDIzRWtxRVpGNXlwT0Uyc0NsNVVaUlFlRFltTWJMNXBjVzc2T1VmY1lVb01KR2kxMzJFWWJaMURVOThsdDhGcGo1Mi12SQ?oc=5",
-      "domain": "BusinessLine",
-      "topic": "Fuel",
-      "seendate": "20260826T091748Z"
     },
     {
       "title": "What the Hormuz crisis has cost fossil fuel importers — March to August 2026 - Centre for Research on Energy and Clean Air",
@@ -140,13 +154,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPek5YZ2NxOFpwUXA2NUs4VGZaR2hDQktnWV84SmQ2bzR6cmpwdGZyTWxIdXo5ZFNYY1pmemQydlRCV3Nub0c0bHVXcVMxcUp1dTVuY3FQY1p2UzdXUEpiMlNlX0FDMFhHOVVsNXRNMW1MWjhrSFNacDFybEp4SWFsWE5FSkVEeE9lSGhwSGh6SzQ4OGZuSFMyX2U1NFJEdDh5SzFOU25kQTB6NjNaMXc0OGJYV2pyc1d6RUZISHBValZVQnJsUjJBOHZnWXpyQWV0VW530gHYAUFVX3lxTFBVTjJwTnlDdHdpR0ZMUHdvQ1JibmJmZVZmSWV6MHVkWmRDSXpCa2o3RXlBdjFTYlBNa3JsVjRhb1ZqSXdlTWpIWnJJMW9wVEc4aTBqcUt6LTFNVjlpYzZiTkFzZnVZTlFab3JUNU1fRGhJajZ0M3JOcVFKSmJ5NmM4eFlwR2RHOURGOU5lRGhMcFBucmdjZ1B4RE5mUW5MeWFhQ3RXS2VGTWp4WG51Y2d3aGsxQzc3S3lFOFY4V2NpOWMyc1pnZEJweWxHRTd1OU5WUGxaNzVmNg?oc=5",
       "domain": "WION",
       "topic": "Edible oil",
-      "seendate": "20260814T070000Z"
-    },
-    {
-      "title": "India cuts windfall tax on exports of petrol, diesel, aviation fuel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWtWeURpNmxxSWZNSDh5Q0tpN0t4NmZpMlAwUjFaRHU3ZXhOcjVjcnFhbjdNYUp3Sk1WRXlkQWt3VlN6QWlGakoxS0lJVldOWEtJZnUtSTVwLWtDd1duaWFBZ2RvYjRad2lGcG9Wc29PUFNwTEJfcTh2WjFJRFhEZnB0WkM2UVBLTm5FY0xwSWM4VUZoZU1odGJEbGZCWjFWbmVkRnBoS3c5eDlHYjNuag?oc=5",
-      "domain": "Reuters",
-      "topic": "Fuel",
       "seendate": "20260814T070000Z"
     },
     {
@@ -204,13 +211,6 @@
       "domain": "orfonline.org",
       "topic": "Palm oil",
       "seendate": "20260721T070000Z"
-    },
-    {
-      "title": "Geopolitical Risks Highlight India’s Reliance on Edible Oil Imports - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVlzZHlvODVXeEVvU29mUDBhTVNsWWh5NHlkREp0VnVzOGVVdDFfS25qOUo5c003RDNZeW9LamY4bjhwdlBkLTZUcTRYWjZnSm8xOUZfc0ZVRGxlMG9ETmxwekhlSzVHVVpXUXZTTmwtd09Xd2I0N2JmUVlyNmRZREVfM051UDltUmV2cjhSUHk3Q1pyWXVaOEZkTWx5LVVfWFlTRElsSkJWRUZLa1l2bk1jd1c5WFhZMURCQ0xLUy1rSXc?oc=5",
-      "domain": "CME Group",
-      "topic": "Edible oil",
-      "seendate": "20260720T070000Z"
     },
     {
       "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - The Economic Times",
