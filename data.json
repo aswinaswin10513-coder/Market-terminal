@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T07:06:11.919303+00:00",
+  "updated": "2026-09-01T17:06:16.380255+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,7 +23,7 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.17,
+      "price": 94.95,
       "change_pct": -0.23,
       "alert": false
     }
@@ -31,39 +31,46 @@
   "commodities": [],
   "news": [
     {
-      "title": "Commercial LPG, Jet Fuel Prices Rise In India - Sarkaritel.com",
+      "title": "Commercial LPG prices hiked by around ₹10 per cylinder, aviation fuel by ₹6.28/litre - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUF9UUDBOczRNMlNRVF9aOWFlbjFhcHIyenZvX01pV21RdU4yNmMySUk4Q3QxeDNtWkxlWDFYYTlQc3JBMUtYRGFjQ1FrdE54aF94ejR5Z0hsOGRGLVZBNGpZNDhMcVFPV2ZZaXFMMVc0Ym1mNVVZT1lsR1JnZkJXcmVVem13VjdzNG55T1NpZVJ6ZWtJN3hYS1JORDNmQ0RhZ0wwdmtTT0trN0FB0gGzAUFVX3lxTE9pR3hNQTY2VTkzbl9VXzRtaW40OGcxaTM5TUlCTXkwbDFqNlowY29jQUlrTEJQTXkzeTZQWFhVNUhTNkswT21WUWhnRGVTWjZ5UTNwc21zNEtfRnRfRnFWVkF6d3lIMy1mczAwMnY3Skk1VEZhYl9KaFB5WFdOMDJSLVBFS3RnQnV3Rk5uLThGQTFhdzhMbkFUTERaanNFWWY4Vk1Oa2tHRWZUYTlWam9ydVUw?oc=5",
+      "domain": "The Hindu",
+      "topic": "Fuel",
+      "seendate": "20260901T160951Z"
+    },
+    {
+      "title": "Commercial LPG prices hiked by ₹10 per cylinder; jet fuel prices up 5.6% - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXc1b1hYLUlBVmU2V3BUamZfenFoeVYyNkhaMHJlRlRMakNEbDNzMUxFdk55cWZJdUlXOHY3MEh2Smw5alBSQXo1Tm9jUjZubWZlem9YNzZod0NjQXVSVDJjMF94Z1pUNHRld29YQlVFMUR5aUg3Z2YwNFZFVkdsQjJEQ05zVDZxa0lwQjVyRlBzUkVvdTVpQk10TjNuYUxBZkhyWmdzb3lRZkE1bkxHZXBPbWNtcEtTTWfSAb8BQVVfeXFMT3VJZkVGWXEybjV6NGU4Q0RiNl9PbEp0ZVhKOFJLaC16M2JrbVpBRXBGYjJYa0Q2Tkc1QWRCRnlIZGxUbTRnYmNRLU8wU3lha1JPV0UyRV9xX01aYmlRTno0Z0QyeHdwcUxadC00WUxoTVZtNE9TRnFzRXA5a3FjNnVQTVY2VmhPNllXVGZmQnViTHc4SHUycFdGTS1sakY1alVVRnFpM2t6NURjazNhM1B3ZUtuQWR0ZWExcmtDMU0?oc=5",
+      "domain": "Livemint",
+      "topic": "Fuel",
+      "seendate": "20260901T144111Z"
+    },
+    {
+      "title": "From LPG, aviation turbine fuel price hikes to new US visa rules: Key changes from September 1 | India News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVhFRXJBMUtBS2szZ0lTZjRUdFR4aEUtcXlYUlJxUlAwSEl0TkdJekZxVjk4OUY2QmUyTGxvUVdvdU5KQTNLQ3VYNXplNEdGYnNhTmFoVVRQaG9ST0VfRTZvUjJDdDVpLWpLX0c4aURRYXZzcXFTcTcxTnpqa1pwWHJjOWtOcmJCYlNxT3VFT2RHeXdUTlYxRXl5LW02Q0VHWEV6Yl94QlFlNFNELWVqaHEtWUJ4am5CWUtDQTkyT2RnWW8zUGpBcHY2V2JIeGh6QWZtdVQ4UEJXNUJFWE9feFdzaktXVXAycTZz0gHwAUFVX3lxTE5sQzVCZlBrVGE2R0g5WDFKclpCT1dWeVU2TGhNYkRGbXc3SXp2M1lEb3FFbzhjMjg2NkF2eFY1SHo1SUFCVnpBdjZNakFURUQ2cEx5OEhVRFNzRzNNcmEtUTdZQWFLaFhjVXhldGJiZ1VVUWJHbmNFeXJsVWFzN0tUTm1paUhfV29Ia01KVFVEYUFyWGdweEd5SFl6MjRBYkFBZ09HekxwUEJoT2xiUzlEWWU1RUdYN3U5c3NFMHNzc1FLRUFoejBTcEVyLWgxTXJaemtLZFN3UXh2ME9STFZXSHZsQUo5OS1zdGU0aG5rNg?oc=5",
+      "domain": "Hindustan Times",
+      "topic": "Fuel",
+      "seendate": "20260901T102537Z"
+    },
+    {
+      "title": "IATA Reports 121% Global Jet Fuel Price Shock in 2026 with India and Japan Most Exposed - afm.aero",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmdEbkVZYjUxSXFNRkFLZGtLT20tcUxPVzk2X2tQQ0FfNmR6dTRfekxMcjdNQzlCZnRmMk1xczM0ck9MNjNGNXdlUXNHenRMTWpoM2NKWXMwM2xwZTNKRlRkQXh4RXVQTjZaNVliNFVFdDJRNzJvS1dMN2llZGRaeF9pT3VpN05BbnkzRl93cXJKVXE0UDQ4T3AzVjhBODJ4UnprTExLeEpEYnY4LUxR?oc=5",
+      "domain": "afm.aero",
+      "topic": "Fuel",
+      "seendate": "20260901T093817Z"
+    },
+    {
+      "title": "Commercial LPG, Jet Fuel Prices Rise As ATF Gets Dearer - Sarkaritel.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanVtbkpGMS1MdzhkVWlHNndNMVRBbW5EaUtzbEdfMldGYTV6eFFBT1V6UXNJV3VLUk4xNFNvUkFBdTlUR0JCYWtfQ1BkaldnbkRMenZ1UU1EYVVNRFQzLVRrLUxIRXdnZzFIdFVQMUNXQWlDbmZzUUt5UHIxVnUxUU40Z3RJTXZfRnc?oc=5",
       "domain": "Sarkaritel.com",
       "topic": "Fuel",
       "seendate": "20260901T063825Z"
     },
     {
-      "title": "ATF Prices Today: Jet Fuel Hiked 5.46% to Rs 121.28/Litre - Univest",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94T09sX25RLWt2emhZVno5TVZXTFpTeC02bjJLZlcwemVRbnBiZS1rTmlEM0ZmbFpXT2o2bTRyaFA3djd6dEp6YzVPeWEwcGxNcUVjUmUxWC1VX0EyX29GbFlnUzE2Vm9zR05QV0kyaFJ1UQ?oc=5",
-      "domain": "Univest",
+      "title": "Airlines face fresh cost pressure as jet fuel prices rise 5.46%, LPG up Rs 9.50 - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFdWbHpEWnhoem9kRE1GTjA3U2VCVTZYR29RNXdwTlJtQVBoWUU2bjNMNXNDemY1b3AzblVNTkphVzdOc05tWTdvWWNiME8yZHV5VzgyQW1IdXpwLXp6TmpoNTA1YnhjSnRSNTV1NjZRNVhhM1VzbjRDc0FwSGZrQTUyT09sYktWV2xkc1pVRHowb2hNX0taRVBXejFoU2xuMHA4Z2JvOVRScEw0YWRHNWZKXzVTek9NSnc?oc=5",
+      "domain": "Deccan Herald",
       "topic": "Fuel",
-      "seendate": "20260901T063227Z"
-    },
-    {
-      "title": "India hikes jet fuel and commercial LPG prices - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXZRbE41ZXpOcmRMU3RRMmtpUWhJcFc0TG5xSmcxRVVIaHAyb2dKaGRxZDAwZkNGSnU0SlRtRVVkNmo0Yi11UXVEWmdVX2E4dXUtQ2pZR2NOS1d3aUdwQXRuR2FlQXhsdjV5MGJNbDJsRHBlYmI0TS0xSHhTazk3RXYxZm04UVVIRzFYWkFrMzdVd2Q0aG5XUHR5MNIBoAFBVV95cUxPRWF0czhhSlZUa0hGV3lQY0ExRE00SEh1ckRiVkJldURPRjVGSGdBMm1mUnZ5YzJqTGNBbGxRM0xnZVhNelZ0Rl80OUozOE9nTk1ManZWSzhKTE1mWGs2dmdVSlF0azdBVEtUYVZlSU9WREo4ZGNEUkhKN1g3YTh2dVRadkJtV3lHeEJnMjZpVWk0bTRBS3BlVGR0bjdOVF9x?oc=5",
-      "domain": "The Business Standard",
-      "topic": "Fuel",
-      "seendate": "20260901T052500Z"
-    },
-    {
-      "title": "Jet fuel prices for domestic airlines up 5.46% to Rs 121.28 per litre; commercial LPG up Rs 9.50 - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzF5OEYtUTQxRzhrYTNqQVZ1bUVqNHhjUWtXV2FtZW1hMnItMEJUYlFxTXR4VUhsbF9MT215R280TmZwN2pHOXpNbGgxQTBvQkYtLTNhYTdkZ1VsYTBwMlM4RUhRek1Qb1VMTER5QWhTR04ydlRqYlNEOHlreDJkMldxZHFtSGE5UzFraEpaRnRmbjJRaGpTLXozUWpXeHVwdXZHbkFUVDVvVVNiNU5EOWl1aV9uOXlMb3JvZzJBdEx1UFBtaVkyZTl4ONIBzwFBVV95cUxPdWphaHJqRDEyYURIaHJIdEthSlI1dTExbUUyVFR6dXBIN1RuOThsNE1maGdkS0hXTEw1RVhJNDVQMFBhM0kwUmRJd005RUlna1hqcDZSNVNfUTZ6cHhGbUc2cl9iMkZPLU5RTXRCeTZ3TVlYdFBkUUJ3NnRxbGpvYlJLQnNqVHR6RE1XdU1ieXRSVFZFSHhGc3ZpZ2pkYjZRdmhWeDVicnRZNDFHZWlMWFduN2ptY3dOLXNuS2dnZlFxaXpmWDZwRGxCeHp1dEE?oc=5",
-      "domain": "The Tribune",
-      "topic": "Fuel",
-      "seendate": "20260901T045105Z"
-    },
-    {
-      "title": "Jet Fuel Prices Hiked: Will Your Flight Ticket Get Costlier? What Flyers Need To Know - News18",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZk1oTGp3NDY0Z1pGb2tKenV2Nk1qWmh3V2JHMEJpY1RTSFJSSFY3OFNVTUFCcHdhR2poVnZfem1QREc4bGFXb1lkdWNsZko3TW1lWUdqeVlXN0FSaUxkR1lmZGp6Z0hfdWxJanlyeEFZVGlodk1lNUQzeXRNVlBLN0JjZ2diMHFCOURoQkkzVUxtSEppZnZVdDFKNW1qQ1NrRnI4VmZIU2x4U01hbFVyM2g1MU9sUElJMlltQm1pTWNyWmlETHM0YjlNWdIB0AFBVV95cUxQUnFuM1lPV0pLSkt0S0M2NEVHM0xaR2JRelhRTUVQalhWYzM0UVkzalRGc29VcXVyUGo1X3Z0aHJDamFvS2ROblFNVzFDYThidVRmdjFKVjV1TWFSTW9KaHVtT3Rsc0JOZ3JTVlRnSTJSVHpTenNsd2RWYlFfUUFXNC1KX0dRT214SHBST0FwYWt3S0tCLV9seVdUTWttMThOaW5mSUlVeG9PQ2FFdUVPMXVCeE9NUXl6QTZVbHExU1BTTV81Vmw2dHNkRzMtclRp?oc=5",
-      "domain": "News18",
-      "topic": "Fuel",
-      "seendate": "20260901T043223Z"
+      "seendate": "20260901T043803Z"
     },
     {
       "title": "Jet Fuel Prices Hiked By 5.46% Amid Iran War. Will Flight Travel Get Costlier? - NDTV",
@@ -80,13 +87,6 @@
       "seendate": "20260901T010225Z"
     },
     {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260901T003639Z"
-    },
-    {
       "title": "Retail prices of petrol & diesel remain unchanged for general public: Indian Oil Corporation Ltd. - News On AIR",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVlzRnV6RkpfT0tQQzNMZHNnQmRManRLZWhOR1YzdkQzaVNTdUF3NnJrVVhKelBJalFaRmVVcE5yeVVPQm43cWhPMHdrd2w5dS1ncDBGTXdGWE4yY2hBbG1rTnpDZjB1bGVlX0VYTDVsOWZSUi1iSVNzWVMtNUltczNsSlNYak5lckhVQzJjQUJHbWRwQWc1T2MwczBVd3VNTVNLbE8zbFF4akw0MEFMejFUUGd1dGx5ekFV?oc=5",
       "domain": "News On AIR",
@@ -94,16 +94,16 @@
       "seendate": "20260831T130601Z"
     },
     {
-      "title": "UAE fuel prices rise from September 1: Check new rates for petrol, diesel - timesofindia.indiatimes.com",
+      "title": "UAE fuel prices rise from September 1: Check new rates for petrol, diesel - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbTZVYWxCYngwcGxzTmV3Qi05M1FfYkp0VW5xR2thMUFvQzBPOHdpMG9Qb0lsakRRMmtxOEtkUmhZejBHcTJlVHFzYUNDRHVia1BnTXhNTlFPbzQ0SzRuV0F6NjRvRU9wUzRDUFkyMWcxZ3VROUt1SUtKbnhiejF2VERtM2Z2cEk5Skllc0tkS1NaS29UTkhkQkdCN09jSks5Z1BySkR2ekU4Q0VYMFhwazFjZXJwR1JrVmdDVmRQZm45NlJORFBXa3MzSXp4S2VYUkVNN042VDVzMWhkUEY0aVpxaE9Yd9IB6wFBVV95cUxNYlN4RXVUV1Y4QVF4RU05RHdRWl8xVWV2bDFPZ0tHLWE0c3VzazNtb0g3RnlUOUZCMzdNdlNGSS1UR2I5endjeU92QnFUUlItdXA2UEpSUDFrblRMT3NURVkzLV80SGhBbFlUUU8wcVpEWlVtbXBidGJXVWdRUC1uMEdVVG5ua0oxWGVKWFNhX3ZhYU5uMU1xLTU2Tm9LSjBYQWVWTVV4U2ZGU1prSXNubjdmSDYtTkwycFVUTjNIMWFXelQ2a1JwSXRKeXpYNXRzX1JLdXVHZ3FpV0VESG9lbVQwMm40cncwR3RB?oc=5",
-      "domain": "timesofindia.indiatimes.com",
+      "domain": "The Times of India",
       "topic": "Fuel",
       "seendate": "20260831T111600Z"
     },
     {
-      "title": "Colleges ordered to cut fried foods amid edible oil crisis - timesofindia.indiatimes.com",
+      "title": "Colleges ordered to cut fried foods amid edible oil crisis - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFJsU1B5X21Oc1BVak92Tm9CVmVCZTVoSkRzUGlQR1ozLUhzUmlVRnFGaVlaNW1tSWt1ZmptNVpXSnllUmNXcGNsWkJWQnhIVXlIWHBINVR6Y2ZSVDRSUmlWMm82TmdJd0l2cGNyWDJDbk9ReFZQNGRlYTh2YjR5VEl0bmZqRkJlS1RHckFJMk5KcFI5dEJtVUVHRzVjX2xhQ19CVGpvVW9LWThhU3Y2bDVSdWE0UHhIUF8wX2VKSUZDaDBPVzJuZV90QXZqdElTbkNB0gHYAUFVX3lxTE1HX0VaOEVDVGs1QThZR0tiU2hScGxOTlYwbXpvWV94R2x4RFBVRG9vVldlVmFMTzRGbHljd2Y2eG1MTEdTTGowcGxTYV9WTnI1Vml3Vl9nNWlpaEVZblZTa2Job0k0OXRFRERtV1hmanM3djNJLS1XWFFkNEktdUswbjloS3FuT1lQOG9RcVhUMTIyOGhzVlVVbk9INVhmYWdRems4d25SdzZvdF8tb0dBSzJSVFcyNklGaFFaYlZSaWxwRGEwMXlHbVNYS2x6RWpISURzSnFoZw?oc=5",
-      "domain": "timesofindia.indiatimes.com",
+      "domain": "The Times of India",
       "topic": "Edible oil",
       "seendate": "20260828T184100Z"
     },
@@ -150,9 +150,9 @@
       "seendate": "20260815T070000Z"
     },
     {
-      "title": "India Inflation Warning | Edible Oil Prices Surge As Black Sea War & El Niño Threaten Food Costs - WION",
+      "title": "India Inflation Warning | Edible Oil Prices Surge As Black Sea War & El Niño Threaten Food Costs - wionews.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPek5YZ2NxOFpwUXA2NUs4VGZaR2hDQktnWV84SmQ2bzR6cmpwdGZyTWxIdXo5ZFNYY1pmemQydlRCV3Nub0c0bHVXcVMxcUp1dTVuY3FQY1p2UzdXUEpiMlNlX0FDMFhHOVVsNXRNMW1MWjhrSFNacDFybEp4SWFsWE5FSkVEeE9lSGhwSGh6SzQ4OGZuSFMyX2U1NFJEdDh5SzFOU25kQTB6NjNaMXc0OGJYV2pyc1d6RUZISHBValZVQnJsUjJBOHZnWXpyQWV0VW530gHYAUFVX3lxTFBVTjJwTnlDdHdpR0ZMUHdvQ1JibmJmZVZmSWV6MHVkWmRDSXpCa2o3RXlBdjFTYlBNa3JsVjRhb1ZqSXdlTWpIWnJJMW9wVEc4aTBqcUt6LTFNVjlpYzZiTkFzZnVZTlFab3JUNU1fRGhJajZ0M3JOcVFKSmJ5NmM4eFlwR2RHOURGOU5lRGhMcFBucmdjZ1B4RE5mUW5MeWFhQ3RXS2VGTWp4WG51Y2d3aGsxQzc3S3lFOFY4V2NpOWMyc1pnZEJweWxHRTd1OU5WUGxaNzVmNg?oc=5",
-      "domain": "WION",
+      "domain": "wionews.com",
       "topic": "Edible oil",
       "seendate": "20260814T070000Z"
     },
@@ -178,9 +178,9 @@
       "seendate": "20260813T070000Z"
     },
     {
-      "title": "West Asia turmoil drives up edible oil prices, but supplies remain adequate: Govt - Fortune India",
+      "title": "West Asia turmoil drives up edible oil prices, but supplies remain adequate: Govt - fortuneindia.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckZIWmJibno3MTRLdlczeEY1RDFUa3hvaWllZUI3RnpkRzUzUWtRS1NmUi1qMXVESm9kUF9wamY0Q2R0cmpPQ05kbWpJN29OU0tkejdidC1xY1FrU1NZSHJUUDNLa3RUMGJldXozQ1dZZmVtandTQTV0R3JXMVJrRzk1SnBBSzlSV3BIc1JESzlRb3M1UHpua3pORlRHbDZnNmpvMUh6Nk9tRzVycmI3d2tmVzR6WWMtMkNpem9MX1HSAc4BQVVfeXFMT3lqbXpOcXRvVFlMNGJ4R1lHV3FEM1BtdEFvUHZQOUxSRDR5aXhzU3gxdTR0SENNNFZld29uVkVraTgwcXlZYVdGRjRXcHdYSXNHMmRXVkJzRHY0U0t2dnNsdUNFVzJRbVNJZnk4TlpMWWF0dE8zZWNta3BaOG5zcTVCMklkU19VU0lMR01LdWo3dmxyTzdFR1Y0U0pSQXg1YTVpbFIxeG41NXNPV2FtTGhxMUZRWGo3ZzlEejZEdzVZTnBkN3ZBSnZvcGp1Rmc?oc=5",
-      "domain": "Fortune India",
+      "domain": "fortuneindia.com",
       "topic": "Edible oil",
       "seendate": "20260812T070000Z"
     },
@@ -192,9 +192,9 @@
       "seendate": "20260812T070000Z"
     },
     {
-      "title": "Indonesia’s palm oil curbs could open the door for India to step up - Fortune India",
+      "title": "Indonesia’s palm oil curbs could open the door for India to step up - fortuneindia.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2pwS1N5WnpGTGtRaHVGeTl6TzlYcW1OWmZBblVsWUc3cGtzSkU5cWxHVUhDNlJRTzJkWVM3R2ZtbXVPT3hORVdFSXNUV2tqal9STWhVTVNrUndBTGVrQ000YWQzUTFIVDlPcUlmZDRmY3ZiWDVCN3Y4VTlJLTB1R3VzUl9xblpVNWtyaXlKRF9CaDQ3bnlaWVhtWGVUQV94ZV9MYkhqQnFPbXBDQ0I00gG8AUFVX3lxTE1xWm9rMWRvc0pydVEtUWlwR01OcHlibW80aHJ2ZmVpVmJFZVdfOWpBRklnNGpMQzFta2Yxc3ZUcm9DMDBNTGc2Ul9zX2tpaU9ONGdGVDQ1OWd4czJWUmZPXzZqbUZBbURRNDlJc3JuYW9QMkwyM3F1b0VYMHF0UmthdE9YVGMxMTZKU1NJSC1oQ3hwMlBoRDR2enFsT3pRVDhFekI2bUUtdVRWT2hZTEVUTHdXdFRKTDhmNF9E?oc=5",
-      "domain": "Fortune India",
+      "domain": "fortuneindia.com",
       "topic": "Palm oil",
       "seendate": "20260727T070000Z"
     },
