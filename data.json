@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:04:21.528678+00:00",
+  "updated": "2026-09-13T16:47:04.022232+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,18 +31,25 @@
   "commodities": [],
   "news": [
     {
+      "title": "India’s Top Palm Oil Buyer AWL Sources 70pc of Its Palm Oil From Malaysia, and Plans to Keep It That Way - Malaysia-China Insight",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzMtaEVxRDlQanlBd0FoWklmcXBFNkdZa1Y2dlhNUjZJUnliX1ZBR0Z5RFFWbC1FOU5ud1d0ZTVobzlGMXpKMFMxZ2ZrbjFFYVBiYlpadUg1STlFMHl6UURmdXljdGZLVXpIU0pFdkJXN0dMekI5V1VfNVQzMmxMQUxhcGgyU2ZfdHlpbDliRzRkc3g4Rnc3c3BIaDZqLS1xVERHR3dLQ1lGYUhHVVhTYWxlSmFSTzZrVUo4eklPZTFSRWM2dlhv?oc=5",
+      "domain": "Malaysia-China Insight",
+      "topic": "Palm oil",
+      "seendate": "20260913T115721Z"
+    },
+    {
+      "title": "Pakistan: Fuel price hike sparks legal community anger as Chakwal lawyers boycott courts - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVhGOTQ2b3RUZ3NFR04xbHFOOXdyaFI3em12aUxqdkJoYWlUQlFPV3ZIQkVVVl9XX0NHUlRXM0ZJNW9FN3dwcFVTbTVFTUpwcDNFLUxvZ0VXWXFuSzFqZHRUdm93djZqWjk3U1AtMGp4MW9ScHJwNXhwb3pNaVdlRGoxRGlVdnJIMnJzdldnMjJsT3RlRlhqTmlJWFpnM3FjRU5GQ0NGREh1emozV2RfMURLdTcxZkxZenhIZGF3cjJoa1hOc2lEQnQtYUZyd3ctVllnQkpRVWhMdDYxMk00TXFfOTlfcFHSAecBQVVfeXFMTWVYRjk0Nm90VGdzRUdOMWxxTjl3cmhSN3ptdmlManZCaGFpVEJRT1d2SEJFVVZfV19DR1JUVzNGSTVvRTd3cHBVU201RU1KcHAzRS1Mb2dFV1lxbksxamR0VHZvd3Y2alo5N1NQLTBqeDFvUnBycDV4cG96TWlXZURqMURpVXZySDJyc3ZXZzIybE90ZUZYak5pSVhaZzNxY0VORkNDRkRIdXpqM1dkXzFES3U3MWZMWXp4SGRhd3IyaGtYTnNpREJ0LWFGcnd3LVZZZ0JKUVVoTHQ2MTJNNE1xXzk5X3BR?oc=5",
+      "domain": "The Tribune",
+      "topic": "Fuel",
+      "seendate": "20260913T092231Z"
+    },
+    {
       "title": "Oil Shock 2.0? Saudi Pipeline Shutdown Raises Fresh Fears For Global Fuel Prices, India | Explainers News - News18",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYjM5N0pSWnB1TVZzWVVTMzVmc0VLamxwTy1Rc3otSUQtb19YeTJhYllMelVUYTRoSVFXcHJINTBzN2lzeTJQaDc1M2cxbGoydTA5ZnpBMjdDdDhHSGVDcDNCMkF2Yy1RM2dlSmdTb3hFRDEwTC1zT29sd3dfcHEzY2xlSDNuczdrNlBzRTgyekNFMzNuNVRIWjhwUGpkYm1iWUNBdHc5UnJ3cUJiVVdMeGJrdXFQTmxpQzZKenFIYTlCZlZQUV9JVzhvM0tmQk9ULWNCZg?oc=5",
       "domain": "News18",
       "topic": "Fuel",
       "seendate": "20260913T040501Z"
-    },
-    {
-      "title": "India’s top palm oil buyer AWL sources 70pc of its palm oil from Malaysia, and plans to keep it that way - Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRndzbTlQekhPZGdLUW1tNy1tV0xHZHQtcnJtTGktVUlOekV2ak9LUHBSTE9BOWN5aWdIajZscFhrZGtoaDlCUHNsVjVYeDdHMGRBRU1SOG5JbjNnSGJqTlFLTWQyVjdWUHk1NE5GRVZvLWpUYkZQWDhoYWRMRE5DamsweldCRkRIOXFKVEtqa2VzemJrMkRsMlV4V3I0YlBuWXhqTnM0VnVUcmxDQ2ItNFpOQkd6VkY1dldNalltYW1Ja0F6cUlDTnlKb0I1OTN5WWRTVEl0SXA0cGJQR3JMQ3NMTlpSNWxyLVd0QUJR0gHzAUFVX3lxTFBKQVVBYk03azNqU0hidnJXbXlCX19GRXo4VC1kNkQ1SWt3VGhEbkhOWWc1V010VVdUZ0RLcjJOVnhpdHdnVzdpdVhyM2doWE1DaFB1LXNnTl83Qllfb3FYQ0VWNDA4ZlZ5bUhIZVkyLWhsUkR0NFVROVh4QTRQenBmVUpiaklUSVplazZRdVFKeDNmN0U5UGN1Vy1XUkliNG9fZ1pQQ3F3YXlBVTB1MWJ0akZGZWFSM0FIdFpnTFg3ZnJaT3hjRmFhVFJvc1VKWlJpSmNxVTV4ODE0eDd4SGRfRUFUNTZ3RUNfU245SkJIUGFyUQ?oc=5",
-      "domain": "Malay Mail",
-      "topic": "Palm oil",
-      "seendate": "20260913T030000Z"
     },
     {
       "title": "Petrol, diesel prices today, September 13: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more - Business Today",
@@ -59,13 +66,6 @@
       "seendate": "20260913T002538Z"
     },
     {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - newsonair.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "newsonair.gov.in",
-      "topic": "Fuel",
-      "seendate": "20260913T001527Z"
-    },
-    {
       "title": "Saudis shut key pipeline, spark fears of further fuel price rise - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalBuNXltTXNuRWdpajEzUFZRUDIzNndyVGItcVJpeEh4WGVEd0Q5NlBIZXFESUNNX0VBZlJEWG13WExoSDZycFY2Y1NUS1F6S1lNU3FzOHpRXzhnZ0NIQ0p6Y2psTUNJWnFmX1VRRzBCcFRIN3FHN0FQUll1aUsyb01qM2FRcHRNaGpkTW9saFRZek9ENVpCWnhFTkFUUGVGR0FOeGtXQVgxZklWeXRvT3NaT3pHM2tBQTEzZWlTVkhaX2V1ZXRuYXZtYUZwNXlTSWVvaDdLb2RrV1nSAeABQVVfeXFMUEpqTUJLbVVLNjJ2RHh4dXBrU1lMLVUweFp3bEhBdEt3UXh5THMyd21BbmlUcFlHZGNrSzdJWkFIbEpXc01Mc2JlVmtTUGYyNUE1RUtiVFhxMFB6aklsRUk5V2dHVzZsU2l2VVdMckxNc1dFcVc1T25ZdENlbTFiWmJoMV9UQXR0MXhxT2VSVlZRMFpkT3FGMDNPZDRKMWtRWU9HVkJhVmI5Qi1QZVotMFBLTlJ2bTR4dUwzRkdBYVJCZ0pzR0stcTdWWDN2WWs1bWczU2FzVUpjdWVEMUFDZk4?oc=5",
       "domain": "The Times of India",
@@ -80,6 +80,13 @@
       "seendate": "20260912T024012Z"
     },
     {
+      "title": "High crude prices may squeeze Indian OMCs as fuel marketing margins, LPG under-recoveries come under pressure: Equirus - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVEUyM0lkcmtQQV8wS0I1SFRyLTNFT2oxZGZKTTk0MWtaOGNQWmU1cHYybTRBRzN1VmxacVRDelRFRFo2SjRDS2xVYTVVb0phdXhKOWYyUWJxaWVFa3hreGZBT3VuaktHRXh3WDZkcTlzWDR2QnVmblJEaGJhVUtpeVdJVDNlX09CSklDUDNvVFhQQ3FyNzFHZV9DUThOdHEtc1lmOGRJbkJKMEdsV1VjVXZWVGlPbTVhUFphb1ZUREFkR0Q3YmNDTWFBWmZZVFdZVFdqTmVzaXU2eEdzTmY5SjNMMnBvUS1RSVBlWDNWdjhCUzFFLXRTaGx6OA?oc=5",
+      "domain": "ANI News",
+      "topic": "Fuel",
+      "seendate": "20260911T062900Z"
+    },
+    {
       "title": "Petrol, Diesel Prices On September 11: Check New Fuel Rates In Mumbai, Delhi, Chennai, Kolkata And More - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWXE0Y0Z5S2VBa2Nsd0NtQnVnVVVUMDhGRGFMbnlMeUlWOHprM3Nxa2RxaV8wZXA1VG9zbVZMcEFSbFczbi04QlRHQUV4MHRhcnBObU5TM1c0LTFtZW5lcVllMmZsc1J4Nk1WTTNFN2pib08zd1NXT0pBT3owZmo5Yi05WmhTREtGUkkxTVdHUDYxNDRGTEVpemg1TEJ4eGw2RXdWREt2X3BGcEdFdncwR0FkM1d1dXA3U1BFZ1JxS0xwVE05dHJsbG9MOVlYZkJfeEFkZWdkNHE5bFVOSjZB0gHnAUFVX3lxTE1mVlZPZ0hmZmFPR3p1QUZQYld3VC15c0NOTkcwUzR6WlU1SEdrb3diOWhHLTM1N1JkTmFzNEF3ejk3OWRSejgxRHRCTlFzS0lXMTI5WFRpYk12dHJpZC1JcTQ1Tzd5SDZSYWlvbTlGWVI4WjAwVjdvOEV6dTg5RUhmZXBXSExKcmFJZl9GVlczcE84NUtRWkxReF8wZDVjSDVveDQ3SXlVZmY4OWJtOHk0dmJBRW02R05xTVhWeVZCZnRoTDNId2oyX2k0eXJxNTFXQTl6LWhPM1J1N3N3bXdzQWRGUjhwdw?oc=5",
       "domain": "NDTV Profit",
@@ -87,39 +94,11 @@
       "seendate": "20260911T022432Z"
     },
     {
-      "title": "West Asia tensions push crude past $100 per barrel, putting Indian fuel prices at risk - thepamphlet.in",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUxzVUVENTdzMVR3S0lUN2RKMHpjWHFDbkI2ZTVVVnotekxCZnY3dVpCNjVHb3Rta1k0T1ctS3QxRUdCVlVzME5QWTRoN0taRURndU5HSXZyTC00dUxpTm1aZ2Vya2gzTU14NzNmMUFyazRTcmxucU9JZE1uQVhvOEtidXduR0V1am9HS2NjSThzTUZ4S08yQWpDdU8xOENkbVZjVHJWUk03ejdE?oc=5",
-      "domain": "thepamphlet.in",
-      "topic": "Fuel",
-      "seendate": "20260910T105156Z"
-    },
-    {
       "title": "Groundnut, sunflower, rice bran oil prices rise, while soyabean remains steady - thehitavada.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDBZZU8yMENRWjdBMldvSDNGaUJZNHNkbUJ4UXpMNDBmM1QwR2Y0bUYwVUFHRW80d2h5TmxOM3Z1TXF2R0hUYmhlUzlQdndJRE1NeTkwbUNqOHA2WUNKOGJUOWdwSXVzeU5nTjZCQVNfWG1QaFh3cTZCSWx2UUZuWHhtaGh6TUFkMWhtR0x4eHZZN0V1WXVpeC1NaEpwekZFY2pTeTY1V3F4cno4RXFqcElUR2VPRzRJeFgtWmhZSmlSU2s?oc=5",
       "domain": "thehitavada.com",
       "topic": "Edible oil",
       "seendate": "20260910T071805Z"
-    },
-    {
-      "title": "Petrol Diesel Price Today: City-Wise Rates Sept 10 - HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNak5wUm4weFpKRkpPU3p5UzBhOGxFTi1wNGFuc1ppaU1tOUxjOTJJbWxETk1mOVoxWUxzSy1DTnlCSmJFZnJHYk1tVXlCaXVwX29uMWtRdERZbndwdWNENTZlazMzMEExbEc2aWxIY1hBdjd1Vk1YLXMyZGFaR0ROU2tkd0R5RFRJdFBkUkduTTJuQVBDMGkwVzFqOVpfRG5PR2VLM1I5UE4yVHVLRndJZ3A1Y29hYjZURFF2NTFsZUpiZlV5Vjk5MVNMZ3B1QlFpc1JkdGZnX2xkY01YdTVSQjRRWVc?oc=5",
-      "domain": "HDFC Sky",
-      "topic": "Fuel",
-      "seendate": "20260910T040942Z"
-    },
-    {
-      "title": "Lula cuts Brazil fuel taxes ahead of election as war drives oil above $100 - India Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkoxSWNNeDkwd3U0b0k4Tl9jMFNmV1JIa3Bkbm42OUNxZkU1UVk4NzRPekYxbm9NTnFPRm0xZGl1T0FDdjkzenBRNGxwVUJJRVhEYnU1LXpyOVdMSm5TdW1RWlc1OXlPSXdkLWlqSWw5cHdhbHJPSzg5YUp3MGlpZnhjOUpXM0Z0cUhBcHNvYXFKNDBSeC01NTFRcnRnTzRzWjUwSC11UkM1SldMVEVmQW5zSUVvY3pxYUhRWi1BMFNhUjlMaUhGUTdpd3fSAdIBQVVfeXFMTkRLbGVaOWJZSFFOOUc3OUpYc3IwV094aHR3VjhpelhFZzNPRFFQVmp5ZTRRQ2VCV3ZHQzhsRUctR3c5dGxrZE52amZEcmwwbkNrUV8xN1RqYjNtajd3bVVvWWJVT2lERUZOSG90RjcxUG03UGFGSWstQ3NBa0ZzbEFTdDdmTTRXTUIxbXg5eTRJb2ViYUxuODBiU1UtMGUxQTNuNVFSSkZiR19hUzA1Vld2cWxqWF94Y05KZEVVdVRpQ1JicnZLUGRNbmRSSlhiXzhn?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20260909T234827Z"
-    },
-    {
-      "title": "India August consumer inflation likely hit 20-month high on food, fuel prices: Reuters poll - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGlYbmVJUlVxS2VVZndGMVotTmMzQ2JOcnFGV01IaWFlRlE1Uk0xSkdWWW5kVnBFM09uRW5uWXl1eEdjRExGY1RpMHFrMC12bnBYRXRUS0llb0dLcXJ6dVRWYmdjOXB1ZHVCM054ZTZLaVdYeUJaSmVWU28zZGRvaWQ0WUtfbGRQV0VEWFVzZW9sbnpkSFFCSUZ3a0xhVTdEOS1lS25VRnE4cDlpQ0R0QVVfSThhR1EtRmw2NkFR?oc=5",
-      "domain": "reuters.com",
-      "topic": "Fuel",
-      "seendate": "20260909T090738Z"
     },
     {
       "title": "Palm Oil Weighed by Weak Exports, India Bottleneck - TradingView",
@@ -136,6 +115,13 @@
       "seendate": "20260908T130400Z"
     },
     {
+      "title": "India's August fuel demand falls month-on-month to lowest level in two years - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2IxdElDLTVJYWFhR3pnUDVTMm1IbERBSUVRTUlXWHMweUU3RmR1cDRnNnYzbklPMGFWa1laeUZpTGpLT0pxR3hQcmpnX2hrSkl0MG5xSEVwVk1fYUJfTVFCMzVVbTdUQVBHWkRyNGZnUVdqTlAxTkVxUWc3VV82SWZ0V0kyMVZTM3kwMDJLeG1OeDFQYTRvTHYtMnlFVkliWWZNNUlLN2NqRHVEZnpzbUxDOTZnV29G?oc=5",
+      "domain": "Reuters",
+      "topic": "Fuel",
+      "seendate": "20260908T123005Z"
+    },
+    {
       "title": "India’s kitchen feels the pinch as onion prices jump 43% in August - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWJvZXZiVFl0czY3YzhwTU9OX1c0V1E0YVNELUlTN3BjckdSX2Q4NW5wWkRraEpweGVfM3BUZEVnU3l1TE9aN1pWVksyNnUwTU1vb2M1YTNHbmZOZFRwWnJ1WG9oOWVKdkpUQ1JLeHNWOHEwSFNCZnFxc3E3dFhia2M1a20wZ3YwQjFJVFhwUHU5WXBTeWt6VWV4dlFvSmRyZWFXODdmbVBHLW9XMFo1ZDNneUdNeFgxNHJXU0EtSDVOYXBza0Iw0gHMAUFVX3lxTE4tOUZMUkZ4clEtUU9PbE1pZGlpeXgwU1V5VDI4NkhDTFY5bXBWcldjOEk3Y0t4QWJOSkhXb2Vxd0p1VTVNZEhxZnVkVDVueW5QMUYtNTVEVFRxREdaWGk1NXBPRTZvNjZWUXMwckZPS0t6WW13a3hWaHNNZy00eFVRS0JhajVGZWkxb2FEcmtJLTlGaGw2RHJZemRGY1I5NkR4NnpjNzRxbmFkQjRzMnZXN0JSUkZKOUVMMTNQcS1DN29lcVl1bW1MWEJrTQ?oc=5",
       "domain": "CNBC TV18",
@@ -148,13 +134,6 @@
       "domain": "UkrAgroConsult",
       "topic": "Edible oil",
       "seendate": "20260907T133846Z"
-    },
-    {
-      "title": "Malaysian August Palm Oil Exports Fell on Weak Indian Demand - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUk4VzdfVjZaOFltMzVTaF9MdTY0SDNDWW9uSGlWS2xDX0I4b2t2d21pM1lGYl83UVhkMjN4STVENTMtb1dhdTBDaHdpM3lPTFE4dUtMT2ZOU1hJNW5yelUwQ1ZpZmRzdU1yMkhiNHpzMjNtNEdfYV9RVTRDTGpxOWpTYUdocnJDOC1Id2NXeFltSGpCOFlLNEVQeDR3dGJCd1h3MTRRcGY1ZHhnNnFBR1lCdkw?oc=5",
-      "domain": "Bloomberg.com",
-      "topic": "Palm oil",
-      "seendate": "20260903T070000Z"
     },
     {
       "title": "Watch. Why could cooking oil prices rise this festival season in India? | Trending commodity picks | EP 113 - BusinessLine",
@@ -171,13 +150,6 @@
       "seendate": "20260825T070000Z"
     },
     {
-      "title": "Why is palm oil used in so many packaged foods and is it safe to eat? Here’s what experts say - WION",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0lvaGJqNE1vdi1GejBXcnhYLV9YU0xPS1dGTkxzeXF6V2t2MDFmV0lmOU1hRGEycXN3WEFoWTJBS2xuek9ocDlPcFhYZEJsdHVrc2hocjRJdzJMc0NBQ3RUME1aNDVIMmJTRUR3NDBmZmFJUVJONzhMb1pEdHpOQVdlUFExQU1yaFRXc08yOGRmOEFvOGRONnlCaGZZVzNKX2tNVWhPdWtRTGlRa0FKOU13SU4zUm90N3JFSmdZMGdPUHpnU0FTbnJtUkpFdXFSeU9La05R0gHbAUFVX3lxTE9hc0t0R2kwZHVSWkF1ZmhLc1U5akdrSi1oUnNReGk2VW9ONDZsYkpzaVl5Q1dTbEplaXJHUlN4aGRSWXdkYUtlQVIyUi12THRpUzlzd1lSVHpxMW80cFRlU29aVm03ZENmcHY5aGZDbkNkVnJBbHpIbkUwZVNFOVZPcDNSX29jdXFmenlwUkxNZzIzTC1uRGlIMXdOLVJzUzRJSGNweDdnQ09uZnZWOXNvY1NCeVp5ZnRGLTNxN1I4TkxHY0lraVNNdzhsNzlzVXN5aHkxazFtRjgyWQ?oc=5",
-      "domain": "WION",
-      "topic": "Palm oil",
-      "seendate": "20260824T070000Z"
-    },
-    {
       "title": "Rice, Milk, Sugar, Coriander, Sunflower Oil: All These Prices Hit New Highs In Four Southern States - The Wire India",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTVId1laclJhRWpDQmtpSTJDSFFNNUVzQ1otX3BHZUxMakNuNmgwaG9IekVfSURZalZnd2NnMUdMYUh0cGlMNncxU1QyVnY4eDVtX2pjbDZCcmxuQWtyejhGNDJyN3YtS1h5Uk0tRVRDNmFCclJlT185Y1A1SGJlVmxhalQ3dXpzZDhfZE1wVmxNOXhKZ0NmZ21ENllBQmRQVGx6eklkNFNaZUdOYU9EY2NHMVJQSDFoVEh3UjVvZnBCcGg2XzQ3RGxUVVpkQnZU0gHWAUFVX3lxTE1wREFfTmJZSHJfTVVZaUxQY0ljOXhSNFRYejd6SU1kbjBPOWNlR0NVZUd4QXlqUzByOUNWME9Nd21qREFOTm5Rd1FITjBnRFJTNXJtYnZXeVNQTmx5MFRmM1doZ0tXRmhrMHE1Y1VSbWR6azNQSmZIRWhGRHpKV29MZktEcjFvWl9sSjlPMGZDcXlTendrWWZ0SWd6Qms4TEEwdzBDc1hPamlSYVg0b3VIS3VHUm5jM2Ytc3JibDgxa2pPMXFWVkhhMWluX1dtM2xodGtsOUE?oc=5",
       "domain": "The Wire India",
@@ -185,16 +157,16 @@
       "seendate": "20260820T070000Z"
     },
     {
-      "title": "India Inflation Warning | Edible Oil Prices Surge As Black Sea War & El Niño Threaten Food Costs - WION",
+      "title": "India Inflation Warning | Edible Oil Prices Surge As Black Sea War & El Niño Threaten Food Costs - wionews.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPek5YZ2NxOFpwUXA2NUs4VGZaR2hDQktnWV84SmQ2bzR6cmpwdGZyTWxIdXo5ZFNYY1pmemQydlRCV3Nub0c0bHVXcVMxcUp1dTVuY3FQY1p2UzdXUEpiMlNlX0FDMFhHOVVsNXRNMW1MWjhrSFNacDFybEp4SWFsWE5FSkVEeE9lSGhwSGh6SzQ4OGZuSFMyX2U1NFJEdDh5SzFOU25kQTB6NjNaMXc0OGJYV2pyc1d6RUZISHBValZVQnJsUjJBOHZnWXpyQWV0VW530gHYAUFVX3lxTFBVTjJwTnlDdHdpR0ZMUHdvQ1JibmJmZVZmSWV6MHVkWmRDSXpCa2o3RXlBdjFTYlBNa3JsVjRhb1ZqSXdlTWpIWnJJMW9wVEc4aTBqcUt6LTFNVjlpYzZiTkFzZnVZTlFab3JUNU1fRGhJajZ0M3JOcVFKSmJ5NmM4eFlwR2RHOURGOU5lRGhMcFBucmdjZ1B4RE5mUW5MeWFhQ3RXS2VGTWp4WG51Y2d3aGsxQzc3S3lFOFY4V2NpOWMyc1pnZEJweWxHRTd1OU5WUGxaNzVmNg?oc=5",
-      "domain": "WION",
+      "domain": "wionews.com",
       "topic": "Edible oil",
       "seendate": "20260814T070000Z"
     },
     {
-      "title": "India's edible oil imports hit 10-month high in July on festival demand - reuters.com",
+      "title": "India's edible oil imports hit 10-month high in July on festival demand - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnh1TFgyaU5URUo5WjVYZFNNNDA3WEFkRTVTaS1pd1EzRExJVXJPeEptMC1WWlJEQlZ2RVNfUWFJYklKMlJIc1d3Mko4QVJwcENqVndld1VWOWdjM3MxcWN4NWRyOWtSWHlVTVlFdjh2RFoyY0lxRkVIRjJEeWdYZFJDenBQNjY3OEFkMlZQTXFsOXNnUWlwRE5JU3EtWklFNEljekpITUpUYW9OMy1pUm9n?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "topic": "Palm oil",
       "seendate": "20260813T070000Z"
     },
@@ -234,11 +206,39 @@
       "seendate": "20260721T070000Z"
     },
     {
-      "title": "India's June palm oil imports fall to 14-month low as demand softens, dealers say - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORXZjdk5tbmRjVkRiS0c3aUY4ZmJVWUFEdWYxbFg5cVRPZmFsSkh2LS1QSmlNNmt6Q1VGdVFUaG9HM0Q5SGVZay1RQldZZk5EVUNuZXdrT0ZEd1NScHprdWo3SDE4RXd2cy1Bc0s0M1llSVZiV0VNVHVDMTN6clkxMFhSaTJXQjJRNVRYV2ZFLVZBaVloWGVsQkd6anlSVnltUGhBTi1EWmRpeVgzcGlyczVIQU5qbVN5bHQ5RjR2aHNvbTR1UDFpVHo3T2ZvRGpRUjY4T3hUUGJWSWhhLXhNNjhXOC1LbkMwZFJBVVNqeGs5d9IB9wFBVV95cUxOTFlfWFIwM3Q1Y3hZblMxZkR2VEVUNXM5UDdfOFBmUDBUZzM3NFN3TFRvLUpwcFROV2dDM1lIRTV2MmNzZ3BVZmRZV3RLNGlDdnlwcjk3UXBjNGg2MzdBSWF3ZVd3NnBHNmhBeXU0NHhoOW9pWEZYZmc4V3k4aFJiVmlXeWREQ2Eyd0RzNTdrcThFV1NUUElvNmNDc0JOZy03aHd4RUdGQmlpZFF0WFBlS3o2Q1p1OV92WGlfMDM2MkpZZndoSDJDU1h2NV9neHN1VlRvcmtjOGo3SmJNYWVlN3ktTzdCM1d2TVdTeTBnZlhLa2lPTmp3?oc=5",
-      "domain": "The Economic Times",
+      "title": "India's Oil Import Cost Falls Below $70, But Fuel Prices May Not Drop. Why? - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHZERlcxZ1luZi1nUHlNTWxFTS1YZkpNTEZYbFJQZkFIOHlfZ0JYMDE5VUdXQXA2cnA2S3ZYRnpBUlhSeGplTVc0QmRkOXhfQmFRV3I1LWpDZTlaR0pjVFlhTHhrWmloUUFLTkV4dnNRYVYyWDlCVFpwWEhJMzRkdzM2dXJwdnRjcEpLZUZUTl9xdG5HR2xtRkRkcjNRZEgtRDhPSEViWU91Z0d4cDRBR1ZCOVFldEtpRlZ3eGdyONIBxwFBVV95cUxPeUtiMVQwTllIQ1VKQUh1MVcyS29MRUhDbnBqaFBpMG5qX0NwLVY4OHR2V0xzb2VsanIzT3B0VXh3UlhiN0VsbWF4OWktNGkxWk4xcWtra01WcVZKeEVqNU05d0Z0RkkwUkxEUW53T1hjZERfVlZpWDN5dS0yUzVyUzl0X3JscU1KUkxCbU82VFdjNFV6WXJZQW1nYzg2VVVlWk8zOW1uejdxa2xDUHdQTkZFc2IxSFBQZ1VEX2dlV2VCeDVnOG1F?oc=5",
+      "domain": "NDTV",
+      "topic": "Fuel",
+      "seendate": "20260630T070000Z"
+    },
+    {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260524T231817Z"
+    },
+    {
+      "title": "Palm oil is turning into fuel—and India’s import bill could rise - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0p0NUMxTEVVMVhPTkhVTG9SR0JpRzBobDdnRk1URDgyMWxKZ2ppcXFIcW9Xa3VjTHU2amxpc2pYdWpaOEtKZ2ZiZndmdzNXZFpDZmNJRTN3V2VRemZPN1I0NTNMTG5lYkNJUWxxUDBsNmxMYVFHcjJBa29Oa2N3Tm9SeUx1d3Fza04xa1ZfaUN2aERVdjZvLTN4TDNMdVhLUHZKY1Y1MFNjMXVZVHlMMNIBtgFBVV95cUxOVmtsR3Y3aVducmVzWk9obU5MSkxOSTJETzF4dHltYlJhTHA2NzY0aHFPZDlCSk9jeUFsU1lkUS1LRGZneTRrU3M5LTc0UEJ0QmZWM2d5Sm1zVjMxWHNuTDJmZnFTUnVaRm94R21CV2hEVlN1bzc4T2Vtekt6NWpQVDR1VGZIeFBzc0l2RVQwNkJVUElWSnJWUkNuUEhNd3h3ZzdtT3ZUdUw5MXFOVEpSeDlYTzJ1dw?oc=5",
+      "domain": "Livemint",
       "topic": "Palm oil",
-      "seendate": "20260702T070000Z"
+      "seendate": "20260518T070000Z"
+    },
+    {
+      "title": "Top 7 Indian Palm Oil Companies, Manufacturers & Brands - IMARC Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxNW54WkVoRF9VMGxUT0NvelN2ZHJCeUVUNEprRGd1VjFSbm5udW9UcVM4T05XUmotOUljcXhHek5QeEN6RWlkRVFITHBReWcwY0JMbzE4N2FxS0hKMkI4QWpYVkJvZDRLQVFPLWdkOXFpZWVaQnVtR09R?oc=5",
+      "domain": "IMARC Group",
+      "topic": "Palm oil",
+      "seendate": "20260420T062927Z"
+    },
+    {
+      "title": "National Mission on Edible Oils - PIB",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "domain": "PIB",
+      "topic": "Palm oil",
+      "seendate": "20251208T080000Z"
     }
   ],
   "alerts": []
