@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T06:58:19.121612+00:00",
+  "updated": "2026-09-26T16:50:50.614026+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,9 +31,23 @@
   "commodities": [],
   "news": [
     {
-      "title": "Relief for households as crude edible oil import duties are reduced - scconline.com",
+      "title": "India cuts import duty on crude, refined edible oils amid rise in retail prices - theindianpanorama.news",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3Z0TndhNDI3ZGxmYjQxMGpQQVNNMFZYRXZvTElVSXBTeDF4RFVnQVgzSi1FUjIxZ1Q0d2tPWF9CZXdISHUyTU11ZGdJZm9vek05anc1aEtKOXhwOHFUUVd6MW00dGFyUnRXaW1remFLNXJlS3MyRkZCRkhqVDUtaHBqYkpGRHhGNEVsU1lEWkRsdXlJZnN5NGYxdG0yRXNDaVRHN2wyYVN5SEJfQ1NyVnV3ZW8?oc=5",
+      "domain": "theindianpanorama.news",
+      "topic": "Edible oil",
+      "seendate": "20260926T110900Z"
+    },
+    {
+      "title": "Trump weighs US diesel export curbs as fuel prices surge before midterms - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVZucHlCT1JYM21iaTlPTUtnUnNrRk5rRFR5TEt6VHJfWGdTRGpXNC1yYVBjb3JWYjFxQjU5YUdnQzlUaEhXc2p4Z0xhN0sySnhrSVFKT21zZEpfekFsVzBER0JkSlcyVHBYM0M1Q1pNZ0RLY0hsNkw4LXh5MFNTX3dGSDUzQ1hNTllla2YwRjBVZjFXRmpYcG1PUEo2Zkc4bFdESkt1ZkljdVY4V2VOZDRob3dBLXJHcndRSGRWV29rcE15eHA0VWh6TURRTDEzVEFvZdIB2gFBVV95cUxQOFlLT1Z6dWRGX3YzNVpzUEdnNjlYRjI5cXVISnRnY1d1RGN4d0oxOUxhbGtsMVRKVE5UWGQ2YXN5YUdaMVBsSUFmM2g2WUJPOFJVZTZMMUduc0tRVlhnd3FjeHQ0N0RoMlg5cTFEZUhrUHBPelhiWC1XT045dUV6OHBIcUx0aVVkRGw5YndTb2xwSHhsVC1DSXE0bVpWU2FSZ3ZIXzVnS19KRk5GdmxvRkxCakxtWGowRHMxMEs2ME02NjRhYlUtbG1ta3BHMVd1NzhwTDRmWDVLQQ?oc=5",
+      "domain": "India Today",
+      "topic": "Fuel",
+      "seendate": "20260926T073837Z"
+    },
+    {
+      "title": "Relief for households as crude edible oil import duties are reduced - SCC Online",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTR0Q2Nic2RBWkpwUGRmMHlSY3ZRWF9jSW1XRmZQQUREMWpmcGdWaGlCcWowWmlnVlpaNzlpMXRSbUJZeXFEYmE3SDJmVzE3X2ZDQmkybGRJQ0gzdXF3dXIxTmhYRGtodVpKNDZXYWt4NHA2QlNheG5qNWpYQ05EQjFyMDk2di05ZUFxTnZwbXNOX2lwWU5YcVFVYnoyRjVkZXc?oc=5",
-      "domain": "scconline.com",
+      "domain": "SCC Online",
       "topic": "Edible oil",
       "seendate": "20260926T063035Z"
     },
@@ -73,23 +87,9 @@
       "seendate": "20260925T183800Z"
     },
     {
-      "title": "Why burden citizens with higher fuel costs instead of cutting less urgent expenses? - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFVsdThwQ1JzdWpSLWprZ21Md0FKVkZadlZ3YlhHQnZfb0FOSUJ2TEZPMlQ5SmJOcVNjNWVVUW44TV85bElnTjkwVVZHM2N0UmZMNm1xZEx1NHBpcGF4QjMzODFzS1R4WGxaQXlkcDlxWXg3SldRSF82RjNTS0c1SXlsOHpkUHdUc2l0TUFSSnQ4emM1M1ZBMTlCbEZlblFVekJkeWc1dEZHc2U4ZjJfTWItSGtaLW8yeVhhNzVpWkFjVEYwTUhZVzVR?oc=5",
-      "domain": "The Daily Star",
-      "topic": "Fuel",
-      "seendate": "20260925T164926Z"
-    },
-    {
-      "title": "Government cuts import duty on major edible oils to provide relief to consumers - AgroSpectrum India",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWVEa21FV0VhMkhvX0gyblFOWGpzRlFhMHRURVVtV1Q3MjF5dGlUS3l4VWl3ODBEcHFVU1BtMHBubC1SaVRXNkR6UnlXc2lhd2JYNXc5LXRFQmFwREpqZFZKTFV2YWR0Y1R0am5GZy1uMFdKOFNsM0ZHcjV0enBOZEhtVDN4UmlYb2t6Vmt0MEUwdk94aC05V0NWcWtuWVRjTUxOakpEdExPZTZ2SkRKajUybmp0MnlzeFpwbnVMT255eUtPSDJR?oc=5",
-      "domain": "AgroSpectrum India",
-      "topic": "Edible oil",
-      "seendate": "20260925T132142Z"
-    },
-    {
-      "title": "Govt Asks Companies To Pass On Edible Oil Duty Cuts To Consumers: Will Cooking Oil Prices Go Down? - ETV Bharat",
+      "title": "Govt Asks Companies To Pass On Edible Oil Duty Cuts To Consumers: Will Cooking Oil Prices Go Down? - etvbharat.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEhSUVVaUGg3MlRtRFhhN2NCUzRKVXZUTlluY0Y5NjNoa1RqY19DbEg0bm10ZzhBckdhU0RQUmVmZDkxMlhDTUZxSjhjRm9wN3RBYmRxUUNKNDhUU1JXSW9EUTdXYS1LdG5CN3NrcmYwVEFMTHlocVVIblpTUTVTNUdVSGhRYmtBN2JkeUdTLUJwQzZYejA2aF9yRVdMNUY3dlA3MkJRcXMwMVVwRDI5ZFFUMEdYRGJFZ2JuTFB5WVZpRkFXZU43LUJSWkVqTTdVVVFEZ1A0V2M1ODVxdzd1NFVQY9IB6AFBVV95cUxOa3ZKeE05dnhSU2ZkVmU5bEZLQnEzZWdtTkgybGVHWEVVbGwwRHRHSkhwX2JhVENOOVIwZXMwRFZCdlVXZ0luOTQ3LUdKSENUT2JHbElSelhmMkI5NUtXWkpicXNtZVNZZndJckZJN1RGRmdQNFhOWEJKWGNyLWt3c3pkSkQzUTdwTFF2amdJb3dyZ1BKNzNuY0xBTS0zV2NTRWVOajg0X2dTeF9RSGdjd3ZuSzIyNFp1RmNaLVNnZmo3Tk84UmhicU5xNHJJLS00dVB5SnBVZF9PX3REMEFJcVgyOWYyVU1p?oc=5",
-      "domain": "ETV Bharat",
+      "domain": "etvbharat.com",
       "topic": "Edible oil",
       "seendate": "20260925T060627Z"
     },
@@ -99,13 +99,6 @@
       "domain": "News18",
       "topic": "Fuel",
       "seendate": "20260925T022656Z"
-    },
-    {
-      "title": "Retail prices of petrol & diesel remain unchanged for general public: Indian Oil Corporation Ltd. - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVlzRnV6RkpfT0tQQzNMZHNnQmRManRLZWhOR1YzdkQzaVNTdUF3NnJrVVhKelBJalFaRmVVcE5yeVVPQm43cWhPMHdrd2w5dS1ncDBGTXdGWE4yY2hBbG1rTnpDZjB1bGVlX0VYTDVsOWZSUi1iSVNzWVMtNUltczNsSlNYak5lckhVQzJjQUJHbWRwQWc1T2MwczBVd3VNTVNLbE8zbFF4akw0MEFMejFUUGd1dGx5ekFV?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260924T212513Z"
     },
     {
       "title": "India Opens the Door Wider for Palm Oil Imports With Fresh Duty Cut - ChemAnalyst",
@@ -129,9 +122,9 @@
       "seendate": "20260924T085235Z"
     },
     {
-      "title": "Govt Lowers Import Duty on Edible Oils as India Seeks to Curb Price Pressures - apacnewsnetwork.com",
+      "title": "Govt Lowers Import Duty on Edible Oils as India Seeks to Curb Price Pressures - APAC Media",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1saVB0RE4tRUxBRk1QVzdic191TDYtSnZwMXRDX2xzRGRIQXljNG5CMXF5eXRVTlZMS205SzljVjllY1BIeXZmUzBGZi15R1FLY3VRa29UQkVLZWVJcFFYTUxuMkxiNlBURHl6N2dtNnNYREZxY005RGNLZ1g?oc=5",
-      "domain": "apacnewsnetwork.com",
+      "domain": "APAC Media",
       "topic": "Edible oil",
       "seendate": "20260924T073334Z"
     },
@@ -178,9 +171,9 @@
       "seendate": "20260923T174706Z"
     },
     {
-      "title": "Cooking likely to get cheaper as Centre cuts customs duty on edible oils | India News - Hindustan Times",
+      "title": "Cooking likely to get cheaper as Centre cuts customs duty on edible oils | India News - hindustantimes.com",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT0NCdEpIRHBhWDhnb2RyMS03NEFEUi1yMlVNYVhXVkwwV01RMXNGZ2pRV1NQS0M5dzY4QUptMnQwUFZwYjdfcmE5VGIxZkNNdkJTeDlZTnlYSndLeklFOHgwS29raVZPdHV5Sm1UbjQzSDhrV3JIdm1GbFhfOFl4dlUyTmR0Yms5ZGI4Ui1NWC1SYVRXbVpZRm03ZzFwcS1ZaVBkY3E3cWxadlRnMjFvYmpTcm82TUgtSjRxek5oUWRQZjZ6WXNxOWhkS0hkSmQyT1QxYkMwSFJFUHhSc19kUV9fTTBvSXpPc25vTGlzcTBBcHpoOWVIYVFaeTHSAYICQVVfeXFMUHdIX0xzMHo1VFNmb2pyek1pNmtVNExlQWNOWXFDaUdHZnNvSnhHN1hvanBXNmhRZHFtWnJzbjJ4eFJiMjhBLWgwejQ5WE9oa3VqX3dnSWEyMDVJOHgtcmk1ZEVLUHJ5QURFa0p5enVDbGV5eFJuZHFTb1AwZTRkN2I4Z1ZfaEMzQ3NrX0tHd3ViRHQwTGFiLUVUVFIzY0FHUGc5RlU3RERTNEtGLVJtbWxxTVJwcFI0Tmc3MWlPbE9PYmRocktON3o0WnNVMlJzcjN3OWw5dzZNb2hXY3Q3azE3d3JEczBKUzU4SC1VTHNlR2p2TldXMkJhakhsM2Zwb2tB?oc=5",
-      "domain": "Hindustan Times",
+      "domain": "hindustantimes.com",
       "topic": "Palm oil",
       "seendate": "20260923T171957Z"
     },
@@ -206,18 +199,25 @@
       "seendate": "20260923T164319Z"
     },
     {
-      "title": "No petrol, diesel price hike proposal yet; govt may support OMCs if crude stays high - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXI1X0d6eVQ3T3pqUUVCaXpMTjZhRmNRN1RaYjNlZ0ZkNVV6OTk3QjNqbFVTNUtUVTloMlozZ3FDZk96VXhrV2dWcUc2Y3VPR2VGVjZrdXNJeDhBLUR1MTVvT3doOEJUd25BWkxNNWc2ejlkc1RqU1hRTHI5OURqcVV3cW4ydHpFNXlFWS01UzEzampaeHZ4Vi13S2dQMTc5M19jQnJ1ei0wUERtWGpOM2VuQTQ0elZWemxVSkJWNjJERVhobng4NklsbDU2QzNoMWNabkFJOEzSAd4BQVVfeXFMT1ZMVVd6b2M1eDdVV0FmOW02VFpnNzNlV2JsOUZyTE1BX0JFYXBaY21jdDRMVTJSV01IcWZrZFVmbHVYUEg0MlNDYWU2NnRVckhKdXdfME1iX1lhQUhzVXZ4NXh1aHpnT3REb0w2V2JUM1NaeVBGNUhjdHNVOUlJTTZSZmlXQWowZzJqLXRGc3pnSWE3cWkyZ0lnWk9RTjZWR3A3aXhHeUVkZDVqTmwyTGxRS01Oc2pzc2I5c3RWZTlDWHBpM1FVQU9hRXNQM2VqSlpDWmhmckhvNk9hTjVR?oc=5",
-      "domain": "Business Today",
+      "title": "Fuel prices expected to drop in the coming months, Indian oil minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV8xbHd4amxYTGEwekJPVGpqMENGdENIeXpFaDNVdkJSZm5JMDM4WmVxV1BYVHN6MmNZZlNrZVgxWmdURmpwNDZMTTZKVG1kR0ZFdVVwR0NUeElETjhVd0Z0bm9jQVJmcGNXenRPeGxGQl9iRVJFeDVfVVlIeFZsWnhPSVdvSWxTcDV4YWFhWU84UGtmSXRUWTdLRl9BUVhGd3VFVFd0MGw0WVRTX0N6b2xn?oc=5",
+      "domain": "Reuters",
       "topic": "Fuel",
-      "seendate": "20260923T101821Z"
+      "seendate": "20260608T070000Z"
     },
     {
-      "title": "Petrol, Diesel, CNG Prices Today, September 23: Did OMCs cut fuel rates as Brent slips below $99? Check... - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYk5vM3RVcGp2N2I5Tlp0NVZ1WVNOMW5sX1RvMDhsakJWaXVNZTVfNGViVWpxeWc3WV9LRlFkT2FaMy1MWkNDY3Y3OHRSS015eHl6eXNBYlB1anRlejJHRDFEV1ljS1NxZEQ2U0loTzlfWGxmVWlOMGVGenNDOG5FX0tRUVl5OWphcE5OSVU5ZHE2bkxFQjl4SjBRTXphNzRZNzhqVW9tUWtmd1lGeHV3bVV0bV9vdDZ3eHdoRWxybUIzUm44b3p2cHBaeE1jcE8wRE52MmlYWWljeUgxUXVveTljYVllYlFGOGtaaWxoQ2Q2X0plRVdvcERR0gH_AUFVX3lxTE9jZFJncmNleW4xWkpwdElvVlRZWHZkNTZlOUF1MjZhZlVVNGUyeGo0LTZFZ0lzUDhQSFJDcHkteWtvdEF4dEpCQ0xVMXo3QmVScGZsVGQ3RlMwbk9XaUtqNFIwLWxYOGNXVVprbkx0VzBoMmlmcWlvY2g3REZ3TS1JR2lFb2RuVkl2NWNYamtOQVBXQkxyTVprakNEaDBsYzZQVkE0ZmJuQkhRZGFwdFhINDI0R1JkRUYxaUpnMW9tWXRTc3kxWDZQM1FxSTNkazZnb0ZpRG9ra3dpMGQwQ1BUYzQzNDB4Qnl0Nm0xYVVTeUJPRkswVkg0YzY2UGRFOA?oc=5",
-      "domain": "Moneycontrol.com",
+      "title": "From Pandemic to War: The Crude–Fuel Price Gap in India - FACTLY",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NVXduMGpza1hSZzllMWszQzNNQ0QxcEV6UktlNlJuUjlrRF84RVAzV1doVUYteUU2MVpjRDNwM2gtUFktbnVjdG5ITGoyc1ZzMkdpMk5JY3hiSmFzazQ2ZDZOeXdWT2p6WThDdkQ0WkkxbW9VUXhRNXNYZGNsUQ?oc=5",
+      "domain": "FACTLY",
       "topic": "Fuel",
-      "seendate": "20260923T033243Z"
+      "seendate": "20260601T070000Z"
+    },
+    {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260524T231817Z"
     }
   ],
   "alerts": []
