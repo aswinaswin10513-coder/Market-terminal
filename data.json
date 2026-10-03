@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T07:27:29.326763+00:00",
+  "updated": "2026-10-03T16:55:47.294471+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,6 +31,55 @@
   "commodities": [],
   "news": [
     {
+      "title": "Nayara Energy Hikes Petrol By ₹5, Diesel By ₹3 Per Litre - Sarkaritel.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXJfbGtqZ3o5WVNfbHlVYTBfQUZvSUpaZjItUDh4Vm1PY3RPU1NhTk1TN1dpOW5mMVNXeG1yeUxWS2oxeGd1LTZTNUxpSUdhZ0RNaXo3eVJnNnpJVDJBSy1DU21RLWlnSWZNNW9jZENCeEtYbS1Ia2tkYmU4RVRicjJBRXJjZw?oc=5",
+      "domain": "Sarkaritel.com",
+      "topic": "Fuel",
+      "seendate": "20261003T114329Z"
+    },
+    {
+      "title": "Nayara Energy raises petrol price by Rs 5, diesel by Rs 3 across 7,000 pumps - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ3lTY2g3VFVoQ1lOenhfcm0xY3A3ZGVSNnRjaGF6RlItbWwwYWVJdVBoUk5kSWVHTVJtNUhkNjZja0dXdWJjbWY1Y0RXdmJNTGZTeUFoSVVaNHlsc0NaTk1FQlBpejVKWlBOY1h1T0dBUHEwNjQ4Y1ZSTFFTcGhzRUZMWllMYnV6VmtKZC1YakRZRDNjY0pVNVZxdnViUHJuU3ZjNE5zcGRhamdZZGhLdWxmenlfM1VHbUxjTUFwZnhhZjDSAcgBQVVfeXFMUE1GVEdhRTd6RXQwVFFRTWI0c0ZjMVBvNUdVd3l1NGc1SHg3Skh0VU1TTzA5R3A3aktVZ0RZQTlRNG94c0FqcU5hN0lGNHplWGp1WVNWX0w4TXVXNFVrai1BWk40RzV5cTZIZE9id2M1c0FXOXZ0cEFoNlFmLXB6MjZMYUhVcXNYYzN1cjdPU2Y1QmRFUGFPaDM1WV83TG11Q2N1eHJhZGRTT0FFNlNZa2hWN2FlSm1Oam1FaWlhdzhaSk5pRElHTGs?oc=5",
+      "domain": "The Statesman",
+      "topic": "Fuel",
+      "seendate": "20261003T105700Z"
+    },
+    {
+      "title": "Nayara hikes petrol by Rs 5, diesel by Rs 3 amid pressure from rising oil prices - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNS2ZoMDNZVlVicW5rS1NkSzFvS296aUJPZVFlWC1sbnVfQTYtVzBveWZ1ekVPbkdVVmRwMWJzcTBmLUlmV05nZHFMcDZaSWlRbEhGLVlkX0R3WmM4RWFVYUR6Y01tVFlieTBfd1NiZGFobUtnRnM5LXBtQ2YyeF9ubTJsZi1hQmFFa1ZmakU0Q1MtZ3V2bGcwbkdtYk5SWE5rTDNLckRiUTZRSW1ZZm0yWFMwYzJIelIwYkNCTmVXd0F1S3NDT3JFRlR4aFcyTWxIZEI4TGhtR3FyTURvN0Y3YmNEb0NjMXE3T0pENXlGek5CZGZvYUV1WdIB_gFBVV95cUxPMmNoRGs2cWVwdWQyVkNyY3lDZGJ1ZnphWktEYzM1dks4U0VaWkNRZEl3QXFvRXctWWo1LUdmWXVpOUhPanRHMkwySjJLVkJSSVdwNEZHaTBCblp1dU5fWGtkUEZYVEhjMEdvYzBSRWpVejRCdm00WVhiNlJxWDczSXNkaFZTTHZwWG82TWhiUTJGT3Z6dFEtY0FoQmZmYk8tVFIzUlFqYXNpaWlQNTZTMXJ1alZzdHA4aUEwQ09XRnVsVTVQMThuMkZyQUJyYjBKeUphSHNsYkU3NTl6aFVWN3hpVHJPWVVFbXVaNXFkcHlEYWhIdVNTSVdhS0pCZw?oc=5",
+      "domain": "The Times of India",
+      "topic": "Fuel",
+      "seendate": "20261003T091100Z"
+    },
+    {
+      "title": "Private Fuel Retailer Nayara Energy Hikes Petrol Price By Rs 5, Diesel By Rs 3 Per Litre - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDV5SENjMXd0OHFyc3htTzQ5M3BLLURyWGUxNkVYYlI1WVl0ZmJXdjNhVjYtcUtpckpfd1lWSVFfMVRTTW9pRy0yUHhzSlhIb19OYWUwWlpuLWJ4M3FYUGk5Q21lVUlRSlJrUG1QZ0FjLWJBRjltQmp3M3lxXy1rOFRsZzZ5UU9uSUJkS1FncTN4N0NpRFhlR3hXczRlaWllSFdDLWJtVjBTUGZmc0kwOXJGWmtkRGo3NnZJQzJlN1Y1VEx4eVVJ0gHPAUFVX3lxTE1ZZ3dPdjl4TTN6aHo1WkhwNno1UGNMVWh6Rk8wUWxkVmk1Y3NCUFQxR3UtQXJLR2g1MG9DZzhjMVUwMjBNYlBuc1c3amwxWVV0Sktpb1dJZTJxUFJOWEpSMllIMkRqS0xOTjAxUHZtZWZBVzNZNUo1UjJpaUNEY2xjNEd1Vnd6YW90S3p1aE94eEYweEtXTk5UcVhKVE5fRnp2ek9weDkwYzZsb3M2NGxCMkFsTVFuakprN1l6b201NW9IZDg2aUhXSHFGbkFUbw?oc=5",
+      "domain": "NDTV",
+      "topic": "Fuel",
+      "seendate": "20261003T090529Z"
+    },
+    {
+      "title": "Nayara Energy hikes petrol by ₹5, diesel by ₹3 - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkFNTDBqd2ZXOUlFeWtTd21LMmVIUHEzbFJobUN4czluUlNWMGlTZGNHYUNocW9pSzFTSHJDcE94XzRuZjFzbk5vUnBxRERSOW5YZWYtSktaSjZ4LTNTSFRxU0JoYUo4TC1xLWJLVEZzNTVVWWgzTER4YXBNYTVWeFVuQUVQQ09oSlVER2publZiLWQ0dWcxRVZyYkNsM3FrNHdSVjk2NG0tUdIBsAFBVV95cUxOQ3dCZEdjYkdxNG9qZWtMOW1Rbnp2S3c2WXBLWjNzb3Y3eU9QbE40aGI5b0Z2ckh6YkhmYmh6THlkUnRuaU5EdE5jSnBqcFRNQzk4dm9tWnZGYy1zZTd2VHNTeWRhVkF0eDR2aHRFZWdtemlYdjd5TWg5bWFRLXR1N1RHT2FQbzNuaTNKenBDbE1kN3pWUk94QmdOczBBTUNrN0VGaHNMTVE4NDdjbTFrdw?oc=5",
+      "domain": "The Hindu",
+      "topic": "Fuel",
+      "seendate": "20261003T090118Z"
+    },
+    {
+      "title": "US-Iran war impact: Nayara Energy hikes fuel prices in India with immediate effect; petrol up by ₹5, diesel by ₹3 - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVEIzb2dPTmZEWUJUOU5WbnNyREhMbExhTjRrSUhNMnpoZV8yalgzWUd1a21Jdndrb3lvR0RDQnRLYlYzd2JUTGNmeWxibUJOVDF1T2hkMXNGTlZCSmJCUkNBYXBpclVfOVFGazdWc3RNZHdGZk9PVVlaSjk4YTZHMGdqYlhqXzV2NGtDRjZjeUFod1YteW1ZYlVwZzJzZWl5RWlrSDNfejkwbWRoWkFGZFVFZ1J6YVZDUE9hd0R6cTBEMS0zaFNUN3dicUhoYnBUNjI2alJrUXBzM1FZdm1DU2x4X28yZ1UteDZRckh2eXBTaVJO0gH6AUFVX3lxTE91SXBrd1plZ2FwYS00dUluSGdSOEVnUDBWVHo4VllOaTYwVS1YT0Q5UHc0VDJBVXRMRWpYXzVVVTNmZ3BFX05OeHc5M2ptZGRNaVQ4dEFCLWpyZG4yM2stcHk2M0phUGVqYnF1Yno0a3p2WkpLTzhycjRFR3RuMXJUQzhva3VSOVI3blpadl9ucW9xYWUxcDRjUXVBM01wa1MyanJ5WTRjSWUyMUM3QWNENHVKYkNXUkFLRHFPYlpRSHUzRGExaHJHYWdrZDR3SnFtQ2hfT00wQXVJZkF0TU5FakZocHdfcTNxNDQ0TmNiUlRQaFB4Ti1wR3c?oc=5",
+      "domain": "Livemint",
+      "topic": "Fuel",
+      "seendate": "20261003T082634Z"
+    },
+    {
+      "title": "Rs 5 increase in petrol price; Revised fuel rates come into effect today - INDIA - GENERAL - Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWFZTFRmRXFiM3lMd0E1bTdsME84QzhRbFhIcl85dkItRm9PZWQyY1FOenBTN0paVTNXZkFIUDJfSE5NYnZnOHlTbHROeHQ3Skp0MFl2MUJkSk9HaExVLVk4VGgyZExNYjIzUVhKclM3d2k4ZFA4NkZBa2toZG1mOVI0QW5nZG1hZVRYVlFhaTNrWkU?oc=5",
+      "domain": "Kerala Kaumudi",
+      "topic": "Fuel",
+      "seendate": "20261003T081220Z"
+    },
+    {
       "title": "Nayara Energy raises petrol price by Rs 5, diesel by Rs 3 - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHFMdG5RMzRHanJjQWRDUjZ5YnFrX3AtMWN0VmRBSzZyVWZsZjVkYTE3a3BIdGFvXy1Yc2VjRXFXSGlVVTVkMDVBQmF6dXZON19OTHRsd2NNemh0OC1PaXlzZ0ZiRjBGMHY3QS1idVFqVVR3Y2hrS1BsclZiclhHdGc0TG9CallSVS1TLVMwaG43SUh1ZHFOaV94YUxnUEd3U0xYSWx0eGVUbTV5RlFTSDVVaExtSFo1dDk3YUxnSnQybXlWSENrQ1RKRXFPb0XSAdQBQVVfeXFMTlBhMWgwRU12MGZUR2ZaeTZBenI0eTJXelpsUmFfNlJDeTFUN2pjaTd3T2EwWHVFdTMwQkRVMzhOcXRUN0hPWnYxNDRBT1BFcHBEaGtWSmZubnExWFVPZ05RX2JfMVA1dzRMNWtqRXdKb0hSaTk4aEM0YjVWREdwRHlsMHFXM3JMamh0VjQxWC03c0FzbVFrN1JHSlQ3NDNCTFJEU1dUUnBqUzhEcHA0T2ZZbUxIa2w4UTFOMjlwWnZmclN0VG9TRkxaamJLQUFHVF8xTzQ?oc=5",
       "domain": "The Economic Times",
@@ -50,34 +99,6 @@
       "domain": "NDTV Profit",
       "topic": "Fuel",
       "seendate": "20261003T021811Z"
-    },
-    {
-      "title": "Government reduces central excise duty on Petrol and Diesel by 10 rupees per liter - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzVjZFBGNzUwQ3NzQUFvZThTVHZET0VDazJSVW0xLVduMU1Eb0ZfT3J4UjNZd2pOUXVVaEpoWXNXaERDTmhjemN4VGhzc2tkZl9HeV9oTU14NlVsdDV4eUJTOEktemRqNm94cFY0cmx0NXlZUnV5V3g0MDE0QUNFLXVWS3dxel80b1dzeHlqREo5M2wwTGNHd1Fhc1hVR1NVUm9EYlJGSlJOempwVGJz?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20261003T015320Z"
-    },
-    {
-      "title": "G7 to release 100 million barrels as diesel prices hit record highs - India Today",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZm80NXJTMGdOVTh4bFBQZWd6MkYxMGt5MkNTVmUwUnhxVS1acVB4Y3lPMWZqT01fTTJ2QmpLd0xyMm9CZDVmNUlMRi16c0ZmVUFkWHp2el9tRE1DUEk5aFhaRU9Md2E2UF9aOGdjS2FfNXFHVnlqbDdxd1Y0VFdTYi1zbnBxdUxHa2dycERHNGEtZ0kwN3gtb05VR2NhdmF6TUlRNmlWcUIzS2lsYjJXX2o5eUJwV3B3azBnbVlXSEhUVFpmU0hSODN6NHh6QdIBzgFBVV95cUxPZm80NXJTMGdOVTh4bFBQZWd6MkYxMGt5MkNTVmUwUnhxVS1acVB4Y3lPMWZqT01fTTJ2QmpLd0xyMm9CZDVmNUlMRi16c0ZmVUFkWHp2el9tRE1DUEk5aFhaRU9Md2E2UF9aOGdjS2FfNXFHVnlqbDdxd1Y0VFdTYi1zbnBxdUxHa2dycERHNGEtZ0kwN3gtb05VR2NhdmF6TUlRNmlWcUIzS2lsYjJXX2o5eUJwV3B3azBnbVlXSEhUVFpmU0hSODN6NHh6QQ?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20261002T220045Z"
-    },
-    {
-      "title": "Trump wants lower fuel prices. G7 agrees to release 100 million barrels of oil: Why it matters - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmtqR2E4SkZDdmYxczltSmRBa2pVc3FQemtySjFaTlM3MC1BRG1PUm1zTFFLV214VEZjak5ENHQzdDRmdGVoajk5TmhmeEN3cVlib3V1a2pKMUxNZEpFcWtjS0JVUDdvekdRdmZiR3ludHhDUGFwTTBINGJqVS1FOWJOTnZNbzJ4ZmFIOTJVbk1ERmw4WnFpWWxkLWJ4ZjRWOW1LTnNnNUU2cG4wNFHSAbQBQVVfeXFMUFZ6M3BVTS1mNVdDTHRvTzNmUVlmbGIxQTdGaGJxTXR5RmdtZ2s0WHByY3RIckVWQTh1eHhTSmFPM1p2SFpXazNLdzh1LURwUXJhcGdmRU9CbjR1aE5XU0laTkRxZ19IZ3NFNThCU0VDTjBXbXl5M1BwcUZZYW9KT2pNUVNuT0pCTzBrb0IwLXo5YzVlRm8yLTRXX2hpTEtfRlRMdlVPTmh4NjcyVmR5N1NtdmZa?oc=5",
-      "domain": "The Indian Express",
-      "topic": "Fuel",
-      "seendate": "20261002T175718Z"
-    },
-    {
-      "title": "How Rising Fuel Prices Are Influencing Two-Wheeler Loan and EV Demand - SMEStreet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYV93emJJNkZWQ2lhcUs4THFGeEh2VHJLRjg3M1p3T1AzS21HNkV3YmpocTlKTFVUMXQ2T3F0ZTFVY1lJUFNKeHFSTE45VFRUZTJLV1FpZkgyZnFzWVFXNG9uanVMR25kSUJfMXVGUVlsRS1ON0I1LWRKenBJSDJOMDRwdHJ2c25nekpVa0JVYi1UWHhBancxRUQ0Ty1EQjhDZGdYUVJGWGRqN3FrNFR5VXVaTVl1N0p4anRiU9IBvAFBVV95cUxPYV93emJJNkZWQ2lhcUs4THFGeEh2VHJLRjg3M1p3T1AzS21HNkV3YmpocTlKTFVUMXQ2T3F0ZTFVY1lJUFNKeHFSTE45VFRUZTJLV1FpZkgyZnFzWVFXNG9uanVMR25kSUJfMXVGUVlsRS1ON0I1LWRKenBJSDJOMDRwdHJ2c25nekpVa0JVYi1UWHhBancxRUQ0Ty1EQjhDZGdYUVJGWGRqN3FrNFR5VXVaTVl1N0p4anRiUw?oc=5",
-      "domain": "SMEStreet",
-      "topic": "Fuel",
-      "seendate": "20261002T170225Z"
     },
     {
       "title": "India Cuts Edible Oil Import Duty. How Can The Move Impact Prices - NDTV",
@@ -143,23 +164,9 @@
       "seendate": "20261001T061200Z"
     },
     {
-      "title": "Petrol, diesel prices today (October 1): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT1cyeHB3N2pNWHpuTTJIRkVnZW9pTEViZmV5QXozakFwbXY0NW92aGY5UmxHYnJIT0RNWWVjZkRTY3FSM3JaZEozRkcwT2lvVmc5Mng3RDRhNDN3SjJsNERXeUZzY0JWMTlyLVozUVlpU3ZLajdmY1NtV3RMekhtN1BCd0h3cUIxM1hNX1FzQkRMd1o2Z20wME5iUlNzamFJUHYwV1NBNFh6QlR3NzR0d2RKU3V0S0VFeXpPb3o5TzdyMW5kc3lTSDVHaEZFelBUYlRUa1VITFVKbHV3NUZFTU5nYWt5d9IB6wFBVV95cUxQbUhuRkE0aUU0cEQ5eFdoSlNqN1FMbFZOMENxVmFuSEx3cldGSGp4TFhiNGtpYkg0Y2JaWi1uaGk0MlpZOHdoZ0YxczR6bDlDcXJTbFJUYXhha0JIQ2dyUXd5ZEtXOGxqOXFsRkFDTFZVX0xHTlFLRXg4NFNNSlhCNmQwWFF5RXVfMG44ZW5rTUpMYW5VR1pBYm1PVERBM05tMk5JTDdPT2xjdkEtN09SYWI1UUpKM053aERvWVRoc082aUlERTFPbmdCMzZVaHVCbkpwcE9QNzhhUFV1el9GWmo2b25oSmFiVUd3?oc=5",
-      "domain": "Business Today",
-      "topic": "Fuel",
-      "seendate": "20261001T033942Z"
-    },
-    {
-      "title": "Petrol, Diesel Prices Today, October 1: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMW1hdmtwUy1XZzMwTUlkZm1zdTFuOE9XOGZ1UXN2Z1lRQmstRzg3MFlVLWljc1Zta2NzNmhYcjJDRjN5MVBKd3FCaHpxbjJWcXBLcUpFSEdsaTFMdGJjVW1ld0d3ejgyaWhrQ1gxMjBONFhmNzk4WnFiWGFYbmFCc1gzVWZWTXRwSWNVYnNHQzhxNndJTzFRZmM1QmhtRmkwM25scnAtY1dIWmphTzVlNjBNc3NmTS1KX3RCQlhsaG04RE5xM0gtLURXeERnd3k2dnN6aHhR0gHbAUFVX3lxTE5IVDBWRnBUSkUzNm96ME5BQmdpRVM0ZDV6ZHpoZFphNFhVVmJPVFF1d1lXRHB6OVJyTGJhamxOU2FxQ1VmUVZoVzYzY2h2VFBGcGpQOUVud3hXY0xJeE9oZ1ZJWGF0bHRvMHJueTd1UWFXd3RvR0hEdnJQNGZSeDlkYXREQWdtenFZWDVYMGpxZUV4b2ZsY3JXUERPVkxpWEExY0JhQjZGM2NSOVEtM05MSUQ2Y2g4U0RiRVFHTzJBQ0p6M0NGV1RISFBuX3dTUGtxaUNWTmMwd01sWQ?oc=5",
-      "domain": "News18",
-      "topic": "Fuel",
-      "seendate": "20261001T020025Z"
-    },
-    {
-      "title": "India Sept palm oil imports seen at 750,000 tn, says GGN International Desai - Informist",
+      "title": "India Sept palm oil imports seen at 750,000 tn, says GGN International Desai - informistmedia.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2g2dWkzSi00V3o5S1hqRnpqUEdsak8zcnhmaHFTanJ4dlhnczIteTlCcUt4NW5KTnJkbzRlWDV1THJPdHp3VC1KNmZvWmFZTGVvRmU3OVJqUzFNZHlTVXZoVFFwaVNWYlQwbkczQzJ5dkE3aXliR0F1S21Ebmc1Z2NicEpmQ2VlS0ZLbzRGMDJveHhBRDM4NHVGWXRqV1dvd0hDYk9yaDEwOWl2LUt5RWgxbXA2RGFTMnAzbjcxc3h1UV9RWFRSOF8yYkhQS04xZjhiZEZB?oc=5",
-      "domain": "Informist",
+      "domain": "informistmedia.com",
       "topic": "Palm oil",
       "seendate": "20260930T183547Z"
     },
@@ -206,9 +213,9 @@
       "seendate": "20260928T050204Z"
     },
     {
-      "title": "Import duty cut on edible oils ahead of festivals | Explained - thehindu.com",
+      "title": "Import duty cut on edible oils ahead of festivals | Explained - The Hindu",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU01LZEQtZV9QUG8zcHd2SGdUZC1lTFZKNjdMcUFqcS1EYmxRc3BQSU03UTVkaVlDMXc4UGJyeXdjSVQyMVo0dG55b0dfSUFIbU9TWUhuWDlzTzlDSDlabFpIM25Qd0MwTllYVDRyMFQwdkZzZmZmaHh2Um5VS25SUjNQbHpUd3l3RGlqYjZuclRRdElHSmhidTFUZlRhTUp6QzJIOG91cXY0MDlheVl4T0ZTX2YweWV1ZGfSAcABQVVfeXFMTlNjVlB1TUVYTzRpVzZGUUtjSUpwT1FDNDBIeFpwQUtueGI1RXUtOFUyZTZOV0MxekJ2Ni1wUUxMWFBWQ0JqTGQ4emM1WUlnWUphYXl1TVFROFZHTVpTTjQ0emVHdmJtU3ZmWGVnNXJFTTR1bXl2bDl5a1A2Yl9aRlBSd2FZd3lmMTUtRUQzNDNRcTN4MmNuUXFzZ1dOU1RiQTlqSUdqVkN2ZHZUQjlKNjNsdVZDdEdCVHEzeTJSX3Ay?oc=5",
-      "domain": "thehindu.com",
+      "domain": "The Hindu",
       "topic": "Edible oil",
       "seendate": "20260926T041229Z"
     },
@@ -217,13 +224,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
       "domain": "Reuters",
       "topic": "Palm oil",
-      "seendate": "20260923T070000Z"
-    },
-    {
-      "title": "Indian OMCs incur ₹530 cr daily losses; ₹8 per litre on petrol, ₹9 on diesel and ₹300 on LPG: ICRA - thehindu.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzdYVENfSGtJQlRZRkF5WjJCc0NsMjg5R19kMTE5Y1VlVXh0bklDalQyN2RhaU1WWlNBMjh4Y3F2S0w3d25ZQlYxREd5LXNCOUhkV3RxaW1ULTE0NHQwS0pEbzI4OVRIcWpQUG9TRFlsY3dkXzhnZHVWN1R4MkpLQURuUFV4YW1XOVBXdWNUZHJBVzFVR0hpaG9aTHBUaGgzc2ZtSEVKWGVXVmRuWHh0X1VzRzZ5TkN2V1g2REpaeE05T1EtbjJ2czlteFpGZnV0dVJTQ1dMb1VxVWtqTTl1VWRMR2pRSlRf0gHvAUFVX3lxTFBIekFPMERwSGVyOF9pVVFteHpkN0J5SWtWQnVjWWIwaDhyTDFiTDd3elNkWXlCX3U5UWZIVkxtV1VLay1nMEhlSjc3dl8yVXJ4akZlQWctQXhZQ3NCTTdSa1g5OWRlNEZkR0xDZWdMWHQ1WmlnWElVNUtXTjE1NF90Zkx1eHdfZDd3c3JsczY2V091cVA4S1lxTVBvYlVBaHc1TTlGQk9IeUlJUmtMSTJZbmtWdXhTZlhYaVpxUC1YeEF2QThOaDN5XzVHRF9qZE5ETW1idUtCdk5iSDJWNFZBOHpncWJNemFLOWVXMlE0?oc=5",
-      "domain": "thehindu.com",
-      "topic": "Fuel",
       "seendate": "20260923T070000Z"
     }
   ],
