@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T07:40:03.162299+00:00",
+  "updated": "2026-10-04T17:14:03.180849+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,6 +31,13 @@
   "commodities": [],
   "news": [
     {
+      "title": "India’s vegetable oil imports surge 13 % as palm oil demand accelerates - AgroSpectrum India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkpsNUZ0ZzBtT3BqQlA1TU93NG5CWnVIeHVkNTFwTk9sSWhoaW1vc1hRODVaYWI0UDB4MWFnMGZZRWxudFl6R1Fzc0c2ZHVobnFVYVV4cUZicWV1c2JmUlNvN3VpelBnMDNCZnhLcXJENkd6N0ZaUGFZbFgyRmYxdjBtOGF5emdmNWl5Uk1qQVRBcnBQMk1IUThwRXBlWUFlcDJqN1N4bFdYamFzMzF2NWRXd1hSZWhw?oc=5",
+      "domain": "AgroSpectrum India",
+      "topic": "Palm oil",
+      "seendate": "20261004T105704Z"
+    },
+    {
       "title": "Bulk Diesel Price Surge Widens India’s Fuel Divide - urbanacres.in",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjExd1VxeFFXU1R4aFJwZEQyVVZ3M2FZbjl5ZlJMZ3drMGt1MHBvaVpqZVZJc1d3alV1YloyWTdvd0lmbExWRDJYU2cybHc1SXdhMTRhVm5jUlZwWFFXLUYwc0xLbDJaMXdFdXBMdktRWm85dDRRUnc0bFNDYS1zNTF6UUpXMVVf?oc=5",
       "domain": "urbanacres.in",
@@ -38,11 +45,11 @@
       "seendate": "20261004T055208Z"
     },
     {
-      "title": "How India’s Food Prices Rose This September - meghalayamonitor.com",
+      "title": "How India’s Food Prices Rose This September - Meghalaya Monitor",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ndk9Db1NHQlhMeUpfei1aOHhNa2g1ZTRJM0hqWlNkOV9kcXZYM2lXVEc2LWZ3NmVrOHlHazhfZlNINkpsLWxRT3ZzdzNoZ0MwVHR6d2NUR1VwR3I5eVNzdEpqSlBZcEZWelpJbFJydnZhX19PVW9LRTh2VjI?oc=5",
-      "domain": "meghalayamonitor.com",
+      "domain": "Meghalaya Monitor",
       "topic": "Edible oil",
-      "seendate": "20261004T054703Z"
+      "seendate": "20261004T054904Z"
     },
     {
       "title": "Indonesia’s palm oil export rules set for major changes in 2027: GAPKI flags tighter supply at GLOBOIL... - Moneycontrol.com",
@@ -59,25 +66,11 @@
       "seendate": "20261004T025633Z"
     },
     {
-      "title": "Global vegetable oil prices seen rising on tighter supply, says analyst Mielke - The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mNzdqTnR4ZUJyZi1ZVHBnWnR2UmpsOEdRZmFHMi1xZ011em8yX1lJdFFBSGlwaE9lbWplZWdHU1pkeWpPNmxZOUhWajBIcE8t?oc=5",
-      "domain": "The Edge Malaysia",
-      "topic": "Edible oil",
-      "seendate": "20261003T222120Z"
-    },
-    {
       "title": "Nayara Energy Hikes Petrol By ₹5, Diesel By ₹3 Per Litre - Sarkaritel.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXJfbGtqZ3o5WVNfbHlVYTBfQUZvSUpaZjItUDh4Vm1PY3RPU1NhTk1TN1dpOW5mMVNXeG1yeUxWS2oxeGd1LTZTNUxpSUdhZ0RNaXo3eVJnNnpJVDJBSy1DU21RLWlnSWZNNW9jZENCeEtYbS1Ia2tkYmU4RVRicjJBRXJjZw?oc=5",
       "domain": "Sarkaritel.com",
       "topic": "Fuel",
       "seendate": "20261003T114329Z"
-    },
-    {
-      "title": "Nayara Energy raises petrol price by Rs 5, diesel by Rs 3 across 7,000 pumps - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ3lTY2g3VFVoQ1lOenhfcm0xY3A3ZGVSNnRjaGF6RlItbWwwYWVJdVBoUk5kSWVHTVJtNUhkNjZja0dXdWJjbWY1Y0RXdmJNTGZTeUFoSVVaNHlsc0NaTk1FQlBpejVKWlBOY1h1T0dBUHEwNjQ4Y1ZSTFFTcGhzRUZMWllMYnV6VmtKZC1YakRZRDNjY0pVNVZxdnViUHJuU3ZjNE5zcGRhamdZZGhLdWxmenlfM1VHbUxjTUFwZnhhZjDSAcgBQVVfeXFMUE1GVEdhRTd6RXQwVFFRTWI0c0ZjMVBvNUdVd3l1NGc1SHg3Skh0VU1TTzA5R3A3aktVZ0RZQTlRNG94c0FqcU5hN0lGNHplWGp1WVNWX0w4TXVXNFVrai1BWk40RzV5cTZIZE9id2M1c0FXOXZ0cEFoNlFmLXB6MjZMYUhVcXNYYzN1cjdPU2Y1QmRFUGFPaDM1WV83TG11Q2N1eHJhZGRTT0FFNlNZa2hWN2FlSm1Oam1FaWlhdzhaSk5pRElHTGs?oc=5",
-      "domain": "The Statesman",
-      "topic": "Fuel",
-      "seendate": "20261003T105700Z"
     },
     {
       "title": "Nayara hikes petrol by Rs 5, diesel by Rs 3 amid pressure from rising oil prices - The Times of India",
@@ -115,11 +108,11 @@
       "seendate": "20261003T065544Z"
     },
     {
-      "title": "Edible Oil Duty Cut and Its Impact on India - usthadian.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WdjlTbDFXM2cza1d2OF9HeXM3dHZJSkt5ZWF3VXBfX1UwY0VmeGdNdHdDU0Q2d2I2eWJCck9RVEpjZE1iRkxHOV8zem9rcTBJTXdoeU9xaC0yYTZSNkctc2NxSHYtanlXUmdJRkoySS1MYXFOYU1sZENB?oc=5",
-      "domain": "usthadian.com",
-      "topic": "Edible oil",
-      "seendate": "20261003T045534Z"
+      "title": "Petrol, Diesel Prices On October 3: Check New Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaG5FNGtDM3NtbjlMSVRZb2FHSnhZQXVqYkNnaEZhb2dXMUY3QzBfcXNFX2ZfM1VJWV8yUDI0X3pXdGljaWpsUHo4N2p6RjFhaTFxSUZRM09DRGpsMDhta2R1akpaYWNaQVZiSUlmLW9fNURtTXN5dGdOZDZ2UkhZbTg3ZGRNQzBPRDB3X1pac2llNmJjek8tZTNBYnMyMV9KZ2Nra3JidFZsZ1FuMTJHVFJsTXNuODZfYWVjY1BSZklYU0VzM2FGWDcwby1qUV82UmpTcVJvMWk?oc=5",
+      "domain": "NDTV Profit",
+      "topic": "Fuel",
+      "seendate": "20261003T021811Z"
     },
     {
       "title": "India Cuts Edible Oil Import Duty. How Can The Move Impact Prices - NDTV",
@@ -136,23 +129,9 @@
       "seendate": "20261002T133822Z"
     },
     {
-      "title": "Telangana seeks Centre’s support for oil palm price protection framework - AgroSpectrum India",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDJIOVYtZHJNMzN3ZV9vNWxIRFYtYzh6SmpRc3BJdHhVOC1aMGJVa28wY2RCckR6VDltYkx5eDVaWkhZbmd0MmFrUE5OaS13ZEpVVUpBOTRyN0pGYkp5aFR0cmFVNFZLRjhMLWRJMmdDV0JtX0xGWG9wUU5jY3NSZUlQaWVIMEo3VWpHTkt1MHFsNjJCSzJZNUVCSEVBNFpWVDdtWWRQMkV3NXg2b2dQSnFqd0NJUXRpU3JEeA?oc=5",
-      "domain": "AgroSpectrum India",
-      "topic": "Palm oil",
-      "seendate": "20261002T083938Z"
-    },
-    {
-      "title": "India’s vegetable oil imports surge 13 % as palm oil demand accelerates - AgroSpectrum India",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHhTNnp5QkRwUUpGM1ZRX2FZVHZLMHM0RHU4WXpSWTZYMVo0M0R6bi1rVFg2RWt4bFRfbzhHblpiVFdhWk43V2YzQzk4Ylgxb3NUc20tWUNIc3pKUDk1Q0JIazFfdkZrM2dUdlBDM0d0eWJRVUFIcWg4Mzc2cEZTTTNBeFUxdjJ4Ykl2RllJRFpDekU5LURJM3dvMGQ5UTk3eW1idHNYQUVqcHA1WU0xT2s5YmFFUXFZT1E?oc=5",
-      "domain": "AgroSpectrum India",
-      "topic": "Edible oil",
-      "seendate": "20261002T030109Z"
-    },
-    {
-      "title": "Edible Oil Duty Cut Balances Interests - India Business Trade",
+      "title": "Edible Oil Duty Cut Balances Interests - lucky.gives",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWFowR2h2bWhoMWVVajhwNlRsMFdqVUxWaEg2ZjY5TmM5ZHlyVTdTZFg5SFN1bWRQQkdqRmo0US1lTDFIWEZjeHFCa2U1WFZNcktoLUVKYkE4V0otNUp1dmVBWGFPNlVYX3V2a1JJTm5ScWYwTWE1Vm1Bd0psbUU0SDl3?oc=5",
-      "domain": "India Business Trade",
+      "domain": "lucky.gives",
       "topic": "Edible oil",
       "seendate": "20261001T190249Z"
     },
@@ -171,9 +150,9 @@
       "seendate": "20261001T102951Z"
     },
     {
-      "title": "India Steps Up Palm Oil Buying as Tax Cut Spurs Restocking - bloomberg.com",
+      "title": "India Steps Up Palm Oil Buying as Tax Cut Spurs Restocking - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnZSSER2MC1aN2NPQmdmVHgwX0VGUWxfeHNSeHRPaDFHbUVCdmoyay1JemdwLWxfeS1idXVxWGg0MDBQelEtem96Z2JYeXhFVVlxVEY3RDk5VzBSY2V0dEtzX2Qwd2JwQnQ1RnR1SzVVZ3NHaVlqWW56dDNuQ0VxY3UzSFkxUi11XzlyVUROTVpRb0xURFlSTGNoYzFUNnJEMnhkMEY0VVUyME9jUXc?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg.com",
       "topic": "Palm oil",
       "seendate": "20261001T082201Z"
     },
@@ -185,16 +164,16 @@
       "seendate": "20261001T061200Z"
     },
     {
-      "title": "India Sept palm oil imports seen at 750,000 tn, says GGN International Desai - informistmedia.com",
+      "title": "India Sept palm oil imports seen at 750,000 tn, says GGN International Desai - Informist",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2g2dWkzSi00V3o5S1hqRnpqUEdsak8zcnhmaHFTanJ4dlhnczIteTlCcUt4NW5KTnJkbzRlWDV1THJPdHp3VC1KNmZvWmFZTGVvRmU3OVJqUzFNZHlTVXZoVFFwaVNWYlQwbkczQzJ5dkE3aXliR0F1S21Ebmc1Z2NicEpmQ2VlS0ZLbzRGMDJveHhBRDM4NHVGWXRqV1dvd0hDYk9yaDEwOWl2LUt5RWgxbXA2RGFTMnAzbjcxc3h1UV9RWFRSOF8yYkhQS04xZjhiZEZB?oc=5",
-      "domain": "informistmedia.com",
+      "domain": "Informist",
       "topic": "Palm oil",
       "seendate": "20260930T183547Z"
     },
     {
-      "title": "India’s Sunflower Oil Imports to Jump 30% After Duty Cut - chemanalyst.com",
+      "title": "India’s Sunflower Oil Imports to Jump 30% After Duty Cut - ChemAnalyst",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGFReFFGRVhmclJiZUFxbEpydldnVC1LZW5Cb2VfdDZVdzVfUnZFVUFqalgtWWxudG1ocHNkZnhHMS1Jd09rQlNZMG9sX2dxc05HMDZ0Q3VNRkVvRk9iWkdudjR3VDQ1eThnVzhLTXJ3OTZFMGF0alI2QWtYbHNoYWUwWGI0V3RCX3h0cno0UUhyemxVQUhNQWY5R2hrVmRjWVJNdVJ6U3VMNGpGbnJHTFlrcw?oc=5",
-      "domain": "chemanalyst.com",
+      "domain": "ChemAnalyst",
       "topic": "Edible oil",
       "seendate": "20260930T142147Z"
     },
@@ -213,18 +192,25 @@
       "seendate": "20260929T064633Z"
     },
     {
-      "title": "Despite Duty Cut, Edible Oil Prices May Remain Elevated During Festive Season - deccanchronicle.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON25OVTd3YXQxN2hka0VnM2dDUFpucHhOZW9hcFhKOGV5VnVUaU1vVkxPMlQwVlF1Q1p1SE8xVno1SEFxT19SMmFQMWZrMUpSbDg2ZXdHOU1nWG0tay04ZWg0OGNmTWJza3RVSkNGVWY4emtUbmItU0JhMXd4dUE2OHBTY0l4cE96TTl1UVBzeWtJUExYUkNURkFFNlpNOFdHMXRjVkhtOWxLdmJodkVNc016cFZ3enBCVGFxZXBBM2UzV0pWaE9wN2hGRjYyMW50RXZoak9pYkZxbHfSAeABQVVfeXFMTXFzUW02cGpvcThJalpFQ3l6UXdVUDRRanBYUDRNVnZ6aXpXTFBLTFFaS3VKWWFyRlJqME9RQXZVWXFEREo3ZlNoandQUzVBWnFmSG5sRmdxZUVBUWNxMVd5SUJ6cUxkVmJxNTZLRW11Y0F3WU5VWHFhVVdqQVF6N3dZOWRyUmlDX1l1aGxlcU5rS18waVJKdFg5QnFINjFnbTRmMkk2ZTJXcFN2YnV2YXFOVkxpQ0JYR0JsanFsTkNSdXBieDFPS1VIRlNkT2tqSWRJZHdxYzRLWWJ6S3lzN08?oc=5",
-      "domain": "deccanchronicle.com",
-      "topic": "Edible oil",
-      "seendate": "20260928T141056Z"
-    },
-    {
       "title": "Import duty cut on edible oils ahead of festivals | Explained - The Hindu",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU01LZEQtZV9QUG8zcHd2SGdUZC1lTFZKNjdMcUFqcS1EYmxRc3BQSU03UTVkaVlDMXc4UGJyeXdjSVQyMVo0dG55b0dfSUFIbU9TWUhuWDlzTzlDSDlabFpIM25Qd0MwTllYVDRyMFQwdkZzZmZmaHh2Um5VS25SUjNQbHpUd3l3RGlqYjZuclRRdElHSmhidTFUZlRhTUp6QzJIOG91cXY0MDlheVl4T0ZTX2YweWV1ZGfSAcABQVVfeXFMTlNjVlB1TUVYTzRpVzZGUUtjSUpwT1FDNDBIeFpwQUtueGI1RXUtOFUyZTZOV0MxekJ2Ni1wUUxMWFBWQ0JqTGQ4emM1WUlnWUphYXl1TVFROFZHTVpTTjQ0emVHdmJtU3ZmWGVnNXJFTTR1bXl2bDl5a1A2Yl9aRlBSd2FZd3lmMTUtRUQzNDNRcTN4MmNuUXFzZ1dOU1RiQTlqSUdqVkN2ZHZUQjlKNjNsdVZDdEdCVHEzeTJSX3Ay?oc=5",
       "domain": "The Hindu",
       "topic": "Edible oil",
       "seendate": "20260926T070000Z"
+    },
+    {
+      "title": "Relief for households as crude edible oil import duties are reduced - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTR0Q2Nic2RBWkpwUGRmMHlSY3ZRWF9jSW1XRmZQQUREMWpmcGdWaGlCcWowWmlnVlpaNzlpMXRSbUJZeXFEYmE3SDJmVzE3X2ZDQmkybGRJQ0gzdXF3dXIxTmhYRGtodVpKNDZXYWt4NHA2QlNheG5qNWpYQ05EQjFyMDk2di05ZUFxTnZwbXNOX2lwWU5YcVFVYnoyRjVkZXc?oc=5",
+      "domain": "SCC Online",
+      "topic": "Edible oil",
+      "seendate": "20260926T063035Z"
+    },
+    {
+      "title": "India cuts edible oil import duty ahead of festivals: Will it bring relief after prices rose 20% in a year? - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2taZnZYeTZ5LWtmUHNuYXNTQWVrZ3N4cmNTYjd1d3pWdFhRSmFpWmNCcjBnS2lCUjNOSTdYcXZmNjlndVNoZEJqN21PS2E2SnM0TGRlZlZ4RmZLNGMwbTdXSkxOX1QxSzJCQldhbVF5WWtIMktKXzBWb2xaSHV2dTN2RGZObWhRQlFSQmxqQlhDc3RaQ01qNzdCNnh6X3lFM2ZsNEszajhYaDZ5WUdCbUcwTmtUX19naTM2NHpZbG5kS2Q4WEVaWWRzbTZzcXBqdE1jRm91QnNnNXVDd2NZX2FCeDhnX3pxMnlndnU4d09Td9IB9wFBVV95cUxOaFhyMWJ2Sy1pdF90R3BoQnVzMzY2R3lhdXp0WXJINGJ3SWNYcDM0MkR6VVhBMkc4LVFpQzVocGtSallmQUc3blhHMlgtQ0UxUWpqV0ZraVlWQnhRdHl5RWhWTDlJYzU1YWFMZ0RpZUg3d0RCd1NOME0zT2Y0UDRFRUhxcUFYc0Z3MXB6SnI2S1pfM3JqSUpsMWFqZzE5X3UyYlR0ZldON3oyRno3YTJTOUE4MDBuSEd1cm5pSG53R1UyTjZtR29DY3dqT2FGano3R1NIRGM1Y2lNY3FOMXpnaFdzM1NmZzc4RTVhVFpvM2FHaHhicnNZ?oc=5",
+      "domain": "Livemint",
+      "topic": "Edible oil",
+      "seendate": "20260924T070000Z"
     },
     {
       "title": "India cuts edible oil import duty to lower prices ahead of festivals - Reuters",
