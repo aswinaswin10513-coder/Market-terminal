@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:26:28.378385+00:00",
+  "updated": "2026-10-12T21:30:42.092133+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,19 +23,54 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 96.73,
-      "change_pct": -0.05,
+      "price": 95.78,
+      "change_pct": -0.98,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
     {
+      "title": "What Trump’s Russian diesel deal means for US, surging global prices & Indian refiners - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeExVc2RLR21jcmZNUG1uQi0xVUFIM2pIWjBKZkwzME9HdXF4em42RnZRU1JQS1pEQ0tPdVNQV0p0c0VUNjZKdUxhbVFpYW9xaUJVSzU3V3dhemZQMmVnaFpqN1RZSmZnN3NIbTBreTZlQmpzNWM4WklXcUNiUzlKYmNoYV9OaXBlSHViMk5SRWhYbVlWaVhwUUgzRE1iWERWVGVTeHUxTFBZSkw1d05QWTRDTm9WYzBmdUFV0gHAAUFVX3lxTE1tOHRaYmZjV2djOEg5WGV6NV9ma1gxNUJxd25OaFMwdGo4MktRaUdTeXRUTDZ0cFJGeGU2TnI2bzJxWnB5TWxFdVhITEY2MEI2a0NJX0I5SmluOUgtUHpnbkhwRmNiWUd6YjROMTZ5OFlZam51b1E2YjR3TDBhVU03a3k1dDhPd3NiUnMzRUoxMjJMUWw0ME9tU3I1OGpwMENTSnRHdUQ3NHVDdHcxbWRyaDdXQmEyVjA3bjQwODZPSg?oc=5",
+      "domain": "ThePrint",
+      "topic": "Fuel",
+      "seendate": "20261012T122751Z"
+    },
+    {
+      "title": "Pakistan’s fuel price turmoil deepens as consumers bear brunt of government taxes - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjBXOVNlS2N2RVFaYnVxMGNJNGtGMldMYlpsTllJakt4RlNsYmt2XzRUQnVxeXpuNWd6ZnBBTXBremV2eHdzU0JoalJ1WHZ6TE5ETG41THRnU3FsdUx4Nm00QmVTM1h5ZHJudVlnOGI5R2tVdWc2R3ExSnNnZi0zTVBhUmFuUUR1ZVBiM2RHeVNvTUtGZndZQzBJRVBfM05LNzNYX0dIbzFMRnRLbV96ajlnNERmR2lYc2RBc05wVW92emwtRnIxQmljUTBrUWc4UGI2dTBBQnZUWHc5MmfSAd4BQVVfeXFMUHYwVzlTZUtjdkVRWmJ1cTBjSTRrRjJXTGJabE5ZSWpLeEZTbGJrdl80VEJ1cXl6bjVnemZwQU1wa3pldnh3c1NCaGpSdVh2ekxORExuNUx0Z1NxbHVMeDZtNEJlUzNYeWRybnVZZzhiOUdrVXVnNkdxMUpzZ2YtM01QYVJhblFEdWVQYjNkR3lTb01LRmZ3WUMwSUVQXzNOSzczWF9HSG8xTEZ0S21femo5ZzREZkdpWHNkQXNOcFVvdnpsLUZyMUJpY1Ewa1FnOFBiNnUwQUJ2VFh3OTJn?oc=5",
+      "domain": "The Tribune",
+      "topic": "Fuel",
+      "seendate": "20261012T113124Z"
+    },
+    {
+      "title": "India needs to ensure that palm oil expansion is undertaken in a sustainable manner - AgroSpectrum India",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLXZQQlJaOTdmeVhyaXE3NjRBWHlZRmE4bDNLM3FMbEdHSGlNLUVTc1BMSmEzekdiLU9nUEctZWNyWnB5YTUxc2JYb0dnaWVVa3N6SWRqUkJma0JhUjE5c0FmVlFzMEdGcUtqUWxsak9YaEl5TDUydVpVS3dxR3hYRnA0LUlVN1dfS0VJOVg0WDJ6UlBGaTFVSkItZGRoaEFteHNrSlMtSkR5QU1rNkNFMDBCdGw1NDJuTDBZd1ZpNHp6RVBmRnk2ekJjOXc5U1liX3ZfUA?oc=5",
+      "domain": "AgroSpectrum India",
+      "topic": "Palm oil",
+      "seendate": "20261012T112615Z"
+    },
+    {
+      "title": "India's September retail inflation rises to 5.5%; FY27 CPI seen at 5-5.2%: Report - https://www.indiagazette.com/",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXhITzdxQkxPLXdFdTNRaUxyR2pSamNIYjJSQVQtVkMtX054Vm5fMW1XMmVlUXhEcjEteVpJQVNsNnpYU1RNRHVld2RvQU5rOHRMX1JvcUVHX084Y1ZWMjduLS00SGlTXzVqS004ZFBLdFB6NWo5SERKRFQ4aXhyV192RFJweUxHc2VZS3dTYVNuUF9pLWZ2V2JsZURGcWhSQXBNcHpRN2pqdjNrN0NXYjdjOUFBeGNS?oc=5",
+      "domain": "https://www.indiagazette.com/",
+      "topic": "Edible oil",
+      "seendate": "20261012T101600Z"
+    },
+    {
+      "title": "Diwali demand masks bigger risk: Indonesia’s supply warning casts shadow on Palm oil prices ahead of 2027 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMVFuWWg4VE12UGVrVU5ndTAxbmRxZWdoZDFpRGVCQzRnRnB1dm1tTTZoa3lVR3Y0TFFtbWdXLTRnNjBYUnlKbU05Rk5HNDRPSXlIQW14M3lJYS1DRnhpWHpYWC1QcEZDSGR0bm9hNG9RTlRhdWxUUVhvWEtlUDNGNnZ1NU5ZQmNlSTdZVTBQWDM3Vm5RdGtlOFhZQW9zVGZEQzdhMGhMUXd2Z3h2MFhLRzNXYlYxSzhUbnBKdGlBOFhaUkFyaXFTSVF3UUZ2eWxqbW0xX01KemliRUJlb3NxT053OFVjR0tkYjFPSGozNkxpUTQ?oc=5",
+      "domain": "TradingView",
+      "topic": "Palm oil",
+      "seendate": "20261012T094128Z"
+    },
+    {
       "title": "India MES Prices Hold Steady: Is a Fresh October Surprise Coming? - ChemAnalyst",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHYzS3MydWdfVGdheXh2dEpkRndNdTIxNlV6bkUtWFdZRmhTcUotZDJxbVhwZFc4RExSVWVlYjhGZHhzLXNxNVJKT0VqMldobWtxdVdlaEpOZ0lFTHh6ajFaLVBEN1htLWxiVUdOUW9KQmRuUDhxOGxzZFQxSGJ4OEZhbjhSZ2RDMU1CNjlLNGRyZDRqV2FrRXdmSTk4aGRaMzJUdENBdHFtMHJwcVRSSEl4Vi1TbWVOQXQ4d0NjSQ?oc=5",
       "domain": "ChemAnalyst",
       "topic": "Palm oil",
-      "seendate": "20261012T065616Z"
+      "seendate": "20261012T081951Z"
     },
     {
       "title": "Google Maps starts showing live fuel prices across UK, to be powered by UK government's Fuel Finder schem - The Times of India",
@@ -45,18 +80,18 @@
       "seendate": "20261012T061800Z"
     },
     {
+      "title": "Natural Gas Manufacturing Plant Setup in India - IMARC Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTktRVFEyR1FZWnlxNUFsYkRvWmQ2NndLN0lyQ3BXSWhCbDBMdzRrN2tiX2hGcFRmMnRmT2pDakR0ZDhaRnRTR251dG5ORFRFY3BoOHh6VWZpTGszOXNiQWhpVk5zRUI5SDlvT29wWmRtczZPY01SeXk1OFFOZXdvY1Vjc0xRX0l5MlU0?oc=5",
+      "domain": "IMARC Group",
+      "topic": "Fuel",
+      "seendate": "20261012T043543Z"
+    },
+    {
       "title": "Petrol, diesel prices today (October 12): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMHBrVTdZT1Utc1lzcElfcS1HbDk4M0ZIRktSZDZqNTdOb0ZUTEo3TEstZG1DVzdTZ3RQTDlySjN4NjRxLXNvQlNqemxMMHpxVi16QThseXZKVVhGZVVOaFY5Q1ktblA2ZlBpRGY5Wl9LSG5yTXY0SmlBMC1UWHl5X2xTRjdiMm91bmpVcldad1RXbUY3a1RGcmxYbmFBWVdmRUZYVlppSHA4eERVS0hhQ25hbU94emxmWUdNNDZ1OUd4Rl9Kb0t1eDZJOHlNb0FzWHBjd21rNDByWVhPZ2I1MlBpRXJkNjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMHBrVTdZT1Utc1lzcElfcS1HbDk4M0ZIRktSZDZqNTdOb0ZUTEo3TEstZG1DVzdTZ3RQTDlySjN4NjRxLXNvQlNqemxMMHpxVi16QThseXZKVVhGZVVOaFY5Q1ktblA2ZlBpRGY5Wl9LSG5yTXY0SmlBMC1UWHl5X2xTRjdiMm91bmpVcldad1RXbUY3a1RGcmxYbmFBWVdmRUZYVlppSHA4eERVS0hhQ25hbU94emxmWUdNNDZ1OUd4Rl9Kb0t1eDZJOHlNb0FzWHBjd21rNDByWVhPZ2I1MlBpRXJkNjjSAewBQVVfeXFMTmFkSkdiUlpaeGM2LXhNOHZFWUowVHh4QXhDd21WSjM5cXlIb3d2WVNZTFNjeEx2aVY1bllSNFN1SFItLXRiQnBHZXpISDRfNWlXbkhDeXdFR3FzRlRrekZ0ekN2UGtRLUtvTktWMk04Sk0yUXNLcFRWckNBclhNTUhwQXhMSGNVTTRpeXAyVnJvdE5qVFJwek1RaUpYREF2Zm1NaUh2VlJwblVEY1poWkpRTjN3Ni1zNjNvcUdtMzNkb0dSLTVoLWM2cjRNVk9wWmgxS1JaWGg2UC1tdmxvbllMZ3JEYzVzRlg3UG4?oc=5",
       "domain": "Business Today",
       "topic": "Fuel",
       "seendate": "20261012T031753Z"
-    },
-    {
-      "title": "DW News. . Europe has a diesel problem. Russia is largely gone as a supplier, Middle Eastern flows have been disrupted, and China has held back fuel exports. But the squeeze could create an opportunity for India and its huge refining industry. Could India b - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEQ4TjBQRndkeGozQ3loc3Q1emh4TWFBcm5yRlVSMGJLMzUwRFVwVi01S3dsSFVMZUp2d2hlN2M4c29USlZhdnZ6MEVTcFRQekh5ajNvbUlKLUVaaWtfc2hSejFPbkZUZTdZNDFocHZQY1dDZWk5b0dNNS10dGJPNFVHdjdZUzJvWXNmYWFTQjZYRzByb3BleHBWcnQ5Y3B0QzR2aFYzMVVITTNadGw5YXdnM0Z1SmtteC1XVkh4cjdJbms1bWxzRHlzMEd5bUNtbmh2eWJPcWJXZFU2dmZHZlV3?oc=5",
-      "domain": "Facebook",
-      "topic": "Fuel",
-      "seendate": "20261012T031012Z"
     },
     {
       "title": "Petrol, Diesel Prices Today, October 12: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
@@ -80,24 +115,10 @@
       "seendate": "20261011T134619Z"
     },
     {
-      "title": "Trump’s US-Russia Diesel Deal Seen as a U-Turn? How Will 5 Million Tonnes Impact Oil Prices, India, Markets, Ukraine War? - Jagranjosh.com",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPN2dkaE9BbnN6c0J2TWJGOTUtS2JRV2xiRWRxa1ZyZWhxM29oZVVfNnpxc3pLbzZFVGJ6SkU3c1ptcXFfeWx1Y3RfckNQYmNoV0pzbEo2NmdvRV9JTkVDRUkzZUFFWnNmV1VMS1dPNUtCWTh1bnZfakN0QnRFN3RmVXlTekljZkVYdEluVFFvbjVxVUVRM1VDamprSTZuSXN2UWVQODAwaHM2OXg4Q0phbDE4anExWHl2Z1ZLTDIwVndfTjNUMGhqR2szXzNYSFdtRU1QV1FEdExVdEcyLUJzbHNBSlhxbzBwUzdPamRWVzYyRmVhWEt3Z1cxaHZ4SVo3U1JhSVNWaDJMYXF2d1g3TkFnWUlZWDlfek13bTZ30gGkAkFVX3lxTE13cDFLY3o2dmZjcFpxbHR4Q082cWVNUDBqeVltRFptczB3OUUxeEhERDdFTUxaN3NMWHRVQ2F3NUlSa21XQWFMRks0UlVMOW1jZzcxaVplTzRod1dDMjloMTRpRG9xRVM0UlF0RTJjTEFsZFB3QXBNaHFkWlVxNkVnaEZja3VxZWxQUFpTMVRrVWdXaGdDb2ZOSzBRTndqTWpycTFNaHZjb0xGc0R3RWxwZGVNNk8wTTlDTFNqVVMzWHhSa3M5aS02WUNNWHp1SE5sOThtekswTUJYMUNmU0lLXzFaakhIOThqX083SUxIbXkxRWJxbVRabG0yb1VWNkM3RkdkZWdiVjZISUptN0tIaUVxaXNoZ08wOWFDcGlvVm82Wlk?oc=5",
-      "domain": "Jagranjosh.com",
-      "topic": "Fuel",
-      "seendate": "20261010T071805Z"
-    },
-    {
-      "title": "‘What ‘no palm oil’ labels tell consumers and what they don’t - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlZtR3BFWFNGbGZWSmx5WTdpYlZjTU5vd3EtWmYzR3NyX3V0VmRTRnBmTklFTWFTVENSbWhya3IyZHZuYXRoQVBjbnhWaHVraHNfaVZoREN6QlZVdGdSLS0yeWlyN09Xa2E5aHlvVFJUZFRlb1NhMzRQa0ZYcUpOcHEtU0NjdDcybXNsYlRpUUlhWjJ4dWplMkxnWTc0TjAwV3Nvcmg4MDBfOUVBZThFWU11TXYwbFFweGpmSERyNGJDcVNlV29WZmNqUGPSAdIBQVVfeXFMTjV3eFV5SXZpOTlybTZHWU5ubTZ1b2dhLXVhR3pSZ29HMzZiR2ZsRkJiZGlHS2hpY3YxRFI3VnQ3VHMya3JfbmxuMzJkNDRsbmt2OGFjaE9rOEhFY0Z3YXlPUjNqMFJoYmJMWjZPeWpMdVBuZlJwWkNpSzhxd2wyVU1NN2U0Y2plU2hVYW9obDlwam5iVFVQWGx5X011ODI3eTV6M1c0RmhVcWZMc3hNM0dCOVVhMTl2eTZpLVR0UGdUS01xNXE0N0pac3UzVlAzZ2tn?oc=5",
-      "domain": "The Economic Times",
-      "topic": "Palm oil",
-      "seendate": "20261010T044714Z"
-    },
-    {
       "title": "El Nino Effect: Why India May Face A Widening Edible Oil Deficit By 2027 - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc09Bc0lEd3FfMUZLcUxIbVZjNzFqM1BrVDlnTnFGTDJ6bmFDX1lTRVpaa3VUeXdsem1fd2Rja2lYMi1YOVdQWktpOHpyWkozUmNxVG5OVUhFcnUyaDM3MU03c1FXbTBTUnFLcl91dU9KUGk3bFlTMjl4NlAzSlBIY1NxZmc2cHkxTkstbDRqUmpNM1hHVGs4bXY0eW53VWlOaGFuam0tNXYtWl91UzFnX3ZPQ2hsQdIBvgFBVV95cUxNcG04b2RwdXI5QXFFQVU0WEx1NUtiSHljX0VnT0xZaHB2QTltcldxLWNoRHloSFdwWVNVYVVYZV9FUkc5Q0tGSWFETlBzNFllY1RWNTBrM1VEbUVqTTA3Q2dwQ0ZWeW1oaUs3QldMc0J0UWNHQWNQN2JrNzRWYWJYNXozbGZiRUpXZHNuQnNIRHNFbnl6d1RhLWkya1VaYzhIQm1VTTBKRVlsYmg1eW9GdHZTcXdtNTRnY3ZSc1h3?oc=5",
       "domain": "NDTV Profit",
-      "topic": "Palm oil",
+      "topic": "Edible oil",
       "seendate": "20261009T090417Z"
     },
     {
@@ -120,13 +141,6 @@
       "domain": "AgroSpectrum India",
       "topic": "Edible oil",
       "seendate": "20261008T142840Z"
-    },
-    {
-      "title": "Palm Oil Soars as Weaker Ringgit, India Demand Buoy Sentiment - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk8wVjVrR3pEMm05YnB2OWVEbVg3Q3A2bF9YanFNRy1TT0NlcTh6X0pkZEd6ZnJEZDQ0XzdzYzgtcmdfa3hpTDEzTEZtdGlUa3A2T3hXbVVENmRxRkJDMDBqNjBna2hFSDhmNGNENWN6aUZMMmJRSzU4WHBWQUdfbVFRRGptbXhwU0ZjOExMYVFubDZVb00zck56WXVTTU5FZnM1NVFTNTBHSXMyOFZJNQ?oc=5",
-      "domain": "TradingView",
-      "topic": "Palm oil",
-      "seendate": "20261008T040000Z"
     },
     {
       "title": "Palm oil producing countries keen on ties with India - BusinessLine",
@@ -185,6 +199,13 @@
       "seendate": "20260924T070000Z"
     },
     {
+      "title": "India cuts edible oil import duty ahead of festivals: Will it bring relief after prices rose 20% in a year? - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2taZnZYeTZ5LWtmUHNuYXNTQWVrZ3N4cmNTYjd1d3pWdFhRSmFpWmNCcjBnS2lCUjNOSTdYcXZmNjlndVNoZEJqN21PS2E2SnM0TGRlZlZ4RmZLNGMwbTdXSkxOX1QxSzJCQldhbVF5WWtIMktKXzBWb2xaSHV2dTN2RGZObWhRQlFSQmxqQlhDc3RaQ01qNzdCNnh6X3lFM2ZsNEszajhYaDZ5WUdCbUcwTmtUX19naTM2NHpZbG5kS2Q4WEVaWWRzbTZzcXBqdE1jRm91QnNnNXVDd2NZX2FCeDhnX3pxMnlndnU4d09Td9IB9wFBVV95cUxOaFhyMWJ2Sy1pdF90R3BoQnVzMzY2R3lhdXp0WXJINGJ3SWNYcDM0MkR6VVhBMkc4LVFpQzVocGtSallmQUc3blhHMlgtQ0UxUWpqV0ZraVlWQnhRdHl5RWhWTDlJYzU1YWFMZ0RpZUg3d0RCd1NOME0zT2Y0UDRFRUhxcUFYc0Z3MXB6SnI2S1pfM3JqSUpsMWFqZzE5X3UyYlR0ZldON3oyRno3YTJTOUE4MDBuSEd1cm5pSG53R1UyTjZtR29DY3dqT2FGano3R1NIRGM1Y2lNY3FOMXpnaFdzM1NmZzc4RTVhVFpvM2FHaHhicnNZ?oc=5",
+      "domain": "Livemint",
+      "topic": "Edible oil",
+      "seendate": "20260924T070000Z"
+    },
+    {
       "title": "Why India’s oil marketing companies are losing over Rs 500 crore daily - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR25QaTJiS3FQN0g2aHdNTFAtLVE0dTFXTnpudUpKQ3VNYV9qaHlrRVF0VG8zYm9mU1kwMWlVZE5WcENaZlh3NnRyMkdRN29BMTdwSjZCbU14ejZhVnBmWThaUFpxLTVGVjNMNzcwMjl1QVFMN1l2UGNmaU1sN1prVWJYbFlVREJGTEkxa1YxRkJkbjNFUVFJVF91T2o4akx6OXhNQ3lFLWYwaHlXWDl3eDl5b21qSTc5aUlic2NpVDEwN3hHZ1ZBQWJ1bno1MktSMWI5MHV30gHcAUFVX3lxTE1HakRKMS1Sdms2c3ZoOVdJVzRReDRyb3l0djlrTFhDdVV3VXVaTmpFQk1adUw4OHFpMTVoMzVzaXR0cFhqeVkyeXBZenROdTZwR0Nkc2c2cl8xTmxRWXhqSlVRVU12R1RzdG1zc3FiT25ZQnNzLXQ5ZEpWZ0FnMmV3VmJvd2JtMF96d0g1ay1vcVhpT2lQeWgwZkZkVUZSZVdIdkV2emVJdDh2aTM4SVlRd1pwWGkwemlNV2QxNmNaTWU0UVMzaHF6QVlGRml3RXVLT3RfckxaMXVTN3k?oc=5",
       "domain": "The Indian Express",
@@ -199,11 +220,11 @@
       "seendate": "20260923T070000Z"
     },
     {
-      "title": "Indian OMCs incur ₹530 cr daily losses; ₹8 per litre on petrol, ₹9 on diesel and ₹300 on LPG: ICRA - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzdYVENfSGtJQlRZRkF5WjJCc0NsMjg5R19kMTE5Y1VlVXh0bklDalQyN2RhaU1WWlNBMjh4Y3F2S0w3d25ZQlYxREd5LXNCOUhkV3RxaW1ULTE0NHQwS0pEbzI4OVRIcWpQUG9TRFlsY3dkXzhnZHVWN1R4MkpLQURuUFV4YW1XOVBXdWNUZHJBVzFVR0hpaG9aTHBUaGgzc2ZtSEVKWGVXVmRuWHh0X1VzRzZ5TkN2V1g2REpaeE05T1EtbjJ2czlteFpGZnV0dVJTQ1dMb1VxVWtqTTl1VWRMR2pRSlRf0gHvAUFVX3lxTFBIekFPMERwSGVyOF9pVVFteHpkN0J5SWtWQnVjWWIwaDhyTDFiTDd3elNkWXlCX3U5UWZIVkxtV1VLay1nMEhlSjc3dl8yVXJ4akZlQWctQXhZQ3NCTTdSa1g5OWRlNEZkR0xDZWdMWHQ1WmlnWElVNUtXTjE1NF90Zkx1eHdfZDd3c3JsczY2V091cVA4S1lxTVBvYlVBaHc1TTlGQk9IeUlJUmtMSTJZbmtWdXhTZlhYaVpxUC1YeEF2QThOaDN5XzVHRF9qZE5ETW1idUtCdk5iSDJWNFZBOHpncWJNemFLOWVXMlE0?oc=5",
-      "domain": "The Hindu",
-      "topic": "Fuel",
-      "seendate": "20260923T070000Z"
+      "title": "India Was the World’s Largest Palm Oil Importer in 2023, UNCTAD Report Finds - The Policy Edge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFoxZWRmTTV3OUtFQzFOT2o2MkhieVo0NWoxVzQxclFfRVd0ekxUaGs5V0haSUpjSXJRbG5ZOWxjUE4wa2x4WWlkSW5DSGRXYkpYVDg3VnNucURORUM5WUl3NzQzSUpuckt4Vi0xSS1hb09XVkFubk1hVWI1SmpPMHFhSGUya2ZvQWhUZ19RUS1uSUJfekZUWWlKYlN6ODRibDdISw?oc=5",
+      "domain": "The Policy Edge",
+      "topic": "Palm oil",
+      "seendate": "20260822T070000Z"
     }
   ],
   "alerts": []
