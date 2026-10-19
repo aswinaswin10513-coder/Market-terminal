@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T07:12:31.454852+00:00",
+  "updated": "2026-10-19T18:56:17.353214+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,13 +23,27 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 94.96,
-      "change_pct": -0.11,
+      "price": 94.93,
+      "change_pct": -0.03,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "Expensive flights, struggling airlines: Why India's airfare crisis has no easy fix for passengers - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTGtoeUVjQUszaFpQUnlGNnljSmFaVUxHZUNNemxielNYSkx6VVotNi05VzBjdXF0QmpKd2VyZWJkQjdjNUVyZHNuaGtEa3FhUDYyT0JacWZXYm1KTDhBbzY2SUhGNlgyWXBTS2VnVHo0UWZqdExsTHlnVWdwLXIzQUpXS3pqRS0yaFFuR3gzTk9TdHhnRWl0eTE5Y1hWLS1RQ05hY2Fjck9Oa09rN05xMXNMLVFIZmlWdm5FUnFrT1dFRG55dmZ1dGlNS29fVndXM2ZMTXJiY0p6c0RGY1JkYUQ2dFFFTzNTNGdYeDBvVnNIMUQ3eXdsMm81MXJlSUpGRjZmQWNid2RzN1hZY2dwM0p0aUV5dWp5bWJR0gGgAkFVX3lxTFBUNHgtOF9lYzNaQmF3SHVaZHlQVnpMVkFEcFRmMkVMUWptRWRyYmswOG1YbHVuUTZsZC03N3djNVBuTzhQMnlSRnF4Ty01c0xGamtNX0tYYzRHMm9URUlUVXAyWjJwelcxcTlYSVlaMkpqc24tSFFpQTFhRTZjNzZOS09qTEVRcy1wRVRpYldDS2E0SUZMN0xmSXVUcXFEWUhqQmVkOXJXUzZvZHUtVG5sU0J6NnlGQ1IxTDJCVUp5aEhaQ2wtUXQ2dmlVX1hjcjVxZzFZT0ZqWHg4WDRIeEpnVjNpUHRuUGpfbFFYeHRJaGo5QUJhVHVxY0dtWlJ6MDMxNkRnSVB4OWdPZzhyemFLeTgtUkhHbHI5S3Yzdy1ILQ?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Fuel",
+      "seendate": "20261019T092339Z"
+    },
+    {
+      "title": "Paris to Milan and Madrid, Europe burns over soaring housing, living costs - India Today",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUjFhZFpTZW1SbHNhaEhRR25RZUxsNUhmc3NyQlBmMjdZYkRRZ3ZqRUU0WGRXUWpVWXhHSzZwUGh0ZUh5TmMzYjhkS0hZVnIzSF9uWXlHMndITEJ5UlpfaFRMRldCaUdOVWdzejdXSkpHWXBjSmdEeVZWSy00eXo2ZXhzcUlReUIydV91d1NNcW5qMUNyY1lIZDlRWTdwSVljeTlrZUYyRFFWQlBfVk9QV2U3bDZsRjJaVmFGbWd5OUR2WlJiR3JRVm9XSmhpb0xid2dXNG5sU3V6M1R2XzdKRmhJNS0wUGVBNWVvNUZqN3VQLXNWUlVwenU0V3NnZEM1NVV5WtIBigJBVV95cUxPNGwzWjBnVHR2anh0WDN0Y3FOcDRVdndFdE5EUWFFMTYwX2I2VXlwRDE5M1VSVTY4dXdLZndtcXNQMVBGMkNDV3gwZGlxNnFxS282YUp6WGs1OTloR1JFZ0NTMm5ZSWtvYTlRS05LZklUYkM2SWQxLW9VamRNMDNXYjd1LUpxSGREUjc5cm1YcHNZY0lyVGZjRG5rZVBIOGNTNVN3czVVQzloQlZuWURKV2dQTUp0RjdnY1FNdHlQX3JrcW4yZVVDNktTZjNtVi1kWFh4OG9HSnBINngxWlFnajY4TmRJcHdwbC1ReUxlaEhzSnJTRlF3X0J3ZFozcnFVQWRhSE1pRVRMUQ?oc=5",
+      "domain": "India Today",
+      "topic": "Fuel",
+      "seendate": "20261019T081128Z"
+    },
     {
       "title": "Sesame Market: Festival Demand Lifts Prices on Tight Indian Supply — CMB News - CMB News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEtUaW83emlXQUhaX2l1aVNhblhmVV9WYUVxZXVHa3RyRlRTMFFBYkpFV2trZ0JQa2NNR0hzOFNOR3YwVHR5ZHVkT21wNW43Ql81MG5aV1U0TlRaQVVadWduZkNWY2pFcVFBRllyUUFoT0M2NmJqQkFwRW1GUTNaeUstYURSTFdjMk9UZWN6dnhNand3Wmc?oc=5",
@@ -50,6 +64,13 @@
       "domain": "Business Today",
       "topic": "Fuel",
       "seendate": "20261019T033421Z"
+    },
+    {
+      "title": "Petrol, Diesel Prices Today, October 19: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXljLUw1VmljLXpjcm1fM1pFT2RxS3Ywb2p5dVlYNXIxUmZ5V2JCalh4aGlhb0h2UGRDR2hkdnNLc2dKMXhIU2lXTXU4eENIa1ZpUVlpUV8xUl9zTGc1WDI3TUZMNDIwRHJ2U1NMa0o2bVlHSjlpNmY2SThSMFhLM2RKUnlPSG1ub2hRWUhRME5yUC1GbUpfWkFkVDhJekFPR2xWSmNsUzQ3WkI4emg0VGtLOWZvRFZLVm5PWjJINk50M09lQTV2cFY5ZE1uTVR0clhROG55ONIB3AFBVV95cUxNTUwyel9OZVNzZm1LVl9ISnBuXzFSNjhEX2UySG50Tk92ZFpJalhuQldBR0cycmozakRNczVlUzhFUUlFRjRvVnJwRktRTVlhcXBpN3ZtRWhuOW9iUXNQVXRoaEJhdjZYeHZVenljcDhTMHZ5S2R3ZkhLem5lblp0aDhsdks1Zl9wTDJ3ZDBCUWJOakdUc2JYTGU5Q1ZhcUtvM2taRUF1NXdrd3d5RFlrNEFuSHNOaGdJMVlfSjhZZkVYZUxETHFWQ2xfZzZsQnk0eUxpTklVN0tXQU9Z?oc=5",
+      "domain": "News18",
+      "topic": "Fuel",
+      "seendate": "20261019T021413Z"
     },
     {
       "title": "Petrol and Diesel Prices Remain Stable on October 19 Across Major Indian Cities - The CSR Journal",
@@ -80,13 +101,6 @@
       "seendate": "20261018T130000Z"
     },
     {
-      "title": "3 Indian Energy Intensive Stocks With Fuel Cost Pressure In Focus - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeDlOcHJTdU5iQXZYTEVDUkNHWDY0V0NJczRON1ExaXpxd3FZelVfblhnNXNiZ2pRX2N4VWdfUE5LbjBIM3g1bkRiUmx5MTNZcGZMOWtUVnlJemFGcHplMkdxVm5jTnlnZUF6SXg4eUpGNWFGS3NkLU9GUEU1a1ozYlZ2UjlNLTc5T0J0bVFQX0VibDdsLWRIdDFKaWFhN0d1M1ZzNmg3YXdRekVsQmt3c1ltX3h4R3RtbC1qVjJ1WG5QdnRvdDJTM0dBV0gzdWRJQ1oxM1J30gHbAUFVX3lxTFBGYnQ0Y1p2NVN2NmRUT1VsbW9Gc0wxM0ZnYlVtUDhsZFZTaG51cWdaWWtPdFhGRzU5cXJic3pjU1FpR3o1U2VTR2lhS0YxelV1YmtpdU5Ba20welRUaDVLU01IM3kwSnZjNkx0X1dfbkFyOHo0VEdrbEpyZExkMmNFRl9zdVFwQjJXZFpCOUNNOFpqa0c3RlpLUDZBY2dELWI1eTRLcW9NUTQ5ZWprY2lLZWRsWS13bkRFYkxEWmRXYTEwYzN5bUtPWW9VbjRjWU9TSU8wS003MEZkSQ?oc=5",
-      "domain": "Simply Wall Street",
-      "topic": "Fuel",
-      "seendate": "20261018T111251Z"
-    },
-    {
       "title": "Trying To Keep Edible Oil Prices Under Control: Minister - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPamtGMW5wVm5WTTI5RGlEOEFGd1JzSTRPTDVHVmpCaTB2U0p3cEQ3WFF1SWNhMEZxOERHVEQwTldWMUFJbGoxM05wNGFUYlhNb0JHbzY2S3hkYnBkZ3lYV3FYYmRPa3U2SzBaaGJBT2xLQXZBYVJfVlpLVnBBTGY2UlZtdExfajduRXRnZXBLblJfclFIc1p2SURiYnh0THFVaDUwYUZGWHhnQkN4Q0dZd1BoNDNiSi11QjFPZW52Yw?oc=5",
       "domain": "NDTV Profit",
@@ -99,13 +113,6 @@
       "domain": "AgroSpectrum India",
       "topic": "Edible oil",
       "seendate": "20261016T204933Z"
-    },
-    {
-      "title": "Petrol Diesel Prices India: November Hike Risk Explained - Urban Acres",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1dQS2p6MjVkaDd5SjB1YmlGODhkcEJTQUR3YzRNMHhZbi05QnpjS2NPY0dKdnIxN1VlWXpaNWhxa1JoTGVWYkVkNm5kY3U5WEdEVnNUTDM3VWNIeVIxZFBMUTNscWE2V215OW1nVnREUW5rSEhtWUlCOFVDcEprNEo1NUpkMERDdTlKTWxCLW8?oc=5",
-      "domain": "Urban Acres",
-      "topic": "Fuel",
-      "seendate": "20261016T161210Z"
     },
     {
       "title": "Festive demand drives India's diesel sales in October, data shows - Reuters",
@@ -136,13 +143,6 @@
       "seendate": "20261015T133017Z"
     },
     {
-      "title": "India May Raise Fuel Prices in November, Oxford Economics Says - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0RLU3VtOHJzYmxlNlJzMkRVTnJGNlBpWnZtV3BkbHp3TkxkVG1Yb0QzV1VKcmtNblFjR2hwU0duOHZiUkhpX21PbkktOXBsUVR6Umk2dU1FOG5kcVRVQ180d0czRzhZWnd5YTNNSzFkVFlFRnlxekJiX1FFb2doLVgwWnRXZnoyODhxR1Nydms3N1A4T21LTzNRZG56MWhkd1dtVDVBVWNLSmJSdlMwOFF3?oc=5",
-      "domain": "Bloomberg.com",
-      "topic": "Fuel",
-      "seendate": "20261015T131044Z"
-    },
-    {
       "title": "Edible oil refiners set to clock 10-12% revenue growth in FY27 despite duty cut: Report - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb1VwdzFvbGpna09lNDFqSXNWX3FXTkFaUllpN3loaXowUlFzYWFpVXZJNlZ5WTJ3N3JMd1RqZGlYUlloZFR0SEZtZE5QaU5MUlAydGlfLUFDcGtOaUY2SWpuQXZpajdiRDh2azF2SWZ5R0JKQjNkT3NfTnpxd3UtM2ZuNjZGQ1J2OXRnV2xIVS1oNVlkaWJmLVpMOUItN21ienF6bDBrTkFtZUdwOGRMSGJhNlNCb3psRUNab3BSNVAwdmItZk15NW5BUG04SnVsR3NOQWo1M2dtRzFQVDE0OS1iUm5udVhXbnNfMlpzMFcwTlFKR0JoSldjRdIBgAJBVV95cUxOcG5sTlpuNXhjdHpXTDk4V1VEanRPaHpWRklQU2ZrOUoxYVNLaGg5WUVHSG9rRlFKODg3TGVqVEdCNWJRTTZHcV81RmJjUGZORkhyTXJlWkQ3RUM0QkNHa1JrNEtQb1Z5S3M5aDN0OF9WMjlBNkFhQy1rVW1vM005S21WWGtzRkgyaGltQjFVZ3RVeGtuOG5WTVp1MTVRTzFTajc0WW1uTUM3N2hNWkxoYXFqczJ2X2sxWWhvZnpqZWE4YzZKTndNcEoxcEpCU09SdGlscU9DZG9BSlFnRFhKM1U0bXdjb1RUR2dQb1RhaGUxYmhCazhMRGxmd3JTQm84?oc=5",
       "domain": "The Economic Times",
@@ -169,13 +169,6 @@
       "domain": "RuralVoice",
       "topic": "Edible oil",
       "seendate": "20261015T064900Z"
-    },
-    {
-      "title": "India's WPI inflation surges to record high of 11.39% in September on higher food, fuel prices - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbjd3UFE1RGR3YW5QRWhfQXhLNWUzRzVGNzNDQTNYTEFSU2Rvck5NbjFzYTdzYW4wUV9JTmFhb0RWaWFTUUE0LWdyT3NNekx1d3JYVDh1VVlNem1yWWpUYU9UekRQQm1CeHFfaXR4cjYtNnRuRnN1enZMVEc0VDhtcUhjWDBtTEVWemZ6T2dXWGlKdi12NmMtVXExVzBXa3dQLWZnLXExZmUxUEdaRk9OUXhPN1FPMlk2bDFHR1hFTFpIYkhuajdxZG9YTFlhX3VRQVZCbm5xb2pSRGxzUTdlM1YzNHNCRkQ1dXJRWXkzQm1MYV9GSGdRZXNHYnAtcElidGE3TXg5TVjSAY4CQVVfeXFMTWpjUXlwU0NRZzlFRTFEdVhCY1VOU3RnNFdzM0p3SGtHQTBKbzZLT2d4SVpwZUtMS01TUWVDcG81cEY3dlJoeDJjcUdKem1wQlp6VmlEQ0V1RkRsRXl4akZ3TDhtUFltczFJbVFJS09vaVprVVpKc3hjS1ZTLXBvZDZIOFIwTUpPRE9KUFRtT281TFRqZkN3YlhEOWZ2aFdGYWNPVnQ2Tkdpc09wYmlhTlptUDNON2hDbUd3empIQmNON0l0VWZjNklQU3JuMUx3RnUyb1FZTGp0bnRCcG1CX2VMdGdyYzJGcG50NGxIeXFKaVZCS3FFU1UyeTVXYU1zZ3RGb0FhM3ZMTGxCYlpR?oc=5",
-      "domain": "The Times of India",
-      "topic": "Fuel",
-      "seendate": "20261014T153200Z"
     },
     {
       "title": "Indonesia’s Palm Oil Industry Outlines 2027 Policy Shifts At GLOBOIL India 2026 - Outlook Business",
@@ -217,6 +210,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPazV4Vkk1TWd4cWU2Skc5c2xDVjdWc1lsWWdpZHBWamhGeW9oN0Z6MmxKUDJIck02emVoM2k0VmwtSHdINW1BR0JSZDBDY0FuSnhkbkhXVDVnTFN1ZllXeFNfdEw1c2RPdk13QmRDZWtJRXBmRzdXTjNDSFR3cUNzSDlxaTIyXzlOQlhzOGVIaTVrYlF2SU5mN1ctamlFWXJnRE9KVm8yWUVmVkkwX0VLNFlUSms3T0NaeEJkVWxMaVBBcFnSAcsBQVVfeXFMT2w3UW1EdktHLXJZcWtSYy1PV00tYWQyTnNMWWRRTFhpSldBaGhxb3JrRzVsRWw0dDlsSkxLRkt1WDdLLWtQd2U0WlgzQzVSZmhMTE5Dc29xTWtZNk5CSUZYVkhPMzBxNk9DM3VYdlgwbHhSeFVjV0djcnhsQU8wLVZIS2FIOWFaODhqWGx5S3lkd3ZHb3RvcmJKc20tVFpLbmtMOFYxbVlaNFNJVEhrd1hLMFd0YnI0VFozX3JFQTlWZ3BPVkpndlFwYlU?oc=5",
       "domain": "NDTV",
       "topic": "Edible oil",
+      "seendate": "20260924T070000Z"
+    },
+    {
+      "title": "Why India’s oil marketing companies are losing over Rs 500 crore daily - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR25QaTJiS3FQN0g2aHdNTFAtLVE0dTFXTnpudUpKQ3VNYV9qaHlrRVF0VG8zYm9mU1kwMWlVZE5WcENaZlh3NnRyMkdRN29BMTdwSjZCbU14ejZhVnBmWThaUFpxLTVGVjNMNzcwMjl1QVFMN1l2UGNmaU1sN1prVWJYbFlVREJGTEkxa1YxRkJkbjNFUVFJVF91T2o4akx6OXhNQ3lFLWYwaHlXWDl3eDl5b21qSTc5aUlic2NpVDEwN3hHZ1ZBQWJ1bno1MktSMWI5MHV30gHcAUFVX3lxTE1HakRKMS1Sdms2c3ZoOVdJVzRReDRyb3l0djlrTFhDdVV3VXVaTmpFQk1adUw4OHFpMTVoMzVzaXR0cFhqeVkyeXBZenROdTZwR0Nkc2c2cl8xTmxRWXhqSlVRVU12R1RzdG1zc3FiT25ZQnNzLXQ5ZEpWZ0FnMmV3VmJvd2JtMF96d0g1ay1vcVhpT2lQeWgwZkZkVUZSZVdIdkV2emVJdDh2aTM4SVlRd1pwWGkwemlNV2QxNmNaTWU0UVMzaHF6QVlGRml3RXVLT3RfckxaMXVTN3k?oc=5",
+      "domain": "The Indian Express",
+      "topic": "Fuel",
       "seendate": "20260924T070000Z"
     },
     {
