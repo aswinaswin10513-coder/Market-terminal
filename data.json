@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-19T18:56:17.353214+00:00",
+  "updated": "2026-10-20T07:01:09.557891+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
-      "nav": 163.0141,
-      "change_pct": 0.66,
+      "nav": 161.2004,
+      "change_pct": -1.11,
       "alert": false
     },
     {
       "name": "Nippon India Gold Savings Fund Direct Growth",
-      "nav": 57.9232,
-      "change_pct": 0.32,
+      "nav": 57.7448,
+      "change_pct": -0.31,
       "alert": false
     },
     {
@@ -31,25 +31,32 @@
   "commodities": [],
   "news": [
     {
-      "title": "Expensive flights, struggling airlines: Why India's airfare crisis has no easy fix for passengers - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTGtoeUVjQUszaFpQUnlGNnljSmFaVUxHZUNNemxielNYSkx6VVotNi05VzBjdXF0QmpKd2VyZWJkQjdjNUVyZHNuaGtEa3FhUDYyT0JacWZXYm1KTDhBbzY2SUhGNlgyWXBTS2VnVHo0UWZqdExsTHlnVWdwLXIzQUpXS3pqRS0yaFFuR3gzTk9TdHhnRWl0eTE5Y1hWLS1RQ05hY2Fjck9Oa09rN05xMXNMLVFIZmlWdm5FUnFrT1dFRG55dmZ1dGlNS29fVndXM2ZMTXJiY0p6c0RGY1JkYUQ2dFFFTzNTNGdYeDBvVnNIMUQ3eXdsMm81MXJlSUpGRjZmQWNid2RzN1hZY2dwM0p0aUV5dWp5bWJR0gGgAkFVX3lxTFBUNHgtOF9lYzNaQmF3SHVaZHlQVnpMVkFEcFRmMkVMUWptRWRyYmswOG1YbHVuUTZsZC03N3djNVBuTzhQMnlSRnF4Ty01c0xGamtNX0tYYzRHMm9URUlUVXAyWjJwelcxcTlYSVlaMkpqc24tSFFpQTFhRTZjNzZOS09qTEVRcy1wRVRpYldDS2E0SUZMN0xmSXVUcXFEWUhqQmVkOXJXUzZvZHUtVG5sU0J6NnlGQ1IxTDJCVUp5aEhaQ2wtUXQ2dmlVX1hjcjVxZzFZT0ZqWHg4WDRIeEpnVjNpUHRuUGpfbFFYeHRJaGo5QUJhVHVxY0dtWlJ6MDMxNkRnSVB4OWdPZzhyemFLeTgtUkhHbHI5S3Yzdy1ILQ?oc=5",
-      "domain": "The Economic Times",
-      "topic": "Fuel",
-      "seendate": "20261019T092339Z"
+      "title": "Palm oil market update: rising costs and risks for Indian packaged foods — CMB News - CMB News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEdPZlhNWW9sQXIycDFwRG1hSDYySVdSSFR3Q3ZPSWVicHBYRWVzV3dLWGhReGFrN1JKT08tbUFUcWNraFVUN2MxYnFzM1p0ODFqb29PbWhVa2xFOHc3bDd0VXFKaGFheHpRbHk3UWJsaC1QUWJ4TmpXeEtia1RnSHV1c0dheFpVS3o3Ry1vUFQwMjRYY2t4S0NxZ1o?oc=5",
+      "domain": "CMB News",
+      "topic": "Palm oil",
+      "seendate": "20261020T053644Z"
     },
     {
-      "title": "Paris to Milan and Madrid, Europe burns over soaring housing, living costs - India Today",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUjFhZFpTZW1SbHNhaEhRR25RZUxsNUhmc3NyQlBmMjdZYkRRZ3ZqRUU0WGRXUWpVWXhHSzZwUGh0ZUh5TmMzYjhkS0hZVnIzSF9uWXlHMndITEJ5UlpfaFRMRldCaUdOVWdzejdXSkpHWXBjSmdEeVZWSy00eXo2ZXhzcUlReUIydV91d1NNcW5qMUNyY1lIZDlRWTdwSVljeTlrZUYyRFFWQlBfVk9QV2U3bDZsRjJaVmFGbWd5OUR2WlJiR3JRVm9XSmhpb0xid2dXNG5sU3V6M1R2XzdKRmhJNS0wUGVBNWVvNUZqN3VQLXNWUlVwenU0V3NnZEM1NVV5WtIBigJBVV95cUxPNGwzWjBnVHR2anh0WDN0Y3FOcDRVdndFdE5EUWFFMTYwX2I2VXlwRDE5M1VSVTY4dXdLZndtcXNQMVBGMkNDV3gwZGlxNnFxS282YUp6WGs1OTloR1JFZ0NTMm5ZSWtvYTlRS05LZklUYkM2SWQxLW9VamRNMDNXYjd1LUpxSGREUjc5cm1YcHNZY0lyVGZjRG5rZVBIOGNTNVN3czVVQzloQlZuWURKV2dQTUp0RjdnY1FNdHlQX3JrcW4yZVVDNktTZjNtVi1kWFh4OG9HSnBINngxWlFnajY4TmRJcHdwbC1ReUxlaEhzSnJTRlF3X0J3ZFozcnFVQWRhSE1pRVRMUQ?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20261019T081128Z"
-    },
-    {
-      "title": "Sesame Market: Festival Demand Lifts Prices on Tight Indian Supply — CMB News - CMB News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEtUaW83emlXQUhaX2l1aVNhblhmVV9WYUVxZXVHa3RyRlRTMFFBYkpFV2trZ0JQa2NNR0hzOFNOR3YwVHR5ZHVkT21wNW43Ql81MG5aV1U0TlRaQVVadWduZkNWY2pFcVFBRllyUUFoT0M2NmJqQkFwRW1GUTNaeUstYURSTFdjMk9UZWN6dnhNand3Wmc?oc=5",
+      "title": "Argentina sunflower expansion and India demand reshape sunflower oil market — CMB News - CMB News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObG1tcE1RN0N0MWJOTHpmbW82Z0JVNE9wN0lGT3BCeHU1TmxzUks1eVNrZ0NvMm5fa2dSRkM5LVlYZnFOcXhMOXlHWVJrWXJydjNPWVphQTB5b1FPSlhYTmx3UmRkOEs0YV9acE5wY1ZTcFVkc0VHVG5BUjI3b3QwNENuMXk2bFV3SnJyTEhsemFGUnlfQTJ4NTZNcmFyQQ?oc=5",
       "domain": "CMB News",
       "topic": "Edible oil",
-      "seendate": "20261019T060430Z"
+      "seendate": "20261020T053042Z"
+    },
+    {
+      "title": "Fuel costs, fewer flights, West Asia crisis: What is driving airfares higher | HT Explainers - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3h3S0liYVdPNG9xLWZrdk9qMEtOUFJyRThMTG5reGN0aXFhOGwtbUU0SFFFZ1hZUzBmNXhOamRfWkd2bVlNbzZzMGs1bVpzVWUtTkoxYU9lSzZzUWxKZHJtbWFBbUtZZ1F4M2pPMjdONlk5T3l5bm5ReU5xSVh0MTVGSGNoZnM1Qms5VERpNTZWaEJyMnZsRmdHUnhEY2ZqaXhoZ3lPSHBRMmZPcVdQTE5RaXloUVJUeGVIVkRXdmNSQ2luZ2xQckhHTTMydVVFNm4tV2dB0gHbAUFVX3lxTE04cW02TFFyUGdJMUhFejlMT3hNNkZraTJNMWlYSkthbWJ5eVNwY1BQRDdwQzd5RDZlUnI2TUlSRmg2bFd1Y3d4TXFtcnpkNnFOeEtlSGlVWjdfS3V3Ql8xZThJdFRTS3V3OWNpTXZPX2QtNUplUDJ3YXdCUG5kY01Va0NRYTU0cnB3bm9peGdDeU82T0FCWGh6dHROV0VqekhDalZuaDBZUnNGSnM0MFMtR0o5N0Z6TmhzOHNuRTdNLVFVbnBxcFl1ZHJ3QVFBN1pvRnR5ZzFpdk4yaw?oc=5",
+      "domain": "Hindustan Times",
+      "topic": "Fuel",
+      "seendate": "20261020T032800Z"
+    },
+    {
+      "title": "Petrol, Diesel Prices Today, October 20: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUXctckNvaGVFZXZZMTZkU2xZdTFTX01HZTAtZF9fV3FfWUxWMmxfeGZWSUJnSWRRYk5JQnV3MTVkeFkzamVSZ0xxMG9razR6dHJpRkdRbkVFVngzSTQyWkFsd0E1a1hmLXZvWUtTaE5iNGR5c1FpR3ZDa0c3eTQ3M3laeHk5cmZvQk43Y3ZQMFF4T1g3ZURfaXFIZE8zMGlvYk51em1LNjdKbGNFMlIzQ2JQM2gtQUJjeGlPeW1qX2JsWV9aQ0ZucC1zWnBvT2xBZGhVMHBlcGFxT0Fk0gHcAUFVX3lxTE9Rdy1yQ29oZUVldlkxNmRTbFl1MVNfTUdlMC1kX19XcV9ZTFYybF94ZlZJQmdJZFFiTklCdXcxNWR4WTNqZVJnTHEwb2trNHp0cmlGR1FuRUVWeDNJNDJaQWx3QTVrWGYtdm9ZS1NoTmI0ZHlzUWlHdkNrRzd5NDczeVp4eTlyZm9CTjdjdlAwUXhPWDdlRF9pcUhkTzMwaW9iTnV6bUs2N0psY0UyUjNDYlAzaC1BQmN4aU95bWpfYmxZX1pDRm5wLXNacG9PbEFkaFUwcGVwYXFPQWQ?oc=5",
+      "domain": "News18",
+      "topic": "Fuel",
+      "seendate": "20261020T020925Z"
     },
     {
       "title": "Petrol and diesel prices today, October 19: Check fuel cost in Delhi, Mumbai, Bengaluru - TradingView",
@@ -64,13 +71,6 @@
       "domain": "Business Today",
       "topic": "Fuel",
       "seendate": "20261019T033421Z"
-    },
-    {
-      "title": "Petrol, Diesel Prices Today, October 19: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXljLUw1VmljLXpjcm1fM1pFT2RxS3Ywb2p5dVlYNXIxUmZ5V2JCalh4aGlhb0h2UGRDR2hkdnNLc2dKMXhIU2lXTXU4eENIa1ZpUVlpUV8xUl9zTGc1WDI3TUZMNDIwRHJ2U1NMa0o2bVlHSjlpNmY2SThSMFhLM2RKUnlPSG1ub2hRWUhRME5yUC1GbUpfWkFkVDhJekFPR2xWSmNsUzQ3WkI4emg0VGtLOWZvRFZLVm5PWjJINk50M09lQTV2cFY5ZE1uTVR0clhROG55ONIB3AFBVV95cUxNTUwyel9OZVNzZm1LVl9ISnBuXzFSNjhEX2UySG50Tk92ZFpJalhuQldBR0cycmozakRNczVlUzhFUUlFRjRvVnJwRktRTVlhcXBpN3ZtRWhuOW9iUXNQVXRoaEJhdjZYeHZVenljcDhTMHZ5S2R3ZkhLem5lblp0aDhsdks1Zl9wTDJ3ZDBCUWJOakdUc2JYTGU5Q1ZhcUtvM2taRUF1NXdrd3d5RFlrNEFuSHNOaGdJMVlfSjhZZkVYZUxETHFWQ2xfZzZsQnk0eUxpTklVN0tXQU9Z?oc=5",
-      "domain": "News18",
-      "topic": "Fuel",
-      "seendate": "20261019T021413Z"
     },
     {
       "title": "Petrol and Diesel Prices Remain Stable on October 19 Across Major Indian Cities - The CSR Journal",
@@ -101,11 +101,18 @@
       "seendate": "20261018T130000Z"
     },
     {
+      "title": "Trump looks to rein in fuel prices ahead of midterms; waives threat of 100% tariffs on India over Russian - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPcXQ5REJZUnlzMDZwM3JFR1VZSTZDM3dIUWxHekVaX0RHVW13WEpqM21TcHZfZE9Bc1ozcmdDbVQzY2RXTHNwRzNlWmxvel9MSUdQZEVUSkg2MzBWSGlSdDV1NnJrNzgxcVd2c3czMTlUcXVwNndqNnktWlIxVm9XdDVwNFFVdkkySzFwY2dDTWxuQWZUNkNQQkdVMU5oeHp0bXVGaVdhUzYxX0hpSzJwYzhTY2JCRjczaDYzT29iRTJvRThOR093Wk4xdUYxX3lDNUg0YkdSQnRFYVpDaTVmMzNiZ3ZnRVJnbjE1RTVnNnUzWk5rc3JybUJMcGZPaXhjTm9DV1FkZmNPQ1hLa3JVeTM1cVd0NmxqQnhrQzdWMmFTN2VpQWFoNWZyc25EaHdpSHFfRDhWcDdyTWxhSm9lMkswbTBXY09qYmc1Zno1akdkSHppS09tY3R3bXVTV2pQU2Zv0gHoAkFVX3lxTE4yV1pEYTh1YnBSbUs3QmRDUHNHcUtpbm94RGRxNmxpNGl4c0JEUlR3QzdVN3JfdE5KQXd6Mzd0MkxoUEFiVHI2eGNQdUx5cS05RV9KSUNqOC04UjFRdllhdDI0eHNadU5tMWZnaGFRa05DUnkzVVlJdXUxSnlZTHNHN2cyRFBFUXZWaFRMQThjc3dLbVV5M2N1RlZrZnpIZVd4amlPN1p6VzFYTkFEM3VNRkxzVDVOR3l2bTR4dS1rZldnNVNpamRPdnR4MXYwTFZQbHpyZG1yT2VuT2JtTjB1ZmpWeEQ2bkdBUjA3dTdHWTJWX0xBN0Z4akV0UUZ6Z21BWGxPNTExbVpYcENwa3E5aTZ6SWdOaXBkZWNfZGdybEFrb181UnZZaHZKbDhfSDVmM0FCNGJvSmdLTVdreV91OTlQQVBURW1YRVhCdHEtUU1yMHpuMy1EV193SDB3Z2NSbVNCeGtDaQ?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Fuel",
+      "seendate": "20261017T223000Z"
+    },
+    {
       "title": "Trying To Keep Edible Oil Prices Under Control: Minister - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPamtGMW5wVm5WTTI5RGlEOEFGd1JzSTRPTDVHVmpCaTB2U0p3cEQ3WFF1SWNhMEZxOERHVEQwTldWMUFJbGoxM05wNGFUYlhNb0JHbzY2S3hkYnBkZ3lYV3FYYmRPa3U2SzBaaGJBT2xLQXZBYVJfVlpLVnBBTGY2UlZtdExfajduRXRnZXBLblJfclFIc1p2SURiYnh0THFVaDUwYUZGWHhnQkN4Q0dZd1BoNDNiSi11QjFPZW52Yw?oc=5",
       "domain": "NDTV Profit",
       "topic": "Edible oil",
-      "seendate": "20261017T062915Z"
+      "seendate": "20261017T062916Z"
     },
     {
       "title": "India’s vegetable oil imports surge 13 % as palm oil demand accelerates - AgroSpectrum India",
@@ -169,13 +176,6 @@
       "domain": "RuralVoice",
       "topic": "Edible oil",
       "seendate": "20261015T064900Z"
-    },
-    {
-      "title": "Indonesia’s Palm Oil Industry Outlines 2027 Policy Shifts At GLOBOIL India 2026 - Outlook Business",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTGM0SHBRTWJoSllOdHZoa0NkZTl2V01od09EQTd5VDVGNERxejRzTHozT1QzQTRlWVpmZ0NfTjdnckJ1bDJIYVg4czQtQkZXdS1fY1E2RHJSWUhheWFKeGZSU2pneEEyT3ptQnNBb0N1aExFQWpocjlvWk1IZTlEd2VHaUc2eTN4cFc5OWI3VVJWSmhUUUF0cl9lbzdibVJWWGM4aXR5cFRiNnNaTFpnRTE1NzFCbzNZYkJZeGduN2xadTZHWjBCSlp30gHXAUFVX3lxTFBUQ2ljSlN2NkpVeWN5X2hldDc2T2RCZW1ISHNMbjEtVV9JUUFOdnZZMnZBSGZ0dXhsYTVsMzBNUi1qeUFlMEZNSF83eUdJay1SZzFXemhncnVkekpFc1cybjBwUjdJM2VfT2hrbnZHQVkwREttb1dDQlNzV05ZT0Y0NXNqaEJkWU4xbndMYjczdThmMktZSW15YjJkUUNQVE1xY1hiai1XdlhDSllBT2Rpb09LdXpHTFFKNGtpYnJ0eHV2cWR0Y1RYcVBEQnBrREtGdHo5MkpB?oc=5",
-      "domain": "Outlook Business",
-      "topic": "Palm oil",
-      "seendate": "20261014T131239Z"
     },
     {
       "title": "Does Diwali actually move palm oil and soyoil demand? What the data shows - Fastmarkets",
