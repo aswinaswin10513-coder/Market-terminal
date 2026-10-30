@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:58:10.236673+00:00",
+  "updated": "2026-10-30T18:22:12.435765+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,13 +23,34 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 95.27,
-      "change_pct": 0.05,
+      "price": 94.95,
+      "change_pct": -0.34,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "Food Inflation Is Widening India’s Rural-Urban Cost Divide - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjU5M0FGZ2FIRVN3U3RkeHQ0MEMyUjFSbUZ4TTZrREF5UUFXczFxSzNWU1FPaWE2RkdPdFg5Sl9WcDFOOXR1bEU5aHEwLWtuRklMbzczUVVfZ1AwRVZoYjh0WGtBNnpvN0tHOEh1ekpCOXZfY2dNeXZQaG03SG5IYldtaW05T00?oc=5",
+      "domain": "Urban Acres",
+      "topic": "Edible oil",
+      "seendate": "20261030T120324Z"
+    },
+    {
+      "title": "Petrol Price in India Lower Than US, UAE and China? Check Global Fuel Rates and Where Petrol Costs Over ₹400 Per Litre - Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZzlzV3pFZ1B6S0hJQ3dydkJZRlNEOFdULUV6Qm1RNTFhNl9NeHNxZ0hCYWJLT1lZbE96V2VIY0wxUnNQSTFqakRXYUVId2tQbUlLdElrdkhjNF9rZHNtNHlnYmZxUGdCUFlfSXpiRGYyR2NCTGF4NHhsMzRCaTAwRTdmSmlONVNnbVZwbkdUVlhTeWRQMmhDTzRqNUxzdzlHWjdFUlN0QlFuVWxseURuNjNTUTNCVEJ0elJzWUx5UmR1dE9IeWF5YzFnR010di1COEtIa1NpWWt3SWc1VkQ2X1ZsQnp3cy1aXzBrdl9tUXlmUWcwUGhLWXpFYXFPNzNMNDlV0gGKAkFVX3lxTE9DSXk5cUN6SmJVUmFJekVhUW1xNm9VWHN1dVd4YVhTZDg0YjJ6RVFxeURzazlGMHBoVlRhckctUmZKdFM2TS1USUFKYWZScVhNOURmZklIVnpKSllMVzdWUEN4MEhzalNMeXdnZmIyRVROcVljTXNwdjJqQWRDQ0VsTEU1Q1A5dFFKNmNHTFVtZEJ6NVlZTExiamV6OUczb0JPWDgwUlAwY1ZtdjZ1SGN4NFF6dGI4WEQ3ckZhellIYjNTUnlKeWtuOVRDckZIcGFIWTBTdUc1aGJmUy1pUWt0VjZyUmFzLWJrZTlrb1BrS2t0Q1JzUGhtZ0hjbnd0WWNRbnN4d3FCbjdn?oc=5",
+      "domain": "Jagran Josh",
+      "topic": "Fuel",
+      "seendate": "20261030T103938Z"
+    },
+    {
+      "title": "India increases growth forecast for fiscal year - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjEtdnNhWHRoOXREWTJBWW9ITXp6WXZOZlNyX2lnRXJyQkxENlNKdGY4a3l4Z19zcHJSSUc2bVFTb1o2eENlLTUxQkJJNENtNlduYy12TW1ZOHN4Qk1jZVdYcEtXY0tvRHBsWVNpR2ZqLVdtWEkxbEt6VjlRUWFsUUJtdTJRaG_SAYcBQVVfeXFMTWV4LTB5NHJvTmFiTC1UX194Q0NkaUhZY1BGRUVZWUZHaXNVa0wxVUgyNXlaVW1EempJWTM3bzNzNndoZ0lpTUxHaXFJNXVMbVNGYXZpY204aFFXT0t5WFZmY2tZaTFLR3BoczZtYUJBWGZvNzNlQkF4SXNkUnZjR3B0SDQzTng0?oc=5",
+      "domain": "DW.com",
+      "topic": "Fuel",
+      "seendate": "20261030T064044Z"
+    },
     {
       "title": "India Mustard Oil Market Softens Amid Diverging Edible and Industrial Demand — CMB News - CMB News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNV9PZE5jeHpCa3VBU1Q0ZGFRTXNkeTJWVlB2cFNGenY3ZWthbmFKaVZSdWQyc210RC16Skdjc0NpM1FHbXBxNVZFSGRuMUk4THRHRHlNc2NNaTc4M0FkRkhHVmpSU1Y2cWJfSE1XWUxaRm9VY1FkYTctZ0gtaldVWFdpX0JxU3MyM2FEdlRNam5qbjJ1NG5aRQ?oc=5",
@@ -59,25 +80,11 @@
       "seendate": "20261030T012154Z"
     },
     {
-      "title": "India increases growth forecast for fiscal year - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjEtdnNhWHRoOXREWTJBWW9ITXp6WXZOZlNyX2lnRXJyQkxENlNKdGY4a3l4Z19zcHJSSUc2bVFTb1o2eENlLTUxQkJJNENtNlduYy12TW1ZOHN4Qk1jZVdYcEtXY0tvRHBsWVNpR2ZqLVdtWEkxbEt6VjlRUWFsUUJtdTJRaG_SAYcBQVVfeXFMTWV4LTB5NHJvTmFiTC1UX194Q0NkaUhZY1BGRUVZWUZHaXNVa0wxVUgyNXlaVW1EempJWTM3bzNzNndoZ0lpTUxHaXFJNXVMbVNGYXZpY204aFFXT0t5WFZmY2tZaTFLR3BoczZtYUJBWGZvNzNlQkF4SXNkUnZjR3B0SDQzTng0?oc=5",
-      "domain": "DW.com",
-      "topic": "Fuel",
-      "seendate": "20261030T003427Z"
-    },
-    {
       "title": "IndiGo signals more fare hikes to offset high jet fuel prices - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnRpRlI4elJ3OWlSYm52WmhjMlNYa1REODZWaWdPcU9oNW5zejZDRFB4aWFNSS1za0M3RGpKYUhDS0Q4VlFJRVVZSG5BeUdYWGpxeE94T2tDZk8zdHF2WGJSMml5STNwMk4yaEd6Q0p4WjNVR3RwNUlVNC1lYTEyYTQzTTRZU1FadmsySm9UZmtVa0QzU0ZzVEF1RGJkLXMxcUJITUZ2UkxVVWVSQ2pLODBpSW5vUdIBwwFBVV95cUxPdThzai1ZUFF0UmdHcy1mQmlxeFJJaFVPeG1fNHdOSm9NSVdoRmRTUzNHQy1jVHYxQUtmUDYzUlpKdHpwY1lhWUczRE5YYXd0Z19aVVQyZ053MnVRQVdmY1YzNEhUUW9IUEhxN3VWMlNpNmpvMXctUVdiczBXX1ljNVU3d19tLUp4WWNYbzExYzVDTTVNRkdVa3lOMjg1U2FTeGlveVBDYmtQR1JYaVpWVS1TaE1qa0JNRDNwNmJHU2ktTlE?oc=5",
       "domain": "The New Indian Express",
       "topic": "Fuel",
       "seendate": "20261029T172224Z"
-    },
-    {
-      "title": "IndiGo has no choice but to raise fares amid rising fuel costs: CEO Willie Walsh - India Today",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWU1RWlN5clhiTjVEQ2Qxa0RUY09ZSWVwRHhwXzNtWXk4UkhqMllEMTF3VGJpa3dJVlJLQkZkRDIxNl8xWVQ2Y0FBamhCaEw2ZHJ6U3JGRVZWMUxtVDFUeS1YN3dxUm1yS0I2N2VkTjhxUkRGWmc5dkJoNkFXM1dSdmFKSkFrQmhBdEFIbmdqYkQ0Z0dqUTFVQ3poSE9FRVV5SmdrNi1Xdmc4WmhOTnVQaVJRRVVTTUlKN2dVa0FKQXBQVktsSW9WR1JR0gHPAUFVX3lxTE83dkw3LWRVdlR4emFKMGFEZUxpVGZlbXN1MGNJZ0Fzdy10akVNQ2xxWUo0U2JGcGx2MWxfUndwOE9YRVBXQ3QwQ0wyNG4wbmY3anhvTnVBRmwxek1xZW53aF9xUGl2VkhWZU5xWEZjOHB0YmVFemoxbHQwR1pkWXpKdU1CbzlhX0c3OUlwVHQ2cXJ0N0pZVC05akl2c3poY3o0UUcyRjRkUkRGSjZuREJmZllfb0pjZFZkdnpYdmRpVENiYzVXRlVLRkFrUUJhOA?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20261029T133652Z"
     },
     {
       "title": "IndiGo recovers only 60% of fuel cost surge, sees further pressure in Q3 - Fortune India",
@@ -87,25 +94,18 @@
       "seendate": "20261029T124625Z"
     },
     {
-      "title": "IndiGo CEO Willie Walsh says airline has ‘no choice’ but to raise fares amid fuel cost surge - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRV9POHpqdTBrU3JHOHp5WmFuMEhlTDNWWHlUMjZkSi1vd0w0VEdhYmtDMVBKTHFOWTd5NXlQd2hLLUhOSUEtOGtGQ1JBTl9fSnE1cU5adnhxUTJxRXpBOHhDalUwZ2hJQUtDY29jNlppRms3UXVEbzc3UVlUMTJwX2N3SjNjRkRTZWVTaE9xWHgtTlJpRlNQQ2J0NDF1NzZ2TDViaWVpVUtYSENTTFMxbkUxUTZTRGdhSUYzdm5mTktXbXBuS3JTM3M0LUxBN0EwSDNvcl9jZF9FUkQ1aS1kXzdBQnBLT18tVzZiRDJn0gHzAUFVX3lxTE9Fd1FFdHJaTEJmZjBId1k0V1RZdGk4WHV2RWtRMTAzVWRHZnltNW9hcFdZNC1nWEhkMXRVT2ZKMEhLeTVBT0owcTNHSWJwS0RGODhoQjFtQmRpblR6YjFsNHNRSld2dkIwVWNYb3BSNnRtWlpHMkF4eTItYVh1dGxkZlp4NlJzS05RajMyaGJJVmhpdmlueDRQbUhXMW15LWVFamNLNXFtdjMyb3RjbTR1WENReVVZRTZMOThmT05STU5WWXRXODhNRFluOGNkSTQzcVpuLXBHMHI2U3hBSjZ2SVZiTDNwZjNROGlQcmFZQnNyUQ?oc=5",
-      "domain": "Moneycontrol.com",
-      "topic": "Fuel",
-      "seendate": "20261029T124026Z"
-    },
-    {
-      "title": "IndiGo CEO says ‘no choice’ but to consider fare hikes as fuel costs surge - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlM5X21rR0dRM01oN25fVkNKWlhOS2VHOTI1c1hRSzBBTzJVQkNJMnNnZTlpQ040SGRXajRNUVdxekpwMGdCSUx3c0pyVEZraE1sR0NGRXdzNTZfbjc1VjR0WDRhNjl6WFhEZzBGQmR4M2hLODZ3Nmh2LUkxSEpWRE1SNmhTdGdRZjhiT19uMGRRekc1YzNyQW9lU2xkN2FHdVNVQzRfMmduVjFHWkI4MUdGWm9zNVdQSVp1aFFfMG1FcHVYdjRVOHJRalFMWHA0WUcyNVF3MFNIWWRGM18zUkdzWjdVVWtvOExvVV9Zb9IB9AFBVV95cUxOT2lNdjFJMkZGR1hPOFZBQWFuLVY5amI3LTh6Nmg1eUw0endWRE55d25JTnM5Y2JDVjNhQmxFUjl2aEgzenJfT0pyaEU3UmhxblFFdFF2X2FpMlNvNjQzQkk3dEU0NC13aFVZd29UU1FVWkZBNlk2V2FUWEhWbk5TR21OOGd1ZXRmTlBZV1B2OTlENVNWSHpBb2FCVEZkUzFuRTlCSFpJaFRUd2RlTFJ6SmNBOG42R1dXNDVDaVg5ME81bTJPelRERDJ2LWlsSk5FVzhRdDRpUzBtLW4wb1FsaEVKZzhZQi1SZXlMMmZFSUtVMHhG?oc=5",
-      "domain": "The Times of India",
-      "topic": "Fuel",
-      "seendate": "20261029T120800Z"
-    },
-    {
       "title": "Food inflation surges to 7.74%, oil shock threatens India’s growth momentum - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWjhwU3N2UnhuU1h6WGFTUlM3NURkVDc0R3RnUVc5WW5ibzJfcmUwWWFtLTJpVXNPeDZlUnVSQ0pnTmJKTnR5WktNbWVnQlljX2tIcllqTy03VzlRb1BaeEI2Y3NGZVFkTkZsUUxldGd0aTU5MW9kSTBfbzVhQkZRSno2NXJZRWpVYTJsQVZQdmkyOE1vT3VqMDYxdG1ySjd0TWl6UlBsbmJiWTZLenlqMk9jbjd1Znh2ZWRObE50dmJBczd2bG1tQWc2YU42X3hvR3RN0gHYAUFVX3lxTE9LSnVHZUltaXlQbG1BS3VHQnNBdllCc012RHJzNWo1NVJsblV1MjJzemtHaE9YUDhmbnVtNnNHTEtRVm1naTMxTEs3Nm5BMmg5SkQzUXJ4MlVlclZITkFKc0U1YTlYUk03TDczaDBWSzBXMzRGZVpodkxwYTNkalNYNk1RcXJ5T0RYaWo0bVhMcUhlOXg0WnRFQUFhR2pZNjlVc2FjOXI5T3huOGlmekFDcWR3d1JnTlR0cTNwYkMzS1lQNmRSOVYyeTJDeEFiZGJtRDJUQ2c2Wg?oc=5",
       "domain": "Firstpost",
       "topic": "Edible oil",
       "seendate": "20261029T100637Z"
+    },
+    {
+      "title": "India Nowcasts 7.35% Q2 Growth But Flags Crude, Food And Kharif Risks In Monthly Review - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXFfZm5sTVRJSUJlcmlOZUVoX3lRWDVCdThUNERweUdJeUw1TWhlMjhDMnJmbGFJLUUzNDhLaTBRUEZFMTJWTUpncjN0b3VBQTZKNE44TEdLUGJaQUlkTmJLcjlGTUpMM29EaUktbnlqVkhENDQ1cWlHTzl1OFpiT0stc3NOUHVsYklwVXI0MDRfNTcySTlLM0U1QmQ5UFJORTd3Smp2NTRPdXRQdlRROUw3aGNnQjFWNDZralBlT1lFcnVkS0Q4YtIB0AFBVV95cUxNV215aDVzd0JZVTBpZ1E2OWdQRXNBYU52RmxSa1ZaRF9qekloNTE3c3RHQTkyaFJ6S1piblpiMS1sRzN0YWxQZ0Fobk9XZFB5aExjRkpVcFlPU2huOGpuYWdGNWVUb0xiM2V6VVc5NkpPcWF1YW9wbEdMSmNvZlhLcmNfTFloUW4wZnduOU5HdTF1UXZ6cEVzbzdrV3NyVVpSemtEbUp2bnVuNlZfOGU4a3RIeXVmVWVVSzJBcXdQT3FHVHZJNkY3RjJWVXBmWURz?oc=5",
+      "domain": "NDTV Profit",
+      "topic": "Edible oil",
+      "seendate": "20261029T095110Z"
     },
     {
       "title": "47% of the targeted area covered under India’s oil palm expansion this fiscal - TradingView",
@@ -115,18 +115,18 @@
       "seendate": "20261029T045100Z"
     },
     {
-      "title": "Higher support prices, strong edible oil demand to drive mustard area expansion - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEZtVFhOdUFNbEg0M29LTmRhOVVxZkdVYmsxN1VJVjRHbndaZFBGcDc3MnE1UGtZdnV6V0MzcDVhUTl2VUZhRDZIV09WRkp0VnBSN0h6U1B0VF9CR0F3NFpXa0FZbDYtREZ1VFpFR25tLXhNbWd4YlIxTWJzZW9oeFg5QU1MT0FRVENXR0x1ODFDWDcwUkVxOFlKUEdzU3RtTU51UXMwT2lyZllJekU3TnRPSl90bWFjWDZGWDR4cnY3MW5QVmU00gHMAUFVX3lxTE93RlFKeTVvR0liTlduR01LSXE4MUt0dkNLZUtXTno1TjZRZ3VpMnJyUlp3RDNRMXJYNHlsR1pZaUJpQ2pWTFFxeTE3VDZCZnhuMjNhU3MtNVR1amtTYlZFMDY1S0VoUjkyRzhVRjcxWUdmbzRWUUJGWXJHblpHS05sNmdmWlR2UXRIdFowNmpZRHdaV2ItcHlRazZVMjFaV2lyRk4zV1Y0b1lGY0FaR3dyUFoyYkhGdDVuRWJDRTVWSlc1SHNUeHlzMDRmMA?oc=5",
-      "domain": "Livemint",
-      "topic": "Edible oil",
-      "seendate": "20261027T140316Z"
+      "title": "India’s new oil and gas research hub: Will it make fuel cheaper? - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVV5ZFVYSFBYVjFiU0JERGY3OUczdWVTVFUxUHJpcUZCb0lqV2pISEN0S2MwOURVdGhuTklsZE9PNE5uVVZORjFwRDYxdHlQSEp6ODluVmhBSDl3cG5MN2FBTXRXbkhaOHMyV2JKMEx1VGtqd0pEelhna3JQWlhCamlyUWZ0XzAtS0RHV2dqYVU5R3h6dDMtOWpoVFlwcFE?oc=5",
+      "domain": "Open Magazine",
+      "topic": "Fuel",
+      "seendate": "20261028T094426Z"
     },
     {
-      "title": "The Grease Hunters of Bengaluru Want Leftover Fryer Oil to Fuel India’s Jets - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYW5sZ1lpQ0tjX0VhMlM5UnNKVmF5alZYWldzcmRsU2xKNWhWRmxnQWZBQWJHVGhIalc1UzE1cnNBTmg3WnRxdWJHaVFxcG5rcm1RaWU5T1hONGhVNndscUpwWkI0TzNxRDJxLVN5UF9Wa3JIRVpVMmY5T2JFNlZDZnJGRFVhaXZIajJ5b2tjeEk5Q1NjVHlxQ1BVZXhoOFdqVldLMEtYUXRxTE1NazNMM2hEckY4bHlVNTF0ZVFqQmVMcWxVN3hWdDRn?oc=5",
-      "domain": "Bloomberg.com",
-      "topic": "Edible oil",
-      "seendate": "20261027T013300Z"
+      "title": "Fuel Price Hike After Diwali? Narendra Taneja Flags Rising Crude Costs And Pressure On Oil Firms - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNLS1wa1d1QWc3VmFsQ3VxNkg3SFZ1RDZSME51eS0yZ1FaYWs0Z1pJTlBDQTI5NGc0RHdueGRvWk5yaC0zS2ZOMG9mVnlqM0VUWkZBaVdzRUNaRU9GclFMUjNSZFNwWF8wRGNDck93UmMxWVA0cHlyVWduUS1zRGphWlF3SlhVaFZBZFVnY09EMEREejVlNEc3akFSUnBwZmhzWVNkQmw3aTBQSEV6VDFJTmNoSFRYRGhWdExUcS1LOThSM0VOeHhuX25ZeHpKRDZPcExsZzdhZWUzclVQZlRWWTdJUEY0VnVQTUZEU0xMRjFrcFUxaElB0gH8AUFVX3lxTFBGdXNTRXZGRkhiRmdHNnNqbjVOMjJ2R0hBZzBOYVFiYzNOQnZXT293am1TV1ZvSlhQcEVDcm5zcFpPOE5oNVhXLTYtZVJLd2NVaC04UFpjYXZPNGNLS1RHbWt3V1FKdjBlS2xCb3NDNW10YlFpZC1UaGZnbkpFWmpzVzBPY0JOTXdGZ3diS2dudkU5QUxjN1A3dEUtaVJDWWJ3VTRUajAyaGdYZFRUWlkzN05ydzVBRDBZa3ZxaWF1OWFSeVc3c3dSZFVlSGdPRkp1RjdBME1nYjhDUU1PTlZoQlgxX0NYOTUtd2xScmNyZndFUVRhOTNYdUxDaw?oc=5",
+      "domain": "Business Today",
+      "topic": "Fuel",
+      "seendate": "20261028T092552Z"
     },
     {
       "title": "Yellow Revolution 2.0: Inside India’s ₹11,000-crore bet on domestic palm oil - Livemint",
