@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:35:02.162950+00:00",
+  "updated": "2026-11-01T18:13:23.825679+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,6 +31,41 @@
   "commodities": [],
   "news": [
     {
+      "title": "Jet fuel price rises ₹1.30 per litre, commercial LPG hiked by ₹10 - WION",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGtTQUJhNUFXRm9WQ0ZVbnFPUnRVdVp3ZFBQWkU5VFpqV2NmZFoxWTZldnk2V3hVeG1PNjlVVmRsSjhieTJJSVZGUlJHZWN3N01xdGhzdFV2Z3NJd2J6OF9aajVzSGZyaFduNWZDb080eDkwMXZwaTBCMmRhaTBJTFhpUWQwOV9CazZQR2lUaURjZFFSeWNXVjNNTDZTVEnSAaQBQVVfeXFMUGVTTENvZGdMbHpHV1BLWUJTU01NYld1X1hjbmdrT1dDLVE2MkhhM25MRUo3OEJ0dUFieVpadkVfaG1ZZ2txMXRhOV90d1hBaXJCaHc1OFE2d3pOR0tnNmtJY0xzU01uRGVHQ3RzcEltWFlOb1VBakJTYndIYW9MMS14WnNCVmViSXMxNUVkeE5RNnFjZTRCbW4tOTJLdDhMZktnSDc?oc=5",
+      "domain": "WION",
+      "topic": "Fuel",
+      "seendate": "20261101T155300Z"
+    },
+    {
+      "title": "Gujarat Groundnut Oil Price Hits Record Rs 3,050 Before Diwali - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEM4VWVnRVNmbURSc3lqUnU0VUQ1SC02YjJRbHJPaE5SeXlubWpJaU9Ua1hsUzAwYl9zUExuWmdJQWt1bTFtZTVUU3cxNHBSQU9Ramd6RlRlNXhHQUNVT0lKejI4WWMxSFhFWEc3a2taNkZzV2FURmsxYjQ1QUxXX1BZcU1JSS1xRGZ5VQ?oc=5",
+      "domain": "Urban Acres",
+      "topic": "Edible oil",
+      "seendate": "20261101T133931Z"
+    },
+    {
+      "title": "LPG Subsidy Burden Pressures India’s Fuel Retailers - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUkRCSG9ldnM2MGNqblROeUdYUzgzTm9vQlVWQkczUm1wNEVFTTR2a001YmRLV25qbUZmbDhDWHBPdmNXTGJkaXU0R3laYmt5a09UWENzSjY4bTZGRFpKZXNXM2ZDaWU2STNlMDh6SUdrVjZhZGhXaUhfV1lBcEpHVXhtRG9sbk5jQVBRag?oc=5",
+      "domain": "Urban Acres",
+      "topic": "Fuel",
+      "seendate": "20261101T115420Z"
+    },
+    {
+      "title": "Commercial LPG & Jet Fuel Rates Hiked Effective Today - Pragativadi",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYzBvOHEwSnp6OHN4b2hEdnI3bWhfOEx4WEh2UzZxc2hvWk1OdnpBOXhKV2xYdWgxMXQyRjB4eVZRcExBRXJuaHRKSDhKTFJxa0diaG11TWE1VWNndGdTbUxUUEl0bkE3MmF1cGZ5Zmw1c3pPUUNPNzdJVmRwVnUwQW9R?oc=5",
+      "domain": "Pragativadi",
+      "topic": "Fuel",
+      "seendate": "20261101T112356Z"
+    },
+    {
+      "title": "Jet fuel prices raised by Rs 1.3 per litre, commercial LPG by Rs 10 - Scroll.in",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDN4dXJEZFFCaFNPSENXaS1OOGF0dE92OWl2Rzd4MlVyTF90NmV1YmJXNm9EU0VXUTBxOVV2dUsyTUFxRHdjOU5XNnVVY205MWpxNXhxSTVVaHRuTWNOTG1IUTJ1aWh6Z3F5ejZ4N3MzTFZMb2NSdEtvOVVHOWNNZk1TME9MSnlLaENtajVYOU54QXF1ZFZhYnBSLXIzRkFr0gGmAUFVX3lxTE1zS2kwWWxYYThqY3M0eEYtaUluVDctUzFJdnRqWlNIUU9ST0w5dFZ0bmI5TDQ0VlU0eHBwcndnelp2YUJsRlJhakJXeFdLM0JJNTNyTmlBSzJ5T0docG5LRmc1eHlWNlhHbTZsLTg1c1RneHZZVkd3Y1FXVldFdkllNnVrUmQ1Z05PZTJ3QXhFMnJVSnRPaFJTaUVKcW9xTmRmSTU3M2c?oc=5",
+      "domain": "Scroll.in",
+      "topic": "Fuel",
+      "seendate": "20261101T085800Z"
+    },
+    {
       "title": "Diwali travel & dining to get costly: Commercial LPG hiked by ₹10, jet fuel rises ₹1.37 per litre from today - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTHNYcVBJZEdpVlJ2VlpNazBQWlIxei0tUk9xUkNJZTM4R2VEdmQ0T3FBWGpjQ3BIcTNBTTdQRWZiaHJpRzhkVDVoMmd5Y1BFVWotcjZrN1lfV0luWkJyUTB6Q0lmWVc0TWNFUVFGSjA3bEhKMnJFb2JHRVN0dmFDZDZTQ05EeF9XYklxdm5EbnZCUkhWWUczYTRnQTlINUhPcGpheUdfVDVLNEJ6cFE2YWpCcklfbHFsdmhEemxvM3V3a3c1bkJwYWszYzBRWFR2djI0VTlIeTJUQ05uQWxmV3d5ZnlxSktCLXBOTNIB8gFBVV95cUxOa0xTRjNKbENKWVR1R3pzOGEwaUhBWV9NM1JEZUtmT2QtdGJ6NDBIZi1Lc2Zrc1JybzVsS2R1Nm15QkhCSkxqLXdvUHViTC1xaHQ5Qkh2WEVMdlVpdFlVMDJzYlR1SmlPLTQ2U0ZWVjJFTy0xRUVwcUloR25pVEhPZlk0SG9QLVVoQ1RCNS1CamtfYTlKcUswcWEyNzd6NXdfenRhTzFtN0ZJY2p2TDJmV3RzZ3R2NFZ3VWdlVnU3SW8ySlZpaEVjNVlrZ3o2UC1LelZUZmMzdUQ3WDZxb192UXJmbmJwTFdWcDFLYUIzcUU3Zw?oc=5",
       "domain": "Business Today",
@@ -38,7 +73,7 @@
       "seendate": "20261101T065106Z"
     },
     {
-      "title": "Commercial LPG cylinder price hiked by Rs 10, aviation fuel cost rises too - The Indian Express",
+      "title": "Ahead of Diwali commercial LPG cylinder price hiked by Rs 10, aviation fuel cost rises too - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQU1aMHcxcFM0ZWUtSzN4aDNhQW9GaGVaQ29YRXh3Mmx1M2w5TEplQnNRSGQ4UWs2cU9pMFFCRlhISWdxZHc4WHE0QUlKSmpoQlczS21XT3lieW1DQkx6NzV0RWFCTFctaURMWEQ4N1NSQk1kVlR1cUI2Qkt3bmdCQWRWcUxLMWhpLUYtZjNuZEhWSVFCYi10UEZ5MTlzVUliM2xhcEV2VXVlZXY5YW1lZ1U1SjdnV0VCa1QzbDRvZU7SAccBQVVfeXFMT1phSEM3ZWhxZk9mZy1ZWmgtRFpoOV9mWGh6a3lGYkJhbGo0NE04V3dmNE4wTnI5cHp0UlZwU3FzajBjTWEyc1VvVmtSSE9BSEVURzdEenhyTVB2ZlZpTEhMMGFVeldoUzFfNlE0QmRWVUxUZnlENlJnVklJNUVRcEhJeXdGUnQ3QW5SNkZtUTZwR01UUW1mejNDOE5nOGkzT3l5UVFoX3c0bDRhS09kaDB6S1NYbnVEV0xiM1pmR205OHpYU2VTWQ?oc=5",
       "domain": "The Indian Express",
       "topic": "Fuel",
@@ -50,20 +85,6 @@
       "domain": "Livemint",
       "topic": "Fuel",
       "seendate": "20261101T014630Z"
-    },
-    {
-      "title": "Petrol export duty scrapped, diesel and ATF levies hiked: What it means for consumers in India - Open Magazine",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUFNVUhYTGYzZDdfdFkwRW9RR3htbVF5VTVTcDltN1c2c1FEVHNndVZHQnNPSFBoNXNJR1Q0WTVPTFY1X0J5WjdVcVQyVDdFajY4VkZvVXl4WnVjMnZmNU55MmdfeDZyVDVXMlVtSHhlUGZzcUs4NWR4WVpuQjM0Sl91YU91ZEMwQTVNSmtMRXlObE8zS0VmemJRYlFzOHBxWTdpZi1iN2RMc0V6Q1I4cnFVZVdkNHpySWlENXVIb1J4dWJj?oc=5",
-      "domain": "Open Magazine",
-      "topic": "Fuel",
-      "seendate": "20261031T103850Z"
-    },
-    {
-      "title": "Petrol Price in India Lower Than US, UAE and China? Check Global Fuel Rates and Where Petrol Costs Over ₹400 Per Litre - Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZzlzV3pFZ1B6S0hJQ3dydkJZRlNEOFdULUV6Qm1RNTFhNl9NeHNxZ0hCYWJLT1lZbE96V2VIY0wxUnNQSTFqakRXYUVId2tQbUlLdElrdkhjNF9rZHNtNHlnYmZxUGdCUFlfSXpiRGYyR2NCTGF4NHhsMzRCaTAwRTdmSmlONVNnbVZwbkdUVlhTeWRQMmhDTzRqNUxzdzlHWjdFUlN0QlFuVWxseURuNjNTUTNCVEJ0elJzWUx5UmR1dE9IeWF5YzFnR010di1COEtIa1NpWWt3SWc1VkQ2X1ZsQnp3cy1aXzBrdl9tUXlmUWcwUGhLWXpFYXFPNzNMNDlV0gGKAkFVX3lxTE9DSXk5cUN6SmJVUmFJekVhUW1xNm9VWHN1dVd4YVhTZDg0YjJ6RVFxeURzazlGMHBoVlRhckctUmZKdFM2TS1USUFKYWZScVhNOURmZklIVnpKSllMVzdWUEN4MEhzalNMeXdnZmIyRVROcVljTXNwdjJqQWRDQ0VsTEU1Q1A5dFFKNmNHTFVtZEJ6NVlZTExiamV6OUczb0JPWDgwUlAwY1ZtdjZ1SGN4NFF6dGI4WEQ3ckZhellIYjNTUnlKeWtuOVRDckZIcGFIWTBTdUc1aGJmUy1pUWt0VjZyUmFzLWJrZTlrb1BrS2t0Q1JzUGhtZ0hjbnd0WWNRbnN4d3FCbjdn?oc=5",
-      "domain": "Jagran Josh",
-      "topic": "Fuel",
-      "seendate": "20261030T103938Z"
     },
     {
       "title": "India Mustard Oil Market Softens Amid Diverging Edible and Industrial Demand — CMB News - CMB News",
@@ -80,13 +101,6 @@
       "seendate": "20261030T050709Z"
     },
     {
-      "title": "IndiGo rises as higher fares, cost controls offset fuel-cost concerns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSG0yNTRRcTZONi0xTnVwZnZWclZ0aVJCY0oxTDZzSk1haTBxZ1ZqNEhvOFR3X0Roa1h2aVZyMm1tblFEZV9QSHhIVHZmZnJkOGtRYlYtdkJfVWVSZjJWaWh5VVFNMkMxbm85MExVQzFfdHBRZE9OekpUNTFrSUp1TGgxQTU1Y0pmOGdPWkN6bDRQNXNYT09zM19jX05GUjY2bS1mdVdkdEItSS05aURjN1BjYw?oc=5",
-      "domain": "Reuters",
-      "topic": "Fuel",
-      "seendate": "20261030T040800Z"
-    },
-    {
       "title": "IndiGo signals more fare hikes to offset high jet fuel prices - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnRpRlI4elJ3OWlSYm52WmhjMlNYa1REODZWaWdPcU9oNW5zejZDRFB4aWFNSS1za0M3RGpKYUhDS0Q4VlFJRVVZSG5BeUdYWGpxeE94T2tDZk8zdHF2WGJSMml5STNwMk4yaEd6Q0p4WjNVR3RwNUlVNC1lYTEyYTQzTTRZU1FadmsySm9UZmtVa0QzU0ZzVEF1RGJkLXMxcUJITUZ2UkxVVWVSQ2pLODBpSW5vUdIBwwFBVV95cUxPdThzai1ZUFF0UmdHcy1mQmlxeFJJaFVPeG1fNHdOSm9NSVdoRmRTUzNHQy1jVHYxQUtmUDYzUlpKdHpwY1lhWUczRE5YYXd0Z19aVVQyZ053MnVRQVdmY1YzNEhUUW9IUEhxN3VWMlNpNmpvMXctUVdiczBXX1ljNVU3d19tLUp4WWNYbzExYzVDTTVNRkdVa3lOMjg1U2FTeGlveVBDYmtQR1JYaVpWVS1TaE1qa0JNRDNwNmJHU2ktTlE?oc=5",
       "domain": "The New Indian Express",
@@ -94,11 +108,11 @@
       "seendate": "20261029T172224Z"
     },
     {
-      "title": "IndiGo recovers only 60% of fuel cost surge, sees further pressure in Q3 - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUE1WHlRcnh2VmVDTURITmVjNUlrSk9hVWJTcFJsQ0pINHEycnZNd1FLU0xtWHFnZTBaS0NMeklBaTkzbmU3dUtLQ1U2eDdJcEllMTRXQzA3WmZJWXpLckxsM3hKX0dYM1dqV3B3a25NR0xYY2lhRzQ3azFCdjBTdGVHdTJjdHdPUlRaVXlGQ1ZKZkR3NlBQM1gzWnd1TnpmRlMwRG8zNi0zcm9ITl84dHViMl93THZhSUl1QtIBygFBVV95cUxNVWZqcVhaX1VmcHJWQUtXWEdFWVRuOUh3T3RJYm1QMHpOT3A1MUw0dW1hQl9tV0I0SlRNR3ZFcmRaYWtrV1IyVlJiS21VS0haZVhQTmdNZUhfaG9PNk80Vzk1R3BNWmN4VlNiV1BsZWZGMUVSaW9HTjF5VnNCVmhFTWdSdi1JaGRZT0VseWFvdzFUZ2V4bUtHTm9hTGVBNk1HLXZLZXJ3M0hjM2VsRDVUc1FIcmozS0VCOTZVRVJqTWhLV1NuMWotZmln?oc=5",
-      "domain": "Fortune India",
-      "topic": "Fuel",
-      "seendate": "20261029T124625Z"
+      "title": "Food inflation surges to 7.74%, oil shock threatens India’s growth momentum - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWjhwU3N2UnhuU1h6WGFTUlM3NURkVDc0R3RnUVc5WW5ibzJfcmUwWWFtLTJpVXNPeDZlUnVSQ0pnTmJKTnR5WktNbWVnQlljX2tIcllqTy03VzlRb1BaeEI2Y3NGZVFkTkZsUUxldGd0aTU5MW9kSTBfbzVhQkZRSno2NXJZRWpVYTJsQVZQdmkyOE1vT3VqMDYxdG1ySjd0TWl6UlBsbmJiWTZLenlqMk9jbjd1Znh2ZWRObE50dmJBczd2bG1tQWc2YU42X3hvR3RN0gHYAUFVX3lxTE9LSnVHZUltaXlQbG1BS3VHQnNBdllCc012RHJzNWo1NVJsblV1MjJzemtHaE9YUDhmbnVtNnNHTEtRVm1naTMxTEs3Nm5BMmg5SkQzUXJ4MlVlclZITkFKc0U1YTlYUk03TDczaDBWSzBXMzRGZVpodkxwYTNkalNYNk1RcXJ5T0RYaWo0bVhMcUhlOXg0WnRFQUFhR2pZNjlVc2FjOXI5T3huOGlmekFDcWR3d1JnTlR0cTNwYkMzS1lQNmRSOVYyeTJDeEFiZGJtRDJUQ2c2Wg?oc=5",
+      "domain": "Firstpost",
+      "topic": "Edible oil",
+      "seendate": "20261029T100637Z"
     },
     {
       "title": "Yellow Revolution 2.0: Inside India’s ₹11,000-crore bet on domestic palm oil - Livemint",
@@ -171,13 +185,6 @@
       "seendate": "20261001T070000Z"
     },
     {
-      "title": "Malaysia aims to grow exports of higher-value palm oil products to India, says Noraini - The Star",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1dfRi1oOWJzU1dSSFFGX0xGZ3ctWGdQNVNCeDJEejFjcVdMWEtNSFhvcTBLRndkM3RST0lzbFNFZV8yUU9qQjVLVkMwTGZGS0hKMEktSGlUeDJxYVo4Z0VZMlhvS0hvd2RlT19oV3RlVzh3NDVUSDA5SFV3Qk1XLUZxR1VTV0ROTUZyLXFwbUVLNDM2djgzdUUybnF2QmNYZlUtLXUyMk5TWkpSQlNUOFozWjdZbEdSY1JlOHY1UEpJUDF5ZmxSamlkcmFERHJuWURHU081bEZNWmdVcF80?oc=5",
-      "domain": "The Star",
-      "topic": "Palm oil",
-      "seendate": "20260930T070000Z"
-    },
-    {
       "title": "The crop at the centre of India’s edible oil self-reliance push - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZkhtcHAycW5uSmtQNWI5b2taLWJFUm81YW1WOXJ6NDc1cVdDS19QN0JGQzR3QWQtcThlQkF5aHVNTjVGYWUzdWNyZlViRkJaU3pNVGZPaFJpdDhROXRGa1BuSVhxSjN1ekVFNHlmQU1oUDN1TDkwbDUzTmVZekJzUVpDdG5PUDZOSm5XVGV6Ul85RVRTbXNsSTVRWGZPcHJxbjByNVI5YkRoemFYTlNFZ09YcDY0WEJhcEM0RFZKdFR0VmZmS1J2SU5FbGp5b09vOVY3UzBiTjTSAd8BQVVfeXFMT0RwX2RJcktzY3RTOF90THo3cWFITnBHQ1BEUkIxZEJiZ0Z6VVlPOExMYmt4Ny1aNzhZMUJHRVVNVFc5c2FCazRFYW5VVHZ5bkZLR25IOFhtSUFyYTh3YV92T0NoWFBSQ0I3czNYMVljbFJabzJPLTlna2Q2aVlnLXM3MmhESHNvSG45ZmpyZFQyUF80VWFaNmUyWWkwTmJtQzVpTkNZVGt6VWY3U1AzSEg2bG9lUU1yekVCRlVVZmU5bHFnZFh6X0ZDOTlhXzRDbzd0Q2lMQmtXcm9kY2RIaw?oc=5",
       "domain": "BusinessLine",
@@ -190,13 +197,6 @@
       "domain": "Deccan Chronicle",
       "topic": "Edible oil",
       "seendate": "20260928T070000Z"
-    },
-    {
-      "title": "Govt Asks Companies To Pass On Edible Oil Duty Cuts To Consumers: Will Cooking Oil Prices Go Down? - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEhSUVVaUGg3MlRtRFhhN2NCUzRKVXZUTlluY0Y5NjNoa1RqY19DbEg0bm10ZzhBckdhU0RQUmVmZDkxMlhDTUZxSjhjRm9wN3RBYmRxUUNKNDhUU1JXSW9EUTdXYS1LdG5CN3NrcmYwVEFMTHlocVVIblpTUTVTNUdVSGhRYmtBN2JkeUdTLUJwQzZYejA2aF9yRVdMNUY3dlA3MkJRcXMwMVVwRDI5ZFFUMEdYRGJFZ2JuTFB5WVZpRkFXZU43LUJSWkVqTTdVVVFEZ1A0V2M1ODVxdzd1NFVQY9IB6AFBVV95cUxOa3ZKeE05dnhSU2ZkVmU5bEZLQnEzZWdtTkgybGVHWEVVbGwwRHRHSkhwX2JhVENOOVIwZXMwRFZCdlVXZ0luOTQ3LUdKSENUT2JHbElSelhmMkI5NUtXWkpicXNtZVNZZndJckZJN1RGRmdQNFhOWEJKWGNyLWt3c3pkSkQzUTdwTFF2amdJb3dyZ1BKNzNuY0xBTS0zV2NTRWVOajg0X2dTeF9RSGdjd3ZuSzIyNFp1RmNaLVNnZmo3Tk84UmhicU5xNHJJLS00dVB5SnBVZF9PX3REMEFJcVgyOWYyVU1p?oc=5",
-      "domain": "ETV Bharat",
-      "topic": "Edible oil",
-      "seendate": "20260925T070000Z"
     },
     {
       "title": "Cooking Oil Could Get Cheaper This Festive Season As India Cuts Import Duty On Edible Oils - NDTV",
@@ -213,13 +213,6 @@
       "seendate": "20260924T070000Z"
     },
     {
-      "title": "India cuts edible oil import duty ahead of festivals: Will it bring relief after prices rose 20% in a year? - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2taZnZYeTZ5LWtmUHNuYXNTQWVrZ3N4cmNTYjd1d3pWdFhRSmFpWmNCcjBnS2lCUjNOSTdYcXZmNjlndVNoZEJqN21PS2E2SnM0TGRlZlZ4RmZLNGMwbTdXSkxOX1QxSzJCQldhbVF5WWtIMktKXzBWb2xaSHV2dTN2RGZObWhRQlFSQmxqQlhDc3RaQ01qNzdCNnh6X3lFM2ZsNEszajhYaDZ5WUdCbUcwTmtUX19naTM2NHpZbG5kS2Q4WEVaWWRzbTZzcXBqdE1jRm91QnNnNXVDd2NZX2FCeDhnX3pxMnlndnU4d09Td9IB9wFBVV95cUxOaFhyMWJ2Sy1pdF90R3BoQnVzMzY2R3lhdXp0WXJINGJ3SWNYcDM0MkR6VVhBMkc4LVFpQzVocGtSallmQUc3blhHMlgtQ0UxUWpqV0ZraVlWQnhRdHl5RWhWTDlJYzU1YWFMZ0RpZUg3d0RCd1NOME0zT2Y0UDRFRUhxcUFYc0Z3MXB6SnI2S1pfM3JqSUpsMWFqZzE5X3UyYlR0ZldON3oyRno3YTJTOUE4MDBuSEd1cm5pSG53R1UyTjZtR29DY3dqT2FGano3R1NIRGM1Y2lNY3FOMXpnaFdzM1NmZzc4RTVhVFpvM2FHaHhicnNZ?oc=5",
-      "domain": "Livemint",
-      "topic": "Edible oil",
-      "seendate": "20260924T070000Z"
-    },
-    {
       "title": "India cuts edible oil import duty to lower prices ahead of festivals - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
       "domain": "Reuters",
@@ -232,6 +225,13 @@
       "domain": "Reuters",
       "topic": "Palm oil",
       "seendate": "20260803T070000Z"
+    },
+    {
+      "title": "Policy Picks: Indonesia palm oil, India food safety and UAE Nutri-Mark - FoodNavigator.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1dhcWV0cE9vVkh3TF8xVVJWR2RJeUpiZzJuczBBNUN6TVc5cnRFUk9adWhQczBzdU5qc0FnT0lLRW0yYlgyNG9VbmFqc0JhOTNGUGpkNFd2aXlmbDNDR25ZOENqUlUxaXozTHRIbEx3OFFLTTJ3TVNmWnJ0Y0ZxTHBZZGlmVC1xYy1iVFNQR0pjZHFoX3dLM2pOc1VqLXJTRDRxV0RiU0F5ZEk0LTJaRFh5SU1QYXBfWlE?oc=5",
+      "domain": "FoodNavigator.com",
+      "topic": "Palm oil",
+      "seendate": "20260710T070000Z"
     }
   ],
   "alerts": []
