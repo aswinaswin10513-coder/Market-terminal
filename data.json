@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:09:42.835057+00:00",
+  "updated": "2026-11-07T17:55:13.612949+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -30,13 +30,6 @@
   ],
   "commodities": [],
   "news": [
-    {
-      "title": "Star Air cuts weekly flights on high fuel costs, says airline official - ET Infra",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUlNOUnpXQVc5eEp5TDJmQU9pUVZYRUZFdHREd2NnT3hBZmFaalRiWG82Q2hCWFJwWW1TM1F0aUxNeHlXUmt0cEoxU2VXTmRCaVp3cFV6SV9mRXA0OW10V0NRSjBIakFabV9NWkU0RUtxc0Q2Q0tVRUg5TWthenNfT3h3cHU5V09pUGJVV3oyX2oyenJLS0lJNXVyLW0teTJ6VDZ1LUdhcnlMWUFIQTczcVpFSEgyUHpNb3pNbWg2eDZmR19LNlg4Y214VUpmUG1BZVHSAdYBQVVfeXFMUGNZOEtrV0NuTWlHcWEyWDI0NmFENzFsY3Y0aXBGXy03TEswbzRZWVBVdjJvSkFyQ1U4SlRmOWhfTVlyeEsxT1JIWnBOVFNEaWZUMFNqVjdmQ2hGc2Q0QnNvczhXdlp5cEhQVmIzWGxEcW5tVVdCd054WXkteGh1UG51NzJzZDhOWVZNZjdDcHdDdmNCTS1NUkNlbWFPNlVpYVJTdElnZi1NVWNpRjlaejZTcWZUZEZ6SFh5Mmg0d3lXSUNXN3ZHUDlNNGZxQU41WFAzSXF1UQ?oc=5",
-      "domain": "ET Infra",
-      "topic": "Fuel",
-      "seendate": "20261107T053418Z"
-    },
     {
       "title": "Beyond the hectares: India’s oil palm mission must measure what it sustains - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeGlxSXV6ekRyU1ZKVVNNaUZvUmo3ZkQzQlRRc2Y0dnNqbjlFY1NwU2dleTVoNFRwVkFhUDBwcm5ubTBSeC1PcG9kOFNNN01vbklNeXltamVDZG4zaEtFWUF6ckhMdjBPTTFfbzBHYTZnem0tVlExb25ZUFhqU1NxakdydlhXWGVVX0c3WExLOFIwYk9BZEdhdlJjamVrZDJ5dFlGbkZtT3JqLTlPZTNsN28wZDRDNEVEUTdyVDc3THMzVXJ1X2djRHVZbW43aVgtdjIzV0VMaXBkX1ZRelY1S1psNDAxUDDSAe4BQVVfeXFMUGZ3U3ZqMEE3eWpEWWdmZ0d1LUQ1aG51TVJkNUpic3c4SWpVUjFZcHNzOWxuVTQySHltSE5Ga2ZwUW9VZFpwSnVjWWNzNEZrMGhZSXB4eWRkWnA4RWRLbVU2Q2ZFcmtRLU8zZnE1Uzctc1BrS0l5Y2F2Yk40eWkycjlOQWJFQVluU3ZUdnp0bkp5WlFzMDJQZ2dzLUltLXF3U25BMmxmMGNYdG9hbk5zUExFQUxFcEtwUnVpdmhjeEdVTld5UlFHQ2swdHB1ODIxUzQweDBqQmJOSVFWbDhiX0ZzRTRlcklVaG96dTF3QQ?oc=5",
@@ -78,6 +71,13 @@
       "domain": "Crude Oil Prices Today | OilPrice.com",
       "topic": "Fuel",
       "seendate": "20261105T220000Z"
+    },
+    {
+      "title": "Uber riders in India may pay more as rising fuel costs hit driver supply - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDNaQTF2cnNTdGJlZmEtSzJOZE1PdmxXUXRHMWJwa2c1Wms1RndYUXlsVUFON3JRQVo5ZU9nNjZVeDdlNkhPTWJudlkwNGRkNlFVcG1QamcwTng4czM1S2ZxOUljM3FjcDZBV3BKMEtoOFBCeExqeEhUcU0yQ3l3SlJ5ZFRfNEwycUhkSEQ2N0pJS1o5RXZrOC13aEYwbHZNaXZNa0RpLVV6RU5YMFpQNF84clJHa1lQWjlhTFBWSllEOE9NMVduVENjOW9CNFUyYzBtQWtVSVp6VEdIeW9oSXY4OG81OGxRSzVN0gHwAUFVX3lxTE80MzhtalNLU0ZFa3dMRTNDc2l3X0NnQUppWThfekNMa1RLUUJ5MmdyVnBKeDVkY1I5VkFEVm5fSnk3WGFZb1QwVGQ2UVJsckhENmwwQkVRVkxvT0d6dU5QNXhXV19uSmkyNU1ZYnkxdmp3S3NLU01TZTdKNUhFcmRtTkJodEFSdHNwSHlWSlJNX2x2LUlYYWsybmhxRWhGV3NKQnl4UHIxNnpUUWhuLWlLU29aMkVscmVFVnduQllLNkE5Z2QxcVlvQWNXMDBzRk5BTnBiWDRkVThoTGtJblJyWVEtVWNMQnNXSGg5VlNMTQ?oc=5",
+      "domain": "The Times of India",
+      "topic": "Fuel",
+      "seendate": "20261105T074100Z"
     },
     {
       "title": "Indian Mustard Market Outlook: Slow Rajasthan Sowing vs Weak Mill Demand - CMB News",
