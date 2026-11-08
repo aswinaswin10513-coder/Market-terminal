@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T08:27:47.971858+00:00",
+  "updated": "2026-11-08T18:11:14.753128+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -30,13 +30,6 @@
   ],
   "commodities": [],
   "news": [
-    {
-      "title": "India’s Clean Energy Push Could Save $240 Billion on Fuel Imports - Urban Acres",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXlLUzFfYjhLT1BVazFHRlM4TXNzTGhrM3BLZ0g4N09ZbFI4LUhjdUNVZ284b3hLSmNiakdzWWcwY3B1aG5JSjhMWkpHR0F6S1pmNHlpSFBoNmVjakwyRnROdGVwVWFnR2tzR01zM1JfSW9ybkJDenF1RHN3d1VoOUFJNDloQkI1c1BRUFFhQQ?oc=5",
-      "domain": "Urban Acres",
-      "topic": "Fuel",
-      "seendate": "20261108T063656Z"
-    },
     {
       "title": "India's clean energy push cut its fuel import bill by $240 billion: IEA - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUHSAe8BQVVfeXFMT0FuajhzVlZOVEZRTXdfWWRVRXNMZ1ZLQzI3TjB4S00xQ2ZiUFlQbDgzR1hRUHRVdnZKM3cxcC1GSTNPRUl3WGhreWkyd29CTldZbjVlMFZtb0lDRjVScFhJRGExRzEzVngxT2EyZ1V4WnEtV2NRUjcwMVZuYS15ODgyaTBESFVmVkMwWkpjZGxzWXpyTXVKR21EbEROQXpUYU96QS1TdkJuaGEyTi1OUU9LRnNTaVpIeURLSkg4UndQc3E5bzVTZzdVVmctYU5LZDJuTE42cVNtZzVFTUxXRFF2bUFRLW5IYXUwOFpZOTQ?oc=5",
@@ -80,11 +73,11 @@
       "seendate": "20261106T111353Z"
     },
     {
-      "title": "Jet Fuel Price Hike Hits Regional Airlines; Operators Demand Price Stabilisation Fund Revival - India Today - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRmZJaUZXcUFQUlQwbmVQNlM5Z1U4aHpvSnh1eXcxaEplMDgxMWcxZWY1dEpfcmhLUEYxTWpNU21ObjRtdnVUQjlSQjBzRjBnSERSSTJFYTU3ei1iVDh3NW1xUXh1aVMxc1NhVjR3RWZoTTZhTHZPOFhGaTRCSnI3NUNpUzlaUHpVVWN2TXluWGhISGxIUFBCT0FMTk1ydWVfUFJldG1iZlJ2Rks5ZnEybVpKd01hdmN1eFpyblI2R3ZFaXZicm5vYzhKYmFkblVuU0VzTDJHWFFXWmpZVjdEMDZRTE5HZTZCQXfSAe8BQVVfeXFMT3hlYjF5ck9zRUhKTjRhNW44WDBEY0RNNFFWdUFRRUd3YkhxWkpZX1J0dHMtWXNiSlBUa1hSb01EU3VxaURSaXhEeWR4Q21McVR4WTN1ZW05MlUwYVRxZEdSX1FDbFpqeEtxb0tHazBVY0lqUlhlb0NMcHRDc3RvUURyMUsxVmlkSFJwWFlJOFZqcTRETDNfRVR5TjhJc1ByZm1XR0lZUXNFVHdwdlRqbm5Oc0Z5Smd6ZF9zc3h1TzdVMDlhclljcElDSW02R1NXMDNxU25kMFVGdHVkcDBwLXc1UV9NU09qOGVGZi1KdHM?oc=5",
+      "title": "Regional airlines seek revised ATF relief as fuel costs force flight cuts - India Today",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWlpU0VOQ2V0ODVEd0RGSDk1cmdyNmQ5T3RaV2FVU2E4aGpTWFJLalFXb1FyQ0oxOV9xTmFTTVdMNDBoRFJaRG5QSWlHQkdfRmJFbmc0UHJJYlJRVnpaeXl4ajZTV0FxT0hxaXo4aHFTaHRIWTBEVVlqQ29SMU53ZkZCN3FiTzlLWjJJMW9FS2tXSFJ6OGl4U183YlpqTzZPUWZjM1JUSWdtWEpFbVFWN0s0OEFScmNfS2xCSjZLZ3FWNkhC0gHKAUFVX3lxTE0yMnV2ZmlHX3RKMFJBS1M3dDNqdDUxa2hYQkREQXh2WmZnN21aSWZXRUxfdGl1MlJxQmtkVTZtS1kzR3dvOWpmc3lDb3ZkYk9rSjFyN1dGSzZCS29yRVE1MURGWXZUblcyT2FwakJtUFNjdnhXV1BsRm9ndEtKaWRYWmk2OGkxZGc5eHlZX19aMDJYcHpDWlhiVGNFT3laNTkzQmlqTTV6OUxuMUJZblVvX3ZWZUF3dmdKaXVzek1IUEh0R0t5UGIwSGc?oc=5",
       "domain": "India Today",
       "topic": "Fuel",
-      "seendate": "20261105T054759Z"
+      "seendate": "20261105T045615Z"
     },
     {
       "title": "Petrol Diesel Price Today: Did Fuel Rates Change After US Midterm Elections India? Crude Oil Crashes 9%. Check Prices In 20 Cities - Jagran Josh",
@@ -120,6 +113,13 @@
       "domain": "Construction World",
       "topic": "Fuel",
       "seendate": "20261021T070000Z"
+    },
+    {
+      "title": "OE Says India May Raise Fuel Prices in November - Rigzone",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2JlWXh6NTB0Z1JKRnZCaHZvZmxKaWFuZnF3TFM4Z0lUT2lwSkw2MkhLdEpNU2poendTTXB5REtIRVhRc1h3dXVUbGJBX2dYU21WZERUd09SRzlpc0ljYnpaYWlDY0VTY3VueWZqREJGREsyNGYyVHFwb2FDVml0OE5QMFRMRHhaMkp6N29GVmR0dHY4V1FKb2ltNzRMLVlmdW13bnhoMlBBc21jZUE?oc=5",
+      "domain": "Rigzone",
+      "topic": "Fuel",
+      "seendate": "20261018T070000Z"
     },
     {
       "title": "Palm oil producing countries keen on ties with India - BusinessLine",
@@ -199,6 +199,13 @@
       "seendate": "20260924T070000Z"
     },
     {
+      "title": "Companies must pass on edible oil duty cuts to consumers, says govt - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN25PaGpvS0FZamRNaU0tREZvcFloZ1FYcVRVb3hFS2R3OUhrVEVsZ24tSHp0RGM0TnlZWjZJYjBrRGVtcTdDdUVUTWFtQ2dOclZTYkZheDZhb19Ma3hSLUhiYXpCX25sUlRFOUZUR1R1OFBfekZjZXNaNElDZW1tZlAxR1dfY3pzNTBJeEZIa0EwU3IzeTlQUG5SbVIxcUFNdE9ZZXhobGppUlhhSjNjal9rbXZua2Q3MmU3UjNSNVk3OFc3REY4YUNNU2xaaEtxOTcw0gHYAUFVX3lxTE1KWl9WTFZVRGZGeXotai1Nc2xuQkxqZThsSDlNSlpmZ2xJNkh0TVE5a2pGektTMkFUMEJ3dlBROWNOOGl5TDNjV2hnUUE5SlRXQjBUTXR3TjBQYXl3U0JBOWxUZzlWWUFHdVVyRlBxLUxnMV9VclFOTkt1SnZKaGxSTXFVblJGeU5FT2VOZ1VMa3dUa0daOXhBTWtGQWs4c1MzMW1pRGlELWhYZS1jWFh1eVZLbFFRQmR2MXdjTmRvVG1icEx4YTlYU0hnM0FlWmVaNEtLSFZEUA?oc=5",
+      "domain": "Business Standard",
+      "topic": "Edible oil",
+      "seendate": "20260924T070000Z"
+    },
+    {
       "title": "India cuts edible oil import duty to lower prices ahead of festivals - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
       "domain": "Reuters",
@@ -218,13 +225,6 @@
       "domain": "orfonline.org",
       "topic": "Palm oil",
       "seendate": "20260721T070000Z"
-    },
-    {
-      "title": "Iran war, edible oil price shock, weak rupee & monsoon could hit India middle-class hard in FY27 - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHlRR0ZZN1R3M0tLaWo0YmRfUm80NW5PLXJ2bjYydVpOTW41OWVaWUNzcmMtZW9KZEhOazZBcnZGcV9zYk5qeExTc0ZTTFlBVmhLb0NEQXhQTWlvdDNHV05lMTlvRVdoLUpmR1U3djBuYVM5NEFNeTRVY1c3cHlTX1dnTGoybHFCbmF0MXFwbGtEeHpKUUJNa1dObHBfM3J5ZGZaZklTYld5ZFpjcWhRaGRjbGJqbzlmLWdVMHgzS0VTMFNlZ3cxNmwweWtBQ0N30gHWAUFVX3lxTE9oZklxN0dwSkk0TWJlaURHZEFlZ1BEaUNZaHRlUHFCd3JWS2tHR0pxMHZYVzF6d1diUE9ZbHAyZF9pWjdObmkySWMtcTJGOGxrc0YtU1hsd2VGZWlVbnpGbE9IY2wyaVJHbldkcU5FV1B0N3hzalYyTlE4Zy03czlPVTZobUUtNi0xc2c4Z0NhUXV4TDBETUlJd1M0MXNXU2hQeDB0dWJORktfV3cyb1BZWl9FQzZCX0ZsZ2lvTi0zbjdhM09xZnBZM0F3ZmlYdElmdnMyWUE?oc=5",
-      "domain": "ThePrint",
-      "topic": "Edible oil",
-      "seendate": "20260511T070000Z"
     }
   ],
   "alerts": [
