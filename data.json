@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:11:14.753128+00:00",
+  "updated": "2026-11-09T08:57:24.065292+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,18 +31,25 @@
   "commodities": [],
   "news": [
     {
-      "title": "India's clean energy push cut its fuel import bill by $240 billion: IEA - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUHSAe8BQVVfeXFMT0FuajhzVlZOVEZRTXdfWWRVRXNMZ1ZLQzI3TjB4S00xQ2ZiUFlQbDgzR1hRUHRVdnZKM3cxcC1GSTNPRUl3WGhreWkyd29CTldZbjVlMFZtb0lDRjVScFhJRGExRzEzVngxT2EyZ1V4WnEtV2NRUjcwMVZuYS15ODgyaTBESFVmVkMwWkpjZGxzWXpyTXVKR21EbEROQXpUYU96QS1TdkJuaGEyTi1OUU9LRnNTaVpIeURLSkg4UndQc3E5bzVTZzdVVmctYU5LZDJuTE42cVNtZzVFTUxXRFF2bUFRLW5IYXUwOFpZOTQ?oc=5",
-      "domain": "The Times of India",
+      "title": "Iran war leaves Mumbai fishermen stranded by rising fuel costs - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHVtYThocHdzbzh1ekFXV0NZSmpJV1pZREZLcmd1cFhNcXJrNkdrc0JQYW5Vd0VFUGFZOEhRRFIxcmk3S2VyWWhKa1NZdWtyVDZIQmd5Q2xxdFdsVU81eHpzZkhTVDZteHVtUk5NdGtSSTF6V0EzQU1neVpxa1ZaSXZSQWRabktkQmxrU2N3NVhYRHF3QXc?oc=5",
+      "domain": "news.lavx.hu",
       "topic": "Fuel",
-      "seendate": "20261108T055400Z"
+      "seendate": "20261109T042637Z"
     },
     {
-      "title": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA - BW Businessworld",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnJmUGQ4bERsQmxMVWdiVGpUelBiNE9pN0RyWi1EbEplaEFTZzc4OFZCMVBEZ2NqaEQ4SGh6WElqaklNMzF1Y2tUeDNMcUwxc012Z084TTJQdDVBWjVGOWMwTS0zb1VpWm9vallrVU5iQ1BpVkZPMTQ4QUpGOFN2YUJ6SU05a0x4WVdrQ1A0QTh4MndKODJrSGJLNE04SkNORVVuNG44MmZ6THQxelBpNl92cDh5aXc?oc=5",
-      "domain": "BW Businessworld",
+      "title": "Iran war and ambiguous fuel pricing squeeze Indian fishermen - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHN1Rktoa3doMG51M0czanhfNnJWVEdTVTFMekgyV2staExTY01mU3FsSU9obGg4SWdRdVdmZEMyTklEMzJuc0Q5WG1yamRMckpPX1h4LThfclVyNWJzRVNiQ2FWWjZZVFZNWmt1OFpkcEJMLVZPQ3ktRnZwN3BUSTUzQ0gzWEhUcTN1TlFNZmYwQ1VEY0xMQmFsaXZ2TnBhQ2NHVUFB?oc=5",
+      "domain": "Nikkei Asia",
       "topic": "Fuel",
-      "seendate": "20261108T031458Z"
+      "seendate": "20261109T030100Z"
+    },
+    {
+      "title": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSENOOGgwTC0xdHgtRG5yYXFhVXBONlcwR3VIdGpGMTB0U25ENlY3Ymc2RnJHNzVMZnhkb1ZtQV9MaEU5Nmp2cGpsUGRZRjJfMWhEcmFERC1MQzR2QVhZN1lzRThWQmJZMkQ3d3VxWEMyLWFnUnlsTHktRmQ4c1dTRzdrM2lkWF9vdlpsTGpydDlYZndWWV9JaDlwejM3elRvYTFTQUpVUmN6d3pzS1pTNGFZNHUwWFFNLVNCUHY0Mk5oTVhvX0hCNzhDdVR1T0FZRmdOVEZn0gHbAUFVX3lxTE5rY04zMGZ3Z0hpZzQ3Z3Y0ZDlKOFl1ZlNlT1JSLUg4M0cxV0VKY1FGa3YwSzBzZDAxNDJId1ZKekVSWE9SVm5yY2VPVzRnRUJGLTEzRXdIVjZLUXJSeVo3cVNYUTdoQjdhTlZRWkNFZHlEMUJrNlZPWDhlRGt3NEZVQ2tOQnVQUEJjWU4xS1FOYXdiSUlQbW1jRUEyUDRLMTh2cnM3Q0NzN2MyMllpTjUtb29KdG9MbnczT0xIRGFOWHNuNUw2SW12Z1NJcjU5M0JzZ3NuZTdOclJfcw?oc=5",
+      "domain": "Livemint",
+      "topic": "Fuel",
+      "seendate": "20261109T022543Z"
     },
     {
       "title": "Fuel prices today on 8 November: Check how much petrol, diesel cost in Delhi, Bengaluru, Mumbai, Chennai — Full list - Livemint",
@@ -50,6 +57,13 @@
       "domain": "Livemint",
       "topic": "Fuel",
       "seendate": "20261108T012955Z"
+    },
+    {
+      "title": "Renault developing new cost-efficient 1.3 MPFi turbo-petrol engine for Duster - Autocar India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG5EN2pXWG5zcWViVFN1ZUtPOTlFem8zTUFQanJkb3NkZlc4eEl4aWJjLXBQeTNKcERYbnMwdjdha1UtMk5hN3lUSmJEeWRFbDJFRDhzRnB5eDFha2UwNEM3bmRYaW4xbXFLQ00zZ1Y2T1VYSUtVd2VpWDBvcGlocEhsT0RaTFg3bnZIb05ocmIwZ0FydnNpaDA0aUo3VFJfcGo0Q3JSYTkxSjlCYXpDYkNOMjRFdXdNUzRJVWhn0gHDAUFVX3lxTE9fZzZBaDRUcHNNMF83T2F4dFRCdXJPSUpuUXpOWmdVdVB5dHBSOC1VN2twQVhMc1A2UHc5aTI0bzgycFRNRzF1UmdaSGNVal9WOUxOdjNxaDBJcjNIMThMUTZIT0NEbjNNNVVXYzFLZjYyTjFvUFdDSVNvYmlwZW9MSEp1b3d4OG9wTmZFTDlCaTQtbzFCUnNyRGlDVVRCdFJlSUl4MFgwZDI1VzNFQlJvbl9VanNMY2MzRWNSaTJEVlBGSQ?oc=5",
+      "domain": "Autocar India",
+      "topic": "Fuel",
+      "seendate": "20261107T063019Z"
     },
     {
       "title": "Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs - Kitco",
@@ -66,25 +80,11 @@
       "seendate": "20261106T132921Z"
     },
     {
-      "title": "This week in aviation: Mumbai airport shift, green fuel mandate and more - Forbes India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTGk3RXFFUDdFTzd3TENkVndnTTRoWnQ3LWE4eUdlMTM1MVRfTzFOYnU5b0x4b2pzVjUxaFlaYko2blBUUzZNMnZ3c2ZWenY2QTRQMHNtUUpNYkVWNFJxdkRsZTE3WmgwVmgtQzJkcU9aSXUwMVk0bmM0bTVYNVdfVTRTUlhRTzlBX1hpYWpOamNIYlhTLU5yaGV6WFlCVDlUTTM5b1NyTzBTVklDdl9aYU9VTzFidVIzUHNxR29zRmxxTWdOdEk5SnFQZm5KM1pITy1F?oc=5",
-      "domain": "Forbes India",
+      "title": "Uber riders in India may pay more as rising fuel costs hit driver supply - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDNaQTF2cnNTdGJlZmEtSzJOZE1PdmxXUXRHMWJwa2c1Wms1RndYUXlsVUFON3JRQVo5ZU9nNjZVeDdlNkhPTWJudlkwNGRkNlFVcG1QamcwTng4czM1S2ZxOUljM3FjcDZBV3BKMEtoOFBCeExqeEhUcU0yQ3l3SlJ5ZFRfNEwycUhkSEQ2N0pJS1o5RXZrOC13aEYwbHZNaXZNa0RpLVV6RU5YMFpQNF84clJHa1lQWjlhTFBWSllEOE9NMVduVENjOW9CNFUyYzBtQWtVSVp6VEdIeW9oSXY4OG81OGxRSzVN0gHwAUFVX3lxTE80MzhtalNLU0ZFa3dMRTNDc2l3X0NnQUppWThfekNMa1RLUUJ5MmdyVnBKeDVkY1I5VkFEVm5fSnk3WGFZb1QwVGQ2UVJsckhENmwwQkVRVkxvT0d6dU5QNXhXV19uSmkyNU1ZYnkxdmp3S3NLU01TZTdKNUhFcmRtTkJodEFSdHNwSHlWSlJNX2x2LUlYYWsybmhxRWhGV3NKQnl4UHIxNnpUUWhuLWlLU29aMkVscmVFVnduQllLNkE5Z2QxcVlvQWNXMDBzRk5BTnBiWDRkVThoTGtJblJyWVEtVWNMQnNXSGg5VlNMTQ?oc=5",
+      "domain": "The Times of India",
       "topic": "Fuel",
-      "seendate": "20261106T111353Z"
-    },
-    {
-      "title": "Regional airlines seek revised ATF relief as fuel costs force flight cuts - India Today",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWlpU0VOQ2V0ODVEd0RGSDk1cmdyNmQ5T3RaV2FVU2E4aGpTWFJLalFXb1FyQ0oxOV9xTmFTTVdMNDBoRFJaRG5QSWlHQkdfRmJFbmc0UHJJYlJRVnpaeXl4ajZTV0FxT0hxaXo4aHFTaHRIWTBEVVlqQ29SMU53ZkZCN3FiTzlLWjJJMW9FS2tXSFJ6OGl4U183YlpqTzZPUWZjM1JUSWdtWEpFbVFWN0s0OEFScmNfS2xCSjZLZ3FWNkhC0gHKAUFVX3lxTE0yMnV2ZmlHX3RKMFJBS1M3dDNqdDUxa2hYQkREQXh2WmZnN21aSWZXRUxfdGl1MlJxQmtkVTZtS1kzR3dvOWpmc3lDb3ZkYk9rSjFyN1dGSzZCS29yRVE1MURGWXZUblcyT2FwakJtUFNjdnhXV1BsRm9ndEtKaWRYWmk2OGkxZGc5eHlZX19aMDJYcHpDWlhiVGNFT3laNTkzQmlqTTV6OUxuMUJZblVvX3ZWZUF3dmdKaXVzek1IUEh0R0t5UGIwSGc?oc=5",
-      "domain": "India Today",
-      "topic": "Fuel",
-      "seendate": "20261105T045615Z"
-    },
-    {
-      "title": "Petrol Diesel Price Today: Did Fuel Rates Change After US Midterm Elections India? Crude Oil Crashes 9%. Check Prices In 20 Cities - Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYlVkT3BzNXNFTmNBSjFLZW1WQWt0TzJZRHdiV2lMUGZ4OEJTal8yY0NrY2FaUnNlN0xqY3pNU0hnZWg3ZDlhUGYzbGVraTBObnRVSE94WndtWTFlR1RSbzBtUGtPSFJsNHQtX2tTS1ZjbDIzZkRINTkzczdBTkxDVjdxMUR0ZVhuckh0dVdnMzA1bDVSTjFYRW50ZFVWanAyTzJWWVBLWmVBV2h2eGRXdEh0a2lJVWpqc3hvcWgwRXhVdmlfd1laV3h2dzFldGtZNVhFbjgya3ZGdWViRUpKcHpLSXdTa204bWNxdGk2bEVZXzMzRFJpRGZkejI4UjR4bWFpMm5FVjFEaUZPTVdKNHB30gGYAkFVX3lxTE5rOHp3MWFxOTVZNFNLQXA3NGZSOWpRS2hOdzg3V0xzMDFLbjJxS0h1R1oxaVkwcGtEeG1XZ0dMNmxLMWhsdmVzQmkzVGkyMlVJRkxpMndhMUdrajhYNE9TR1FmdktUWEVpYlZPVVFBeU9WTDRWNWZUYnNLTk8wRGFQbmVNWVJhWnNkZU1fdzdaNkl2M2dqZTM5Q0tZZFZYd1Q4cVRzX3gyelNsVzI1aTBmYVV4TXVVU0dXWUhkQkpIV3FzNDk5UUwzTWU2aF9TemM1SFpsNEVjUi1VRE1OODFXbVFrcVF0aWpsV1ZtRjVITG9wR3I2OFBfenpUazMwRlRPeXF5WTJWNUpkU2RRTV9FSjl6R2tuc2U?oc=5",
-      "domain": "Jagran Josh",
-      "topic": "Fuel",
-      "seendate": "20261105T044203Z"
+      "seendate": "20261105T074100Z"
     },
     {
       "title": "India's palm oil imports hit 14-month high, soyoil purchases set record - The Economic Times",
@@ -94,9 +94,9 @@
       "seendate": "20261104T041219Z"
     },
     {
-      "title": "Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens - Bloomberg.com",
+      "title": "Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3ZIc29lLWMxLURTSTVSc2F0Y1lmLTVkaHRVbXR0aE9wLTZEVGJTbnpxY0lXN1FRTlN0bWprRXN6bUlKeFg3N3RQckZWZ19fVjl5SE1USHdvNmNZbEt2dVBWM0ZqUzducmRmOFNhRVRaSkttMGgzNXM1UTlMT3c5UmdON29LRTJmbWJwUUNqdTBVMlZYN2tiRWVsQmhFcERPSzF1WG5TcGUwUTU2MDNpSmMyWjg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "topic": "Palm oil",
       "seendate": "20261022T070000Z"
     },
