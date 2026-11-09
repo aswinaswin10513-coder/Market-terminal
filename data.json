@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:57:24.065292+00:00",
+  "updated": "2026-11-09T22:49:52.039431+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,19 +23,19 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 93.92,
-      "change_pct": -0.59,
+      "price": 93.93,
+      "change_pct": 0.01,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
     {
-      "title": "Iran war leaves Mumbai fishermen stranded by rising fuel costs - news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHVtYThocHdzbzh1ekFXV0NZSmpJV1pZREZLcmd1cFhNcXJrNkdrc0JQYW5Vd0VFUGFZOEhRRFIxcmk3S2VyWWhKa1NZdWtyVDZIQmd5Q2xxdFdsVU81eHpzZkhTVDZteHVtUk5NdGtSSTF6V0EzQU1neVpxa1ZaSXZSQWRabktkQmxrU2N3NVhYRHF3QXc?oc=5",
-      "domain": "news.lavx.hu",
+      "title": "Star Air slows expansion as high fuel costs force flight cuts - Air Data News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVRXQVlKM2UzeVJ2TThkUkdoUUw3TmZDLXB2TzdwbEhKUFlyYmJMbENWWHl6aXR4bmU1b3MzVnlJS1FRanUteGJkRHl2MFkyUGJSNW94b3owenVXNWRrcV9NZUwwZUxsVzNKNnNSYXlac1Y3Zmcxd0E0d2hLSl9ROUNfbEV5WTdLOTNOaG5MMjZaTUE5?oc=5",
+      "domain": "Air Data News",
       "topic": "Fuel",
-      "seendate": "20261109T042637Z"
+      "seendate": "20261109T102353Z"
     },
     {
       "title": "Iran war and ambiguous fuel pricing squeeze Indian fishermen - Nikkei Asia",
@@ -52,18 +52,18 @@
       "seendate": "20261109T022543Z"
     },
     {
+      "title": "India's clean energy push cut its fuel import bill by $240 billion: IEA - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUHSAe8BQVVfeXFMT0FuajhzVlZOVEZRTXdfWWRVRXNMZ1ZLQzI3TjB4S00xQ2ZiUFlQbDgzR1hRUHRVdnZKM3cxcC1GSTNPRUl3WGhreWkyd29CTldZbjVlMFZtb0lDRjVScFhJRGExRzEzVngxT2EyZ1V4WnEtV2NRUjcwMVZuYS15ODgyaTBESFVmVkMwWkpjZGxzWXpyTXVKR21EbEROQXpUYU96QS1TdkJuaGEyTi1OUU9LRnNTaVpIeURLSkg4UndQc3E5bzVTZzdVVmctYU5LZDJuTE42cVNtZzVFTUxXRFF2bUFRLW5IYXUwOFpZOTQ?oc=5",
+      "domain": "The Times of India",
+      "topic": "Fuel",
+      "seendate": "20261108T055400Z"
+    },
+    {
       "title": "Fuel prices today on 8 November: Check how much petrol, diesel cost in Delhi, Bengaluru, Mumbai, Chennai — Full list - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOenVoS0VZcjRlSFM4MlVwc3MxV3A3ejdnZFAxOHlEVUJlZnBXc01meDdmN3FFLUgyVkhHM1NnTEJ3VVF5clFGc2o5bFVvaXhCeWdLT0p3LUhUbE1LdnpFblp4QVM1WGpWT0l3QWNoMldiOWdDUnF2VlczMEhrMDVDc1BlRUdKbWVSYWJHaFJXeGZzNUVac0dXZEdUeUZxNkw3dXZyeHhXVFRoTnEyTzAyazdnZkEtWlBiYlI4bkhrV0lFS0NPR1QwVm5iUngtV2FUU2dmMjhrcHdrR0NjNHpfVEFaU3Nwb0FzQ0NPdzU0QW12VmtEZFFuVtIB_gFBVV95cUxQd2FkczBmbk00T01lcjVqZDJwaVlLdVpobk8yM0JMNHpIV2VTeVQ3YmJUZWhyZElNRjZBSG9EenZJLUhNZEtYTnlHdTZacEpfeldPRkVhTVJpeWxaaDh6TGJRay1wb09HN3J0WUNOUkYwNllNQl9DWG13SHlKNi1ocENVTHV2ZnZjaVZtTWRyRWVVV29pT1MtT0RBVG0yeHQ2NUFaSzRQc1pZYVd5MHY1X3YtcWIwWXVZNDh5YlJXd0JyV0xTWFpLLVJwdGZNYXdOQzRDRFl3Vjh0TlRnWW40R09uSE00NFN5bE9jS2hQM0hzRVVCejRNeW5kb2c3QQ?oc=5",
       "domain": "Livemint",
       "topic": "Fuel",
       "seendate": "20261108T012955Z"
-    },
-    {
-      "title": "Renault developing new cost-efficient 1.3 MPFi turbo-petrol engine for Duster - Autocar India",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG5EN2pXWG5zcWViVFN1ZUtPOTlFem8zTUFQanJkb3NkZlc4eEl4aWJjLXBQeTNKcERYbnMwdjdha1UtMk5hN3lUSmJEeWRFbDJFRDhzRnB5eDFha2UwNEM3bmRYaW4xbXFLQ00zZ1Y2T1VYSUtVd2VpWDBvcGlocEhsT0RaTFg3bnZIb05ocmIwZ0FydnNpaDA0aUo3VFJfcGo0Q3JSYTkxSjlCYXpDYkNOMjRFdXdNUzRJVWhn0gHDAUFVX3lxTE9fZzZBaDRUcHNNMF83T2F4dFRCdXJPSUpuUXpOWmdVdVB5dHBSOC1VN2twQVhMc1A2UHc5aTI0bzgycFRNRzF1UmdaSGNVal9WOUxOdjNxaDBJcjNIMThMUTZIT0NEbjNNNVVXYzFLZjYyTjFvUFdDSVNvYmlwZW9MSEp1b3d4OG9wTmZFTDlCaTQtbzFCUnNyRGlDVVRCdFJlSUl4MFgwZDI1VzNFQlJvbl9VanNMY2MzRWNSaTJEVlBGSQ?oc=5",
-      "domain": "Autocar India",
-      "topic": "Fuel",
-      "seendate": "20261107T063019Z"
     },
     {
       "title": "Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs - Kitco",
@@ -78,13 +78,6 @@
       "domain": "UkrAgroConsult",
       "topic": "Palm oil",
       "seendate": "20261106T132921Z"
-    },
-    {
-      "title": "Uber riders in India may pay more as rising fuel costs hit driver supply - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDNaQTF2cnNTdGJlZmEtSzJOZE1PdmxXUXRHMWJwa2c1Wms1RndYUXlsVUFON3JRQVo5ZU9nNjZVeDdlNkhPTWJudlkwNGRkNlFVcG1QamcwTng4czM1S2ZxOUljM3FjcDZBV3BKMEtoOFBCeExqeEhUcU0yQ3l3SlJ5ZFRfNEwycUhkSEQ2N0pJS1o5RXZrOC13aEYwbHZNaXZNa0RpLVV6RU5YMFpQNF84clJHa1lQWjlhTFBWSllEOE9NMVduVENjOW9CNFUyYzBtQWtVSVp6VEdIeW9oSXY4OG81OGxRSzVN0gHwAUFVX3lxTE80MzhtalNLU0ZFa3dMRTNDc2l3X0NnQUppWThfekNMa1RLUUJ5MmdyVnBKeDVkY1I5VkFEVm5fSnk3WGFZb1QwVGQ2UVJsckhENmwwQkVRVkxvT0d6dU5QNXhXV19uSmkyNU1ZYnkxdmp3S3NLU01TZTdKNUhFcmRtTkJodEFSdHNwSHlWSlJNX2x2LUlYYWsybmhxRWhGV3NKQnl4UHIxNnpUUWhuLWlLU29aMkVscmVFVnduQllLNkE5Z2QxcVlvQWNXMDBzRk5BTnBiWDRkVThoTGtJblJyWVEtVWNMQnNXSGg5VlNMTQ?oc=5",
-      "domain": "The Times of India",
-      "topic": "Fuel",
-      "seendate": "20261105T074100Z"
     },
     {
       "title": "India's palm oil imports hit 14-month high, soyoil purchases set record - The Economic Times",
@@ -158,7 +151,7 @@
     },
     {
       "title": "Why edible oils are the worst affected by food inflation - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1Q4NGNQYmJlWWJSMXNCNkFtSEc4akNHNnZ1ZWpCYllySXZ5RG1RelhXM1NKZU50OHV0ZHI5ZkcxM3lxV3lhYnNJRXRDcnB2QTFqb05sTEtQWVhWTjlIUHAwTTBpVFZzaFIyNWIxUERYQnEtOVNoT05FVUxsdGJfVlhjaHZYeXBKdGVaQzlsUzRwZWFnVWxVbzhNUkRHMi1KU09iUVVyTFdPNkFyQVl4VDlQTznSAbsBQVVfeXFMUHczWUI4eWY4T0tJV0RQWjg5ejNCSmpRX1dMbldFU2xwa3k0MUZxMy1NT1JaYkJoeHptcDBnbmFvZFZOaXEtejZrd0dGVU9HX2tWTkRubXl0b0VOYzBmWGZXOEVuWnVWUHlEZEN0LVliZjBWTERxY0dCRDJ1Ml9OVE9hYUxlVkRTSWxTamkwbm9aSms2a0poa2ZmSmlMcHFoZzVtTmJ6dVBDMVhscGE4MDF1U0R3TUg5bVNqWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1Q4NGNQYmJlWWJSMXNCNkFtSEc4akNHNnZ1ZWpCYllySXZ5RG1RelhXM1NKZU50OHV0ZHI5ZkcxM3lxV3lhYnNJRXRDcnB2QTFqb05sTEtQWVhWTjlIUHAwTTBpVFZzaFIyNWIxUERYQnEtOVNoT05FVUxsdGJfVlhjaHZYeXBKdGVaQzlsUzRwZWFnVWxVbzhNUkRHMi1KU09iUVVyTFdPNkFyQVl4VDlQTzk?oc=5",
       "domain": "The Indian Express",
       "topic": "Edible oil",
       "seendate": "20261005T070000Z"
@@ -169,13 +162,6 @@
       "domain": "ThePrint",
       "topic": "Palm oil",
       "seendate": "20261001T070000Z"
-    },
-    {
-      "title": "The crop at the centre of India’s edible oil self-reliance push - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZkhtcHAycW5uSmtQNWI5b2taLWJFUm81YW1WOXJ6NDc1cVdDS19QN0JGQzR3QWQtcThlQkF5aHVNTjVGYWUzdWNyZlViRkJaU3pNVGZPaFJpdDhROXRGa1BuSVhxSjN1ekVFNHlmQU1oUDN1TDkwbDUzTmVZekJzUVpDdG5PUDZOSm5XVGV6Ul85RVRTbXNsSTVRWGZPcHJxbjByNVI5YkRoemFYTlNFZ09YcDY0WEJhcEM0RFZKdFR0VmZmS1J2SU5FbGp5b09vOVY3UzBiTjTSAd8BQVVfeXFMT0RwX2RJcktzY3RTOF90THo3cWFITnBHQ1BEUkIxZEJiZ0Z6VVlPOExMYmt4Ny1aNzhZMUJHRVVNVFc5c2FCazRFYW5VVHZ5bkZLR25IOFhtSUFyYTh3YV92T0NoWFBSQ0I3czNYMVljbFJabzJPLTlna2Q2aVlnLXM3MmhESHNvSG45ZmpyZFQyUF80VWFaNmUyWWkwTmJtQzVpTkNZVGt6VWY3U1AzSEg2bG9lUU1yekVCRlVVZmU5bHFnZFh6X0ZDOTlhXzRDbzd0Q2lMQmtXcm9kY2RIaw?oc=5",
-      "domain": "BusinessLine",
-      "topic": "Palm oil",
-      "seendate": "20260928T070000Z"
     },
     {
       "title": "Cooking Oil Could Get Cheaper This Festive Season As India Cuts Import Duty On Edible Oils - NDTV",
@@ -220,11 +206,25 @@
       "seendate": "20260923T070000Z"
     },
     {
+      "title": "India's August fuel demand falls month-on-month to lowest level in two years - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2IxdElDLTVJYWFhR3pnUDVTMm1IbERBSUVRTUlXWHMweUU3RmR1cDRnNnYzbklPMGFWa1laeUZpTGpLT0pxR3hQcmpnX2hrSkl0MG5xSEVwVk1fYUJfTVFCMzVVbTdUQVBHWkRyNGZnUVdqTlAxTkVxUWc3VV82SWZ0V0kyMVZTM3kwMDJLeG1OeDFQYTRvTHYtMnlFVkliWWZNNUlLN2NqRHVEZnpzbUxDOTZnV29G?oc=5",
+      "domain": "Reuters",
+      "topic": "Fuel",
+      "seendate": "20260908T070000Z"
+    },
+    {
       "title": "The ‘No Palm Oil’ Pitfall - orfonline.org",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51R21renJNZXFGUHo4V1l5VjVpLTg1UGpOMlQ4QUVhdy12MHBoWnBCU2J5a0ktbG9VRUZQVEotOW8wNHE2dF8wcldYdUJDYVVJM2xra3luaERkSTlxelJIaFM1R3UwOUt4X3c?oc=5",
       "domain": "orfonline.org",
       "topic": "Palm oil",
       "seendate": "20260721T070000Z"
+    },
+    {
+      "title": "National Mission on Edible Oils - www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "domain": "www.pib.gov.in",
+      "topic": "Palm oil",
+      "seendate": "20251208T080000Z"
     }
   ],
   "alerts": [
