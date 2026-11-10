@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:05:26.912049+00:00",
+  "updated": "2026-11-10T20:09:28.839781+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -24,26 +24,12 @@
     {
       "name": "USD / INR",
       "price": 93.93,
-      "change_pct": 0.01,
+      "change_pct": 0.0,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
-    {
-      "title": "Renewables Could Save India USD 240 bn in Fuel Imports by 2030 - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS1UwY0hhbTgwTC04Y2Rudk54aFRwQzNWS0lCbXVXal91SjdvQmdzdXR1MW8xcnhXZWJDVlUtZVRoMEhJWVh5NEZMMFQ2aHZxODRYSURnSzdZdDI0NzRZaFE3aENSeGtWVml2OUx4SzlZRjdHWGJRanVRWDRIemVXLVdiM3ZDck1Wa0pOUktEd0EwYUNESEJmbDJzZ3pGNGhQdzBTbGhLZkJNdFdGaHNVSTZWeHlCS0VqTkxyUF9WWlZkSFhxVXlPemE0NlZ6aTJ5UHplRk14Ykw3YVE5dlVkM0IwM0lXUQ?oc=5",
-      "domain": "Construction World",
-      "topic": "Fuel",
-      "seendate": "20261110T074703Z"
-    },
-    {
-      "title": "Petrol and diesel prices today, November 9: Check fuel cost in Delhi, Mumbai, Bengaluru - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSENOOGgwTC0xdHgtRG5yYXFhVXBONlcwR3VIdGpGMTB0U25ENlY3Ymc2RnJHNzVMZnhkb1ZtQV9MaEU5Nmp2cGpsUGRZRjJfMWhEcmFERC1MQzR2QVhZN1lzRThWQmJZMkQ3d3VxWEMyLWFnUnlsTHktRmQ4c1dTRzdrM2lkWF9vdlpsTGpydDlYZndWWV9JaDlwejM3elRvYTFTQUpVUmN6d3pzS1pTNGFZNHUwWFFNLVNCUHY0Mk5oTVhvX0hCNzhDdVR1T0FZRmdOVEZn0gHbAUFVX3lxTE5rY04zMGZ3Z0hpZzQ3Z3Y0ZDlKOFl1ZlNlT1JSLUg4M0cxV0VKY1FGa3YwSzBzZDAxNDJId1ZKekVSWE9SVm5yY2VPVzRnRUJGLTEzRXdIVjZLUXJSeVo3cVNYUTdoQjdhTlZRWkNFZHlEMUJrNlZPWDhlRGt3NEZVQ2tOQnVQUEJjWU4xS1FOYXdiSUlQbW1jRUEyUDRLMTh2cnM3Q0NzN2MyMllpTjUtb29KdG9MbnczT0xIRGFOWHNuNUw2SW12Z1NJcjU5M0JzZ3NuZTdOclJfcw?oc=5",
-      "domain": "Livemint",
-      "topic": "Fuel",
-      "seendate": "20261110T040328Z"
-    },
     {
       "title": "Petrol, Diesel Prices Today, November 10: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFJsT1o2X2xUblNfQm1aX3FGdV94RnRrdFdwcHVqTzNjVGtCQVB1ci1yR2FRZ2JtX2J5WnFJNFhiLW1VY0VTdGJ1M3dXc3BCOFkyWU44NTVPN2lGX3pRR0Rwbl9MU005dHVUTE5Rd3VHUVBfdmJXNzc0ajR4TklTbjgtaFV4NGppMzk2enhUZUIxNnZLZ21jOVlmME9ZRkNSdUY2WnQwRWpEWU9yY29BQmlERFAzcm55UFEyQWgtamFmVk5wTm4zOXhtZkdBVnJPRDBBdzBuUWI4em5HMnhz0gHkAUFVX3lxTE0ycllLT3V4dVNlak5nc2VwMXFPNjlPSUdKS1hpMWNvT1BnUjZsR1NuLWh0a1lvVk9MNTI0dE15VTljMUdhYWVzZ25DbU5tdXliWGtDRTJ2SkI4V2hud1NuTEd1a2h0VlY2VERQTDJSOVF1VzMyd2llOEZSNEN0Z1JCYXZaZW9odlg0d2NIaUs3RTRvaDUxNnNJeGxnWE1OVVhBeUMyVldlSVJfZ2k2WFM2dG5aYzE4ckdISDdMVGxTOE42NEFWWk84RUhQRUVvY2lqQzRCSmxnWmd6SS1fNTBxUWlxSQ?oc=5",
@@ -59,32 +45,11 @@
       "seendate": "20261110T012935Z"
     },
     {
-      "title": "Star Air slows expansion as high fuel costs force flight cuts - Air Data News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVRXQVlKM2UzeVJ2TThkUkdoUUw3TmZDLXB2TzdwbEhKUFlyYmJMbENWWHl6aXR4bmU1b3MzVnlJS1FRanUteGJkRHl2MFkyUGJSNW94b3owenVXNWRrcV9NZUwwZUxsVzNKNnNSYXlac1Y3Zmcxd0E0d2hLSl9ROUNfbEV5WTdLOTNOaG5MMjZaTUE5?oc=5",
-      "domain": "Air Data News",
-      "topic": "Fuel",
-      "seendate": "20261109T102353Z"
-    },
-    {
       "title": "Iran war and ambiguous fuel pricing squeeze Indian fishermen - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHN1Rktoa3doMG51M0czanhfNnJWVEdTVTFMekgyV2staExTY01mU3FsSU9obGg4SWdRdVdmZEMyTklEMzJuc0Q5WG1yamRMckpPX1h4LThfclVyNWJzRVNiQ2FWWjZZVFZNWmt1OFpkcEJMLVZPQ3ktRnZwN3BUSTUzQ0gzWEhUcTN1TlFNZmYwQ1VEY0xMQmFsaXZ2TnBhQ2NHVUFB?oc=5",
       "domain": "Nikkei Asia",
       "topic": "Fuel",
       "seendate": "20261109T030100Z"
-    },
-    {
-      "title": "India's clean energy push cut its fuel import bill by $240 billion: IEA - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUHSAe8BQVVfeXFMT0FuajhzVlZOVEZRTXdfWWRVRXNMZ1ZLQzI3TjB4S00xQ2ZiUFlQbDgzR1hRUHRVdnZKM3cxcC1GSTNPRUl3WGhreWkyd29CTldZbjVlMFZtb0lDRjVScFhJRGExRzEzVngxT2EyZ1V4WnEtV2NRUjcwMVZuYS15ODgyaTBESFVmVkMwWkpjZGxzWXpyTXVKR21EbEROQXpUYU96QS1TdkJuaGEyTi1OUU9LRnNTaVpIeURLSkg4UndQc3E5bzVTZzdVVmctYU5LZDJuTE42cVNtZzVFTUxXRFF2bUFRLW5IYXUwOFpZOTQ?oc=5",
-      "domain": "The Times of India",
-      "topic": "Fuel",
-      "seendate": "20261108T055400Z"
-    },
-    {
-      "title": "Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs - Kitco",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVBsQS1pNmZiVk84Q3VUVWV1cVI4SXBtVm53Zm12QkRvSkdsd1lhMVFLazRnV0ZQZDJieUFoOE9aa2tjbjdUSjY1T2VUMS1QVXZuV01Ca3FTc2RJbWFSa0xDdWc0eHNfTUY2OG1oRmpBT05ZcU9hMVhtYVhka2d3MlNQeTh5UV96R212cVhKM1ZjendsOURXaDhQTDZfRm00LTVQREN1ZGZFQ0ZfcWg3UlNZVWFZSkE?oc=5",
-      "domain": "Kitco",
-      "topic": "Fuel",
-      "seendate": "20261106T203619Z"
     },
     {
       "title": "India proposes ban on corn, soybeans and palm oil as aviation fuel feedstocks - UkrAgroConsult",
@@ -122,11 +87,11 @@
       "seendate": "20261022T070000Z"
     },
     {
-      "title": "OE Says India May Raise Fuel Prices in November - Rigzone",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2JlWXh6NTB0Z1JKRnZCaHZvZmxKaWFuZnF3TFM4Z0lUT2lwSkw2MkhLdEpNU2poendTTXB5REtIRVhRc1h3dXVUbGJBX2dYU21WZERUd09SRzlpc0ljYnpaYWlDY0VTY3VueWZqREJGREsyNGYyVHFwb2FDVml0OE5QMFRMRHhaMkp6N29GVmR0dHY4V1FKb2ltNzRMLVlmdW13bnhoMlBBc21jZUE?oc=5",
-      "domain": "Rigzone",
+      "title": "India May Raise Fuel Prices in November, Oxford Economics Says - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGhtX2ZmMDFLN2EwdEtDRENBY3pfajl0eUduemN4ajdpWWxfZnpsMTVpNFZuUk1yYk94Wm10eC1vYmRGOHNHOUVxREI1ZVJUR253SU1XQmd1UWdTLXhMNnVPeUNreXdCdFVObHFqMFBiQUxOcjhMS1BMOXNTem0tN21LNURjNTU3RDFOQ1l0aDc0OTVFQ1BhT19nbWFDazVwelB4NXQ0QTVWSEx3YzZVS1hDd3hMUDdYZEZsblJSZWxpS0oxMlJFMkd2SWQ4YUU?oc=5",
+      "domain": "Construction World",
       "topic": "Fuel",
-      "seendate": "20261018T070000Z"
+      "seendate": "20261021T070000Z"
     },
     {
       "title": "Palm oil producing countries keen on ties with India - BusinessLine",
@@ -134,6 +99,13 @@
       "domain": "BusinessLine",
       "topic": "Palm oil",
       "seendate": "20261016T070000Z"
+    },
+    {
+      "title": "Palm Oil Plant Setup Cost in India: Manufacturing Process Flow, Machinery, DPR & Financial Model 2026 - IMARC Group",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3NkYW43d1NqQmZPTHJsZjdfOFl1Mk9HcGVwcWxUMU1EeXh1U2hWeVZVT0RRc09BbGpQUDY3OWJuTWwzMjFsdGZ3QjFxZkFESlJvajNtNkFqV2pnUnpsYlhGeTJ4dlBrTWczRVdDSFlCRDdJN3VoVDlKNzhPZ1RmUllaSQ?oc=5",
+      "domain": "IMARC Group",
+      "topic": "Palm oil",
+      "seendate": "20261015T103922Z"
     },
     {
       "title": "India’s Edible Oil Imports Rise as Palm Oil Shipments Strengthen By Kedia Advisory - Investing.com India",
@@ -220,11 +192,39 @@
       "seendate": "20260721T070000Z"
     },
     {
-      "title": "National Mission on Edible Oils - www.pib.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "domain": "www.pib.gov.in",
-      "topic": "Palm oil",
-      "seendate": "20251208T080000Z"
+      "title": "Fuel prices expected to drop in the coming months, Indian oil minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV8xbHd4amxYTGEwekJPVGpqMENGdENIeXpFaDNVdkJSZm5JMDM4WmVxV1BYVHN6MmNZZlNrZVgxWmdURmpwNDZMTTZKVG1kR0ZFdVVwR0NUeElETjhVd0Z0bm9jQVJmcGNXenRPeGxGQl9iRVJFeDVfVVlIeFZsWnhPSVdvSWxTcDV4YWFhWU84UGtmSXRUWTdLRl9BUVhGd3VFVFd0MGw0WVRTX0N6b2xn?oc=5",
+      "domain": "Reuters",
+      "topic": "Fuel",
+      "seendate": "20260608T070000Z"
+    },
+    {
+      "title": "From Pandemic to War: The Crude–Fuel Price Gap in India - FACTLY",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NVXduMGpza1hSZzllMWszQzNNQ0QxcEV6UktlNlJuUjlrRF84RVAzV1doVUYteUU2MVpjRDNwM2gtUFktbnVjdG5ITGoyc1ZzMkdpMk5JY3hiSmFzazQ2ZDZOeXdWT2p6WThDdkQ0WkkxbW9VUXhRNXNYZGNsUQ?oc=5",
+      "domain": "FACTLY",
+      "topic": "Fuel",
+      "seendate": "20260601T070000Z"
+    },
+    {
+      "title": "India Raises Fuel Prices for Fourth Time as Oil Crisis Hits Consumers - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY3o0cWVnM201dXQ0UHZaX3hoQUo4Y1JUM3MxOGt4eE5pbExycTNoblBjYXJDV2NtX25fZkE5REFDMmRFS1A0SUhYMFNab0JIX2NzdmFES2Y2YzN3cERoM01lck1NZ0pwZk9iZ3lxeTh6UUpLQ0VLbTBnaGRLdWhQTWRKWnFnQ2t1U3p2bTB3aWNGV2YtXzNfblJqeHJycl9ZemFmMFJGZDV5SWVLeXRiQkdxSk9xRGhGd0pTUlVmN3d3V3PSAcgBQVVfeXFMTVQzaGQyUWRIZ09ydklOZ3dseVFhejZ1Z1YzVTRxYVJxU0pMMzNKSndhSEJvWElxVWxsTTRid2lJZHVGU2c0MGZUa3c3Z2wzVGlfN21rN0ZTYUhNMFZjOVU0MTlBcW1lYUJ4WVRPaXhCcm5ReFJYb2NyRDZxVWEyekxnOGp4ak1kODBQSC1IUlI4NFYwRUV5Yy1KMi0xRk5wcWZzUGlfZUg2Q3QyVmZyRjFJN2V1dmFvZTl3UEUzYUlOS0NUYnNPLUg?oc=5",
+      "domain": "Crude Oil Prices Today | OilPrice.com",
+      "topic": "Fuel",
+      "seendate": "20260525T070000Z"
+    },
+    {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 | Akashvani News - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260524T231817Z"
+    },
+    {
+      "title": "India hikes petrol, diesel prices as economic woes mount - Deutsche Welle",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGhhblZ0YnROenJtemEtQlFQUXU2YjZMMDBiY0xsUVJ3aFBReko0VGJmOFo1ZkVwQjNCcUNqVUlkWWxPNEJyUGVOR1RZNTZOZ090M2xQRmtvVzdoNnZVLXFVRVFIRlZ2dkVOLXhrSC11aWRqc2MwaUlsS05kR3A4UWc4dlVJZUF5dkwxQkxMUGdzczF1Tko4NXpGLUtsLWpoSm9aedIBpAFBVV95cUxNQ2hVWGlmemlMTU5lVGMtMXE3aHJudXNEMjJwSkRsbWNyNUx2MmF2RnhtSllVd0hGaEhIVk84bkxtOUhmZHF6aGVza2xUTUhiVXVzTHd5NHVGYTRqem9XYkwxWGNIYmJQbXdBVHFQUmdvaS1LblhHNXJGcFZyTkhzQ0o4TXVva1IxWks0OGhnanBueTMyTk9SM2F3TEs0a0dRRGhWbQ?oc=5",
+      "domain": "Deutsche Welle",
+      "topic": "Fuel",
+      "seendate": "20260515T070000Z"
     }
   ],
   "alerts": []
