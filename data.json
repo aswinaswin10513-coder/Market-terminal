@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-09T22:49:52.039431+00:00",
+  "updated": "2026-11-10T09:05:26.912049+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
-      "nav": 176.3404,
-      "change_pct": 2.04,
-      "alert": true
+      "nav": 176.4383,
+      "change_pct": 0.06,
+      "alert": false
     },
     {
       "name": "Nippon India Gold Savings Fund Direct Growth",
-      "nav": 55.9946,
-      "change_pct": -1.63,
+      "nav": 56.3123,
+      "change_pct": 0.57,
       "alert": false
     },
     {
@@ -31,6 +31,34 @@
   "commodities": [],
   "news": [
     {
+      "title": "Renewables Could Save India USD 240 bn in Fuel Imports by 2030 - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS1UwY0hhbTgwTC04Y2Rudk54aFRwQzNWS0lCbXVXal91SjdvQmdzdXR1MW8xcnhXZWJDVlUtZVRoMEhJWVh5NEZMMFQ2aHZxODRYSURnSzdZdDI0NzRZaFE3aENSeGtWVml2OUx4SzlZRjdHWGJRanVRWDRIemVXLVdiM3ZDck1Wa0pOUktEd0EwYUNESEJmbDJzZ3pGNGhQdzBTbGhLZkJNdFdGaHNVSTZWeHlCS0VqTkxyUF9WWlZkSFhxVXlPemE0NlZ6aTJ5UHplRk14Ykw3YVE5dlVkM0IwM0lXUQ?oc=5",
+      "domain": "Construction World",
+      "topic": "Fuel",
+      "seendate": "20261110T074703Z"
+    },
+    {
+      "title": "Petrol and diesel prices today, November 9: Check fuel cost in Delhi, Mumbai, Bengaluru - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSENOOGgwTC0xdHgtRG5yYXFhVXBONlcwR3VIdGpGMTB0U25ENlY3Ymc2RnJHNzVMZnhkb1ZtQV9MaEU5Nmp2cGpsUGRZRjJfMWhEcmFERC1MQzR2QVhZN1lzRThWQmJZMkQ3d3VxWEMyLWFnUnlsTHktRmQ4c1dTRzdrM2lkWF9vdlpsTGpydDlYZndWWV9JaDlwejM3elRvYTFTQUpVUmN6d3pzS1pTNGFZNHUwWFFNLVNCUHY0Mk5oTVhvX0hCNzhDdVR1T0FZRmdOVEZn0gHbAUFVX3lxTE5rY04zMGZ3Z0hpZzQ3Z3Y0ZDlKOFl1ZlNlT1JSLUg4M0cxV0VKY1FGa3YwSzBzZDAxNDJId1ZKekVSWE9SVm5yY2VPVzRnRUJGLTEzRXdIVjZLUXJSeVo3cVNYUTdoQjdhTlZRWkNFZHlEMUJrNlZPWDhlRGt3NEZVQ2tOQnVQUEJjWU4xS1FOYXdiSUlQbW1jRUEyUDRLMTh2cnM3Q0NzN2MyMllpTjUtb29KdG9MbnczT0xIRGFOWHNuNUw2SW12Z1NJcjU5M0JzZ3NuZTdOclJfcw?oc=5",
+      "domain": "Livemint",
+      "topic": "Fuel",
+      "seendate": "20261110T040328Z"
+    },
+    {
+      "title": "Petrol, Diesel Prices Today, November 10: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFJsT1o2X2xUblNfQm1aX3FGdV94RnRrdFdwcHVqTzNjVGtCQVB1ci1yR2FRZ2JtX2J5WnFJNFhiLW1VY0VTdGJ1M3dXc3BCOFkyWU44NTVPN2lGX3pRR0Rwbl9MU005dHVUTE5Rd3VHUVBfdmJXNzc0ajR4TklTbjgtaFV4NGppMzk2enhUZUIxNnZLZ21jOVlmME9ZRkNSdUY2WnQwRWpEWU9yY29BQmlERFAzcm55UFEyQWgtamFmVk5wTm4zOXhtZkdBVnJPRDBBdzBuUWI4em5HMnhz0gHkAUFVX3lxTE0ycllLT3V4dVNlak5nc2VwMXFPNjlPSUdKS1hpMWNvT1BnUjZsR1NuLWh0a1lvVk9MNTI0dE15VTljMUdhYWVzZ25DbU5tdXliWGtDRTJ2SkI4V2hud1NuTEd1a2h0VlY2VERQTDJSOVF1VzMyd2llOEZSNEN0Z1JCYXZaZW9odlg0d2NIaUs3RTRvaDUxNnNJeGxnWE1OVVhBeUMyVldlSVJfZ2k2WFM2dG5aYzE4ckdISDdMVGxTOE42NEFWWk84RUhQRUVvY2lqQzRCSmxnWmd6SS1fNTBxUWlxSQ?oc=5",
+      "domain": "News18",
+      "topic": "Fuel",
+      "seendate": "20261110T023121Z"
+    },
+    {
+      "title": "Petrol and diesel prices today, November 10: How much does fuel cost in Delhi, Mumbai, Bengaluru - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHRYcEJ3dmR4ZmVUTUlQRnQ0MVZ4VDBQTjB4MWNiRzFPczJHLTRMMDBfVXUyR1RVNFlrQjNXelM3YjNNSW9WeXlIWUEwelhYSUtqblpaM1d3OWxVTGpIdDdKQUpKTUVmVGxiU0ZrakJOSkI3VVRrMjB2aDFkWDI5ZEYyVVFsSll5ejlrdTZ5UFlHUXA0WnFiWkdaWVNHSUZfbDVMVkNtT2VoOUdMRVZ4d0hvVUEteGJkLWJac3Q5dW5maEdwZnRBdDA3c2FiWnNBdFFnbFBVQmNtOFFCRjFfdUlB0gHnAUFVX3lxTE4xZzFZQndFUU95R0QwX1ZuZzZUeW9GOWcxVFdXT3VNMHBtSDhHdEdDVm5SdzIxa2FwYjVSc3J6cHdzZDZndC1sQW1LSm5ZZjIzQkNnaXViUUpianZNNmY0SF9meTBISkI4eWs5MVJvOEh4QzZWaTRtY20yNXhvWjdWZUlld1FNNW9uRkZXMVJEMnZ6bUVDX0RVN2lwcl9kR1RDVld5S0tHVmhZYTF2bFZPMWpreXc5ZHRCN3RkdmhhRG5WM0pkSG1mSF9OSFdtUTRtclc3cmx3NWhnYmNrMTdfV0VzYU9EZw?oc=5",
+      "domain": "Livemint",
+      "topic": "Fuel",
+      "seendate": "20261110T012935Z"
+    },
+    {
       "title": "Star Air slows expansion as high fuel costs force flight cuts - Air Data News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVRXQVlKM2UzeVJ2TThkUkdoUUw3TmZDLXB2TzdwbEhKUFlyYmJMbENWWHl6aXR4bmU1b3MzVnlJS1FRanUteGJkRHl2MFkyUGJSNW94b3owenVXNWRrcV9NZUwwZUxsVzNKNnNSYXlac1Y3Zmcxd0E0d2hLSl9ROUNfbEV5WTdLOTNOaG5MMjZaTUE5?oc=5",
       "domain": "Air Data News",
@@ -45,25 +73,11 @@
       "seendate": "20261109T030100Z"
     },
     {
-      "title": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSENOOGgwTC0xdHgtRG5yYXFhVXBONlcwR3VIdGpGMTB0U25ENlY3Ymc2RnJHNzVMZnhkb1ZtQV9MaEU5Nmp2cGpsUGRZRjJfMWhEcmFERC1MQzR2QVhZN1lzRThWQmJZMkQ3d3VxWEMyLWFnUnlsTHktRmQ4c1dTRzdrM2lkWF9vdlpsTGpydDlYZndWWV9JaDlwejM3elRvYTFTQUpVUmN6d3pzS1pTNGFZNHUwWFFNLVNCUHY0Mk5oTVhvX0hCNzhDdVR1T0FZRmdOVEZn0gHbAUFVX3lxTE5rY04zMGZ3Z0hpZzQ3Z3Y0ZDlKOFl1ZlNlT1JSLUg4M0cxV0VKY1FGa3YwSzBzZDAxNDJId1ZKekVSWE9SVm5yY2VPVzRnRUJGLTEzRXdIVjZLUXJSeVo3cVNYUTdoQjdhTlZRWkNFZHlEMUJrNlZPWDhlRGt3NEZVQ2tOQnVQUEJjWU4xS1FOYXdiSUlQbW1jRUEyUDRLMTh2cnM3Q0NzN2MyMllpTjUtb29KdG9MbnczT0xIRGFOWHNuNUw2SW12Z1NJcjU5M0JzZ3NuZTdOclJfcw?oc=5",
-      "domain": "Livemint",
-      "topic": "Fuel",
-      "seendate": "20261109T022543Z"
-    },
-    {
       "title": "India's clean energy push cut its fuel import bill by $240 billion: IEA - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUHSAe8BQVVfeXFMT0FuajhzVlZOVEZRTXdfWWRVRXNMZ1ZLQzI3TjB4S00xQ2ZiUFlQbDgzR1hRUHRVdnZKM3cxcC1GSTNPRUl3WGhreWkyd29CTldZbjVlMFZtb0lDRjVScFhJRGExRzEzVngxT2EyZ1V4WnEtV2NRUjcwMVZuYS15ODgyaTBESFVmVkMwWkpjZGxzWXpyTXVKR21EbEROQXpUYU96QS1TdkJuaGEyTi1OUU9LRnNTaVpIeURLSkg4UndQc3E5bzVTZzdVVmctYU5LZDJuTE42cVNtZzVFTUxXRFF2bUFRLW5IYXUwOFpZOTQ?oc=5",
       "domain": "The Times of India",
       "topic": "Fuel",
       "seendate": "20261108T055400Z"
-    },
-    {
-      "title": "Fuel prices today on 8 November: Check how much petrol, diesel cost in Delhi, Bengaluru, Mumbai, Chennai — Full list - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOenVoS0VZcjRlSFM4MlVwc3MxV3A3ejdnZFAxOHlEVUJlZnBXc01meDdmN3FFLUgyVkhHM1NnTEJ3VVF5clFGc2o5bFVvaXhCeWdLT0p3LUhUbE1LdnpFblp4QVM1WGpWT0l3QWNoMldiOWdDUnF2VlczMEhrMDVDc1BlRUdKbWVSYWJHaFJXeGZzNUVac0dXZEdUeUZxNkw3dXZyeHhXVFRoTnEyTzAyazdnZkEtWlBiYlI4bkhrV0lFS0NPR1QwVm5iUngtV2FUU2dmMjhrcHdrR0NjNHpfVEFaU3Nwb0FzQ0NPdzU0QW12VmtEZFFuVtIB_gFBVV95cUxQd2FkczBmbk00T01lcjVqZDJwaVlLdVpobk8yM0JMNHpIV2VTeVQ3YmJUZWhyZElNRjZBSG9EenZJLUhNZEtYTnlHdTZacEpfeldPRkVhTVJpeWxaaDh6TGJRay1wb09HN3J0WUNOUkYwNllNQl9DWG13SHlKNi1ocENVTHV2ZnZjaVZtTWRyRWVVV29pT1MtT0RBVG0yeHQ2NUFaSzRQc1pZYVd5MHY1X3YtcWIwWXVZNDh5YlJXd0JyV0xTWFpLLVJwdGZNYXdOQzRDRFl3Vjh0TlRnWW40R09uSE00NFN5bE9jS2hQM0hzRVVCejRNeW5kb2c3QQ?oc=5",
-      "domain": "Livemint",
-      "topic": "Fuel",
-      "seendate": "20261108T012955Z"
     },
     {
       "title": "Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs - Kitco",
@@ -87,6 +101,13 @@
       "seendate": "20261104T041219Z"
     },
     {
+      "title": "Seed shortage supports mustard oil prices in India - UkrAgroConsult",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0l3LVlBd0t1SkFtd0g2azBuWG1yR1RQclZZMWhjeXNWeTVrUzY2UWJoRlpYcWY4NGx3M1Nsc0dSTjJzTFVBTjJzbFhSVjR6eWJCOWdFUzJqTFQ4YXlXa3FudndIVkJqS0sxZEJqaFBoWmU3cmVNNVNvX1RKb19hSEp5c2J1N21yWE1RM3JHQQ?oc=5",
+      "domain": "UkrAgroConsult",
+      "topic": "Edible oil",
+      "seendate": "20261103T104326Z"
+    },
+    {
       "title": "Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3ZIc29lLWMxLURTSTVSc2F0Y1lmLTVkaHRVbXR0aE9wLTZEVGJTbnpxY0lXN1FRTlN0bWprRXN6bUlKeFg3N3RQckZWZ19fVjl5SE1USHdvNmNZbEt2dVBWM0ZqUzducmRmOFNhRVRaSkttMGgzNXM1UTlMT3c5UmdON29LRTJmbWJwUUNqdTBVMlZYN2tiRWVsQmhFcERPSzF1WG5TcGUwUTU2MDNpSmMyWjg?oc=5",
       "domain": "Bloomberg",
@@ -99,13 +120,6 @@
       "domain": "NDTV",
       "topic": "Fuel",
       "seendate": "20261022T070000Z"
-    },
-    {
-      "title": "India May Raise Fuel Prices in November, Oxford Economics Says - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGhtX2ZmMDFLN2EwdEtDRENBY3pfajl0eUduemN4ajdpWWxfZnpsMTVpNFZuUk1yYk94Wm10eC1vYmRGOHNHOUVxREI1ZVJUR253SU1XQmd1UWdTLXhMNnVPeUNreXdCdFVObHFqMFBiQUxOcjhMS1BMOXNTem0tN21LNURjNTU3RDFOQ1l0aDc0OTVFQ1BhT19nbWFDazVwelB4NXQ0QTVWSEx3YzZVS1hDd3hMUDdYZEZsblJSZWxpS0oxMlJFMkd2SWQ4YUU?oc=5",
-      "domain": "Construction World",
-      "topic": "Fuel",
-      "seendate": "20261021T070000Z"
     },
     {
       "title": "OE Says India May Raise Fuel Prices in November - Rigzone",
@@ -185,13 +199,6 @@
       "seendate": "20260924T070000Z"
     },
     {
-      "title": "Companies must pass on edible oil duty cuts to consumers, says govt - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN25PaGpvS0FZamRNaU0tREZvcFloZ1FYcVRVb3hFS2R3OUhrVEVsZ24tSHp0RGM0TnlZWjZJYjBrRGVtcTdDdUVUTWFtQ2dOclZTYkZheDZhb19Ma3hSLUhiYXpCX25sUlRFOUZUR1R1OFBfekZjZXNaNElDZW1tZlAxR1dfY3pzNTBJeEZIa0EwU3IzeTlQUG5SbVIxcUFNdE9ZZXhobGppUlhhSjNjal9rbXZua2Q3MmU3UjNSNVk3OFc3REY4YUNNU2xaaEtxOTcw0gHYAUFVX3lxTE1KWl9WTFZVRGZGeXotai1Nc2xuQkxqZThsSDlNSlpmZ2xJNkh0TVE5a2pGektTMkFUMEJ3dlBROWNOOGl5TDNjV2hnUUE5SlRXQjBUTXR3TjBQYXl3U0JBOWxUZzlWWUFHdVVyRlBxLUxnMV9VclFOTkt1SnZKaGxSTXFVblJGeU5FT2VOZ1VMa3dUa0daOXhBTWtGQWs4c1MzMW1pRGlELWhYZS1jWFh1eVZLbFFRQmR2MXdjTmRvVG1icEx4YTlYU0hnM0FlWmVaNEtLSFZEUA?oc=5",
-      "domain": "Business Standard",
-      "topic": "Edible oil",
-      "seendate": "20260924T070000Z"
-    },
-    {
       "title": "India cuts edible oil import duty to lower prices ahead of festivals - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
       "domain": "Reuters",
@@ -204,13 +211,6 @@
       "domain": "BusinessLine",
       "topic": "Edible oil",
       "seendate": "20260923T070000Z"
-    },
-    {
-      "title": "India's August fuel demand falls month-on-month to lowest level in two years - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2IxdElDLTVJYWFhR3pnUDVTMm1IbERBSUVRTUlXWHMweUU3RmR1cDRnNnYzbklPMGFWa1laeUZpTGpLT0pxR3hQcmpnX2hrSkl0MG5xSEVwVk1fYUJfTVFCMzVVbTdUQVBHWkRyNGZnUVdqTlAxTkVxUWc3VV82SWZ0V0kyMVZTM3kwMDJLeG1OeDFQYTRvTHYtMnlFVkliWWZNNUlLN2NqRHVEZnpzbUxDOTZnV29G?oc=5",
-      "domain": "Reuters",
-      "topic": "Fuel",
-      "seendate": "20260908T070000Z"
     },
     {
       "title": "The ‘No Palm Oil’ Pitfall - orfonline.org",
@@ -227,7 +227,5 @@
       "seendate": "20251208T080000Z"
     }
   ],
-  "alerts": [
-    "UTI Nifty 50 Index Fund Direct Growth: NAV +2.0%"
-  ]
+  "alerts": []
 }
