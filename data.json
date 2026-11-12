@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:06:10.318432+00:00",
+  "updated": "2026-11-12T20:36:35.438147+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -23,13 +23,20 @@
   "market": [
     {
       "name": "USD / INR",
-      "price": 93.69,
-      "change_pct": -0.26,
+      "price": 94.04,
+      "change_pct": 0.37,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "Palm Oil Market: India Shifts Toward Malaysia, Indonesia Slips to No.3 - CMB News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmxud2JUZ3JwRUEtOXBmdVJmR2hucHRBRi1XLWg0UHdCZ1BON2N0RFJaa0R3NHB2QU5Ia25oY01Ec1BWbXFsUXdvYlFWNEpiYkE0d2w0b3BUcjBzYUNqRGtpZEZUZkg0ZmYwa2tLXzcxZ2drVHVEdjdKaEpNZG5zQmhTVTJMZnFWcW1Fd3JUNTdORWRJY0d3N1R0Y04?oc=5",
+      "domain": "CMB News",
+      "topic": "Palm oil",
+      "seendate": "20261112T131403Z"
+    },
     {
       "title": "India’s renewable energy expansion saves over $100 billion in fuel imports: IEA - BioEnergy Times",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0xyR3dGZzhBUUNwc1ZMdWtiOFlPWDBhS3VlYXNhMXVyWm5wQ0NOWktpRnNkUnVpb0xaOWhvelR0YWtJVzlCVVhkSnl2M2ZqUmR4TnNtVjdKMzYtczhQLXdHdmFXX3JxZGYxME1oSmk4eVhWWUs2NzM1Nm1iMkZ1bDk2LXBCenRJQ0xWeEhmUUFzUy1XVjZLRm44bFBkVmhIazhkcnpWZw?oc=5",
@@ -71,13 +78,6 @@
       "domain": "The Times of India",
       "topic": "Fuel",
       "seendate": "20261111T120600Z"
-    },
-    {
-      "title": "Price Hike in India: Milk Becomes Costlier by Rs 2-4, Commercial LPG, CNG Rates Rise; What About Cooking Gas? Check State-Wise New Rates - Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSTR6UFMxd3h4SlV1bHJTejJ6ODBHVWNJRXhkenRWZ0VjT3MxOVhMcDc0ZlNyN1U0a3pZWndMNmNsdEdMenA0S1hJemtqamI0MTU4MnBaLWJnNGd6cjlJLUZZV1cxX1VqNWVvM3hsWWZpLXJWMlF6LUV6U0VybHFGdWM1M2FZeThKN2NoOXd1NkV3a1l0a1FyQlRpaVhBSlZyU3BZazg0T3FESTlPZVI4OGlOQkRoM1gwRVZlOVdxT2x3TzR1bFFzWk5IS2dReDg1OEN1MzFpRnN1V0JMTFpQaVF1S3dkZnZCNEQzRUU3OVlRaWk2WHRRTGlKdHJ0WDBPQ0JsMGkyWTctTVFlSlNlZWhlakV1b3Rna2xNRjVpdE4tUdIBqAJBVV95cUxPa0JJUzdvbnA2M3FBRmY2eVZjc0pPcVRMLWgtVG95S2JaZW44OWpySFVXLXFlTEZVMlQwYmVHaGJrV2lqWjVzaEdfQTMyZG9fNjZGZ2VGRlFGTktuVHJGOU9rSU1nSmI3MU9TQzVaaXBmYlNBdURlYks2YUhqYkxrTEN1alFBQ1NnRFZXT0MzdlprU0FkZjJlYWc2bVgzVGdRbGFYVjVfTXBUeDJqY3FPMTI2OW1VV0lWeDc0RXpXeWZFbFk4Q2JJb19CVmNuV0I3MXo2YTVHNFhJVXZGWFlRN1RBNTNwWS1EbnppNlhlbF90WEdqWkpYMGpsOHV0bXFGOVVWdTJ1c0duMmFKdXZsWjNDSnV2b21icHFBMFh5T0ZFRW9yeHZmQw?oc=5",
-      "domain": "Jagran Josh",
-      "topic": "Fuel",
-      "seendate": "20261111T075225Z"
     },
     {
       "title": "Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens - Bloomberg",
@@ -157,16 +157,16 @@
       "seendate": "20260924T070000Z"
     },
     {
-      "title": "Govt cuts import duty on crude, refined edible oils amid rise in retail prices - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEt6MFVreF8yWUdFaG9aS2pDZTFwenR1QzlDTjNDMmU1TnExX2docDVTNGw3UVBVejJSWFZMMjVGSkhMR0NQTG43TVY4LWc3b0tXTGVpR2RZbzQ4MW9POGJpVTRIdU5HRTRMNWZKSFRTSXhDc21xSWZ6QnU0VHBFZ19YYTlvUEhrbTFQckN3bXhsN0RRenh4d2ZHXzRBdmZQWjA2WVROamJoWkJHY2E4U0Z4SGRzd09SZ3RhZFd5a0YtSi1xNV9YNUpHd0JaWG5fQjNLSU1XajRrSTU5aG5nS0NXM3FrUdIB6wFBVV95cUxOZ3NQWnZodlQ3QW55Y0ZXY0lqMFBnYkdrMzB4TzJYZ3hJdk9ITnJ4UnhjNGtXMWZuWENuYnhnNjUxWWpiUjZoV1VPNXpTNGdOYk9TenFYTnItVE1ZdHIyZkpvbHBkQW1feEtKV1lOS05GWTdVSWZRS2V1TFBpMlpCUkFWb3lWRHV1Nm5LMzljVEp2V09lZHZtN2hFdG13S1B3M3BHVFBDNFBYSVhqU2cycXh1V19JLW9YS0drYVhQZlJhOFRrb2QtUURJMTRaZTJHT1pIMGttWUxMNEdEOFdHY1JvXzVRQ2hWZGZ3?oc=5",
-      "domain": "India Today",
+      "title": "Companies must pass on edible oil duty cuts to consumers, says govt - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN25PaGpvS0FZamRNaU0tREZvcFloZ1FYcVRVb3hFS2R3OUhrVEVsZ24tSHp0RGM0TnlZWjZJYjBrRGVtcTdDdUVUTWFtQ2dOclZTYkZheDZhb19Ma3hSLUhiYXpCX25sUlRFOUZUR1R1OFBfekZjZXNaNElDZW1tZlAxR1dfY3pzNTBJeEZIa0EwU3IzeTlQUG5SbVIxcUFNdE9ZZXhobGppUlhhSjNjal9rbXZua2Q3MmU3UjNSNVk3OFc3REY4YUNNU2xaaEtxOTcw0gHYAUFVX3lxTE1KWl9WTFZVRGZGeXotai1Nc2xuQkxqZThsSDlNSlpmZ2xJNkh0TVE5a2pGektTMkFUMEJ3dlBROWNOOGl5TDNjV2hnUUE5SlRXQjBUTXR3TjBQYXl3U0JBOWxUZzlWWUFHdVVyRlBxLUxnMV9VclFOTkt1SnZKaGxSTXFVblJGeU5FT2VOZ1VMa3dUa0daOXhBTWtGQWs4c1MzMW1pRGlELWhYZS1jWFh1eVZLbFFRQmR2MXdjTmRvVG1icEx4YTlYU0hnM0FlWmVaNEtLSFZEUA?oc=5",
+      "domain": "Business Standard",
       "topic": "Edible oil",
       "seendate": "20260924T070000Z"
     },
     {
-      "title": "Companies must pass on edible oil duty cuts to consumers, says govt - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN25PaGpvS0FZamRNaU0tREZvcFloZ1FYcVRVb3hFS2R3OUhrVEVsZ24tSHp0RGM0TnlZWjZJYjBrRGVtcTdDdUVUTWFtQ2dOclZTYkZheDZhb19Ma3hSLUhiYXpCX25sUlRFOUZUR1R1OFBfekZjZXNaNElDZW1tZlAxR1dfY3pzNTBJeEZIa0EwU3IzeTlQUG5SbVIxcUFNdE9ZZXhobGppUlhhSjNjal9rbXZua2Q3MmU3UjNSNVk3OFc3REY4YUNNU2xaaEtxOTcw0gHYAUFVX3lxTE1KWl9WTFZVRGZGeXotai1Nc2xuQkxqZThsSDlNSlpmZ2xJNkh0TVE5a2pGektTMkFUMEJ3dlBROWNOOGl5TDNjV2hnUUE5SlRXQjBUTXR3TjBQYXl3U0JBOWxUZzlWWUFHdVVyRlBxLUxnMV9VclFOTkt1SnZKaGxSTXFVblJGeU5FT2VOZ1VMa3dUa0daOXhBTWtGQWs4c1MzMW1pRGlELWhYZS1jWFh1eVZLbFFRQmR2MXdjTmRvVG1icEx4YTlYU0hnM0FlWmVaNEtLSFZEUA?oc=5",
-      "domain": "Business Standard",
+      "title": "Govt cuts import duty on crude, refined edible oils amid rise in retail prices - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEt6MFVreF8yWUdFaG9aS2pDZTFwenR1QzlDTjNDMmU1TnExX2docDVTNGw3UVBVejJSWFZMMjVGSkhMR0NQTG43TVY4LWc3b0tXTGVpR2RZbzQ4MW9POGJpVTRIdU5HRTRMNWZKSFRTSXhDc21xSWZ6QnU0VHBFZ19YYTlvUEhrbTFQckN3bXhsN0RRenh4d2ZHXzRBdmZQWjA2WVROamJoWkJHY2E4U0Z4SGRzd09SZ3RhZFd5a0YtSi1xNV9YNUpHd0JaWG5fQjNLSU1XajRrSTU5aG5nS0NXM3FrUdIB6wFBVV95cUxOZ3NQWnZodlQ3QW55Y0ZXY0lqMFBnYkdrMzB4TzJYZ3hJdk9ITnJ4UnhjNGtXMWZuWENuYnhnNjUxWWpiUjZoV1VPNXpTNGdOYk9TenFYTnItVE1ZdHIyZkpvbHBkQW1feEtKV1lOS05GWTdVSWZRS2V1TFBpMlpCUkFWb3lWRHV1Nm5LMzljVEp2V09lZHZtN2hFdG13S1B3M3BHVFBDNFBYSVhqU2cycXh1V19JLW9YS0drYVhQZlJhOFRrb2QtUURJMTRaZTJHT1pIMGttWUxMNEdEOFdHY1JvXzVRQ2hWZGZ3?oc=5",
+      "domain": "India Today",
       "topic": "Edible oil",
       "seendate": "20260924T070000Z"
     },
@@ -199,18 +199,18 @@
       "seendate": "20260812T070000Z"
     },
     {
-      "title": "India's edible oil imports hit 10-month peak in July on higher palm buying, dealers say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR1lzdEYzQ1IyR0VOSkxhRlYxWm9UcGVXeGY1MDQxeUhPMFVtcGU4cnNEUGF2UmR6MlFiQ0ZuaDBwdmZSRDNHbkE0b3BqWl9vOFZlV0k3VnhHWDNGZjNGU09XLXVJU1F5V0Rlc0l2X0RQUWo0bmw1NUEzX2MwOHI0RXYzaTBGRDBzbGpmcTk1T3VudnFWeWV4UzVkUzFPQ3lqU1Iwdl9GWnBWbTV6dUc3NXdwN2pFcDhsNElkUkxwSm8xTG5SZXc?oc=5",
-      "domain": "Reuters",
-      "topic": "Palm oil",
-      "seendate": "20260803T070000Z"
-    },
-    {
       "title": "The ‘No Palm Oil’ Pitfall - orfonline.org",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51R21renJNZXFGUHo4V1l5VjVpLTg1UGpOMlQ4QUVhdy12MHBoWnBCU2J5a0ktbG9VRUZQVEotOW8wNHE2dF8wcldYdUJDYVVJM2xra3luaERkSTlxelJIaFM1R3UwOUt4X3c?oc=5",
       "domain": "orfonline.org",
       "topic": "Palm oil",
       "seendate": "20260721T070000Z"
+    },
+    {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 | Akashvani News - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260524T231817Z"
     },
     {
       "title": "Iran war, edible oil price shock, weak rupee & monsoon could hit India middle-class hard in FY27 - ThePrint",
