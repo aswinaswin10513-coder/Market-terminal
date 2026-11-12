@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-11T19:57:14.708317+00:00",
+  "updated": "2026-11-12T09:06:10.318432+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
-      "nav": 176.4383,
-      "change_pct": 0.06,
+      "nav": 177.9191,
+      "change_pct": 0.84,
       "alert": false
     },
     {
       "name": "Nippon India Gold Savings Fund Direct Growth",
-      "nav": 56.3123,
-      "change_pct": 0.57,
+      "nav": 55.5656,
+      "change_pct": -1.33,
       "alert": false
     },
     {
@@ -30,6 +30,20 @@
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "India’s renewable energy expansion saves over $100 billion in fuel imports: IEA - BioEnergy Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0xyR3dGZzhBUUNwc1ZMdWtiOFlPWDBhS3VlYXNhMXVyWm5wQ0NOWktpRnNkUnVpb0xaOWhvelR0YWtJVzlCVVhkSnl2M2ZqUmR4TnNtVjdKMzYtczhQLXdHdmFXX3JxZGYxME1oSmk4eVhWWUs2NzM1Nm1iMkZ1bDk2LXBCenRJQ0xWeEhmUUFzUy1XVjZLRm44bFBkVmhIazhkcnpWZw?oc=5",
+      "domain": "BioEnergy Times",
+      "topic": "Fuel",
+      "seendate": "20261112T070651Z"
+    },
+    {
+      "title": "Fares ground Diwali air travel: Dip in festive rush as fuel costs keep prices up - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG82bVFPSEVXT1FyMDllWjFQd0pWWW40SHhDSGdhNnRRTlJzbEhQU0t0dlZaVTk5MUZyNXNmNE03SkxhMkpIWEJJTXg4VjRQZ0N4NWsyNzVJSVZYOEN5WTNZakxFSGZqTTNpaDgwR1FtSmFDa1N6Z1RJb0prang3SUEwTGxyNGlETzVuejluU1FtdGExV3ExT2p4UzBKQ2ZpaGRIQklSR19oQ19QRzljNmVGQzNrVjBqWWM5c0M1b3EtLXl3TVhVUmI3blF2clRSYi13b3lHQUZXTGZlMEFRWdIB5gFBVV95cUxOaVZwOFlfSHBobHlWVEUxZnUyMGtubWtQRlpSaGU4X2ZTbVdKZ045cWt0SktRcmJzcG5MeGxWSVFJYUFrN0tWVnA3Q1FFanZUZ0x6WWtqR1lMTGdZdkJyN1hUOTNPVUFRQXg1N1JXV0x6T3otdFU5Ql8wRnVLM3ZJOGF0eWNlWUR3bEw2NDBqRUVsUXdDd0ZnMk84dVAtVXhDX0RnMnJIUnBoQ25kUGR0N2FlR28yXzNVTWp0a3J0RnJjRDdMLTFTQ0NZNGVHOE1qODhXdndLVUdXSnlGdE9uRHc0THBXZw?oc=5",
+      "domain": "Telegraph India",
+      "topic": "Fuel",
+      "seendate": "20261112T012712Z"
+    },
     {
       "title": "India's renewable energy push saved $100 bn in fuel imports: IEA report - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZTdIeURISDdwT2NNZFhqOTM4dFN1azB6cFVacGZtaXBzR2Y1V3VHdDZLQ05CeFhNVGxYM1FFRzNBRDl5OFNLN1YzaFhKUzh6ZzQySFNIUkNyQXhBcG1EemFncEJqLWJMX0paUzYySkx2LTdCYlc5eHhSOTg3TWdKUU8zTllIODVhM004dEdKTGJnLTB6WWM3VXgwTzBQblkyYnBXbW5NWFRCcDZyZzFyLXZ1c21Lelh0WlVpTDRuS1BnOFFybTNvb0ZQOTJsNGlEeE9n0gHYAUFVX3lxTFBnZ0l4ZWF5c2ZFRTFsalQyRzZmNk5sSUFaV2gzRnViaFc0elFBWjNCcElEaFI4ZTk4c0V0VU8yQ05OUEFuVnBNc0NCVW9vaGJGSXVfSGI4MEZUaDJFTEd0dUF5UHd5aFBBSTdoZm9fY1RxdGlYX2tnTk1uQUZMRi1oNmZabnhMLU1Xc2lWY2hQX0NIcmdfYnBnNFVHTnVTdE5OYjh4bmo5WURtMmV1empIZEw3Wkd1enNRNVc0WFRhX3pZU09Nb2VEd1F5Qmt3b0JSYWxiMVJ4Qw?oc=5",
@@ -59,31 +73,24 @@
       "seendate": "20261111T120600Z"
     },
     {
-      "title": "Petrol, Diesel Prices Today, November 10: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai - News18",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFJsT1o2X2xUblNfQm1aX3FGdV94RnRrdFdwcHVqTzNjVGtCQVB1ci1yR2FRZ2JtX2J5WnFJNFhiLW1VY0VTdGJ1M3dXc3BCOFkyWU44NTVPN2lGX3pRR0Rwbl9MU005dHVUTE5Rd3VHUVBfdmJXNzc0ajR4TklTbjgtaFV4NGppMzk2enhUZUIxNnZLZ21jOVlmME9ZRkNSdUY2WnQwRWpEWU9yY29BQmlERFAzcm55UFEyQWgtamFmVk5wTm4zOXhtZkdBVnJPRDBBdzBuUWI4em5HMnhz0gHkAUFVX3lxTE0ycllLT3V4dVNlak5nc2VwMXFPNjlPSUdKS1hpMWNvT1BnUjZsR1NuLWh0a1lvVk9MNTI0dE15VTljMUdhYWVzZ25DbU5tdXliWGtDRTJ2SkI4V2hud1NuTEd1a2h0VlY2VERQTDJSOVF1VzMyd2llOEZSNEN0Z1JCYXZaZW9odlg0d2NIaUs3RTRvaDUxNnNJeGxnWE1OVVhBeUMyVldlSVJfZ2k2WFM2dG5aYzE4ckdISDdMVGxTOE42NEFWWk84RUhQRUVvY2lqQzRCSmxnWmd6SS1fNTBxUWlxSQ?oc=5",
-      "domain": "News18",
+      "title": "Price Hike in India: Milk Becomes Costlier by Rs 2-4, Commercial LPG, CNG Rates Rise; What About Cooking Gas? Check State-Wise New Rates - Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSTR6UFMxd3h4SlV1bHJTejJ6ODBHVWNJRXhkenRWZ0VjT3MxOVhMcDc0ZlNyN1U0a3pZWndMNmNsdEdMenA0S1hJemtqamI0MTU4MnBaLWJnNGd6cjlJLUZZV1cxX1VqNWVvM3hsWWZpLXJWMlF6LUV6U0VybHFGdWM1M2FZeThKN2NoOXd1NkV3a1l0a1FyQlRpaVhBSlZyU3BZazg0T3FESTlPZVI4OGlOQkRoM1gwRVZlOVdxT2x3TzR1bFFzWk5IS2dReDg1OEN1MzFpRnN1V0JMTFpQaVF1S3dkZnZCNEQzRUU3OVlRaWk2WHRRTGlKdHJ0WDBPQ0JsMGkyWTctTVFlSlNlZWhlakV1b3Rna2xNRjVpdE4tUdIBqAJBVV95cUxPa0JJUzdvbnA2M3FBRmY2eVZjc0pPcVRMLWgtVG95S2JaZW44OWpySFVXLXFlTEZVMlQwYmVHaGJrV2lqWjVzaEdfQTMyZG9fNjZGZ2VGRlFGTktuVHJGOU9rSU1nSmI3MU9TQzVaaXBmYlNBdURlYks2YUhqYkxrTEN1alFBQ1NnRFZXT0MzdlprU0FkZjJlYWc2bVgzVGdRbGFYVjVfTXBUeDJqY3FPMTI2OW1VV0lWeDc0RXpXeWZFbFk4Q2JJb19CVmNuV0I3MXo2YTVHNFhJVXZGWFlRN1RBNTNwWS1EbnppNlhlbF90WEdqWkpYMGpsOHV0bXFGOVVWdTJ1c0duMmFKdXZsWjNDSnV2b21icHFBMFh5T0ZFRW9yeHZmQw?oc=5",
+      "domain": "Jagran Josh",
       "topic": "Fuel",
-      "seendate": "20261110T023121Z"
-    },
-    {
-      "title": "Iran war and ambiguous fuel pricing squeeze Indian fishermen - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHN1Rktoa3doMG51M0czanhfNnJWVEdTVTFMekgyV2staExTY01mU3FsSU9obGg4SWdRdVdmZEMyTklEMzJuc0Q5WG1yamRMckpPX1h4LThfclVyNWJzRVNiQ2FWWjZZVFZNWmt1OFpkcEJMLVZPQ3ktRnZwN3BUSTUzQ0gzWEhUcTN1TlFNZmYwQ1VEY0xMQmFsaXZ2TnBhQ2NHVUFB?oc=5",
-      "domain": "Nikkei Asia",
-      "topic": "Fuel",
-      "seendate": "20261109T030100Z"
-    },
-    {
-      "title": "India proposes ban on corn, soybeans and palm oil as aviation fuel feedstocks - UkrAgroConsult",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTd4endnbm1lUXZLamNhRV9HZkdHM21tT1JFMUxzQ095NXp5SFQtTjNsN2tkd3llQnJQZk5mLURKX0dCdXVnRS1PdTVXRmV2SDF6RFRlODBGOG1NY1FXRW9vQ0N2cFdFYUZ0cjFnS3paeFplVjY5c1VIUGtBOEZCUkR0ZncyOHZxb2k0eWFmbWVqaC1OUWx0MzdZNVNuT2JnX3RpcjB5ZlYza0dPc3R6VENR?oc=5",
-      "domain": "UkrAgroConsult",
-      "topic": "Palm oil",
-      "seendate": "20261106T132921Z"
+      "seendate": "20261111T075225Z"
     },
     {
       "title": "Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3ZIc29lLWMxLURTSTVSc2F0Y1lmLTVkaHRVbXR0aE9wLTZEVGJTbnpxY0lXN1FRTlN0bWprRXN6bUlKeFg3N3RQckZWZ19fVjl5SE1USHdvNmNZbEt2dVBWM0ZqUzducmRmOFNhRVRaSkttMGgzNXM1UTlMT3c5UmdON29LRTJmbWJwUUNqdTBVMlZYN2tiRWVsQmhFcERPSzF1WG5TcGUwUTU2MDNpSmMyWjg?oc=5",
       "domain": "Bloomberg",
       "topic": "Palm oil",
+      "seendate": "20261022T070000Z"
+    },
+    {
+      "title": "Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5",
+      "domain": "NDTV",
+      "topic": "Fuel",
       "seendate": "20261022T070000Z"
     },
     {
@@ -157,13 +164,6 @@
       "seendate": "20260924T070000Z"
     },
     {
-      "title": "India cuts edible oil import duty ahead of festivals: Will it bring relief after prices rose 20% in a year? - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2taZnZYeTZ5LWtmUHNuYXNTQWVrZ3N4cmNTYjd1d3pWdFhRSmFpWmNCcjBnS2lCUjNOSTdYcXZmNjlndVNoZEJqN21PS2E2SnM0TGRlZlZ4RmZLNGMwbTdXSkxOX1QxSzJCQldhbVF5WWtIMktKXzBWb2xaSHV2dTN2RGZObWhRQlFSQmxqQlhDc3RaQ01qNzdCNnh6X3lFM2ZsNEszajhYaDZ5WUdCbUcwTmtUX19naTM2NHpZbG5kS2Q4WEVaWWRzbTZzcXBqdE1jRm91QnNnNXVDd2NZX2FCeDhnX3pxMnlndnU4d09Td9IB9wFBVV95cUxOaFhyMWJ2Sy1pdF90R3BoQnVzMzY2R3lhdXp0WXJINGJ3SWNYcDM0MkR6VVhBMkc4LVFpQzVocGtSallmQUc3blhHMlgtQ0UxUWpqV0ZraVlWQnhRdHl5RWhWTDlJYzU1YWFMZ0RpZUg3d0RCd1NOME0zT2Y0UDRFRUhxcUFYc0Z3MXB6SnI2S1pfM3JqSUpsMWFqZzE5X3UyYlR0ZldON3oyRno3YTJTOUE4MDBuSEd1cm5pSG53R1UyTjZtR29DY3dqT2FGano3R1NIRGM1Y2lNY3FOMXpnaFdzM1NmZzc4RTVhVFpvM2FHaHhicnNZ?oc=5",
-      "domain": "Livemint",
-      "topic": "Edible oil",
-      "seendate": "20260924T070000Z"
-    },
-    {
       "title": "Companies must pass on edible oil duty cuts to consumers, says govt - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN25PaGpvS0FZamRNaU0tREZvcFloZ1FYcVRVb3hFS2R3OUhrVEVsZ24tSHp0RGM0TnlZWjZJYjBrRGVtcTdDdUVUTWFtQ2dOclZTYkZheDZhb19Ma3hSLUhiYXpCX25sUlRFOUZUR1R1OFBfekZjZXNaNElDZW1tZlAxR1dfY3pzNTBJeEZIa0EwU3IzeTlQUG5SbVIxcUFNdE9ZZXhobGppUlhhSjNjal9rbXZua2Q3MmU3UjNSNVk3OFc3REY4YUNNU2xaaEtxOTcw0gHYAUFVX3lxTE1KWl9WTFZVRGZGeXotai1Nc2xuQkxqZThsSDlNSlpmZ2xJNkh0TVE5a2pGektTMkFUMEJ3dlBROWNOOGl5TDNjV2hnUUE5SlRXQjBUTXR3TjBQYXl3U0JBOWxUZzlWWUFHdVVyRlBxLUxnMV9VclFOTkt1SnZKaGxSTXFVblJGeU5FT2VOZ1VMa3dUa0daOXhBTWtGQWs4c1MzMW1pRGlELWhYZS1jWFh1eVZLbFFRQmR2MXdjTmRvVG1icEx4YTlYU0hnM0FlWmVaNEtLSFZEUA?oc=5",
       "domain": "Business Standard",
@@ -192,6 +192,13 @@
       "seendate": "20260908T070000Z"
     },
     {
+      "title": "Edible oil prices up due to West Asia crisis, but availability 'adequate': Govt tells Parliament - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQWpvbmJQVVdFYWp6OExvQV9qaGU3NHZETThTWmoxV3FBSGRRcE15UEJjNzJfaTZ6NmhGbmpJOUtnSXBPRXNPaHB5bmxlOVZZODBKR0NZcklUdUQ4ck5tZENJTzk3WDZ2clREd0w2Zmx6TUgzX1IzNzBrbEVoYUl1dHA1TnNONk1feUl1cERNaWxhZUcwdlZ2MFE5d2pPSzJKaUo3UzZmOUlaYUFXTm12MGZyN082dXNpM0R3SHgtLUx0d2NWRU90MktuSFdkNU5XV1Z2QUZSUzlRUGpLcUZudXV4RmNlQzUzUnZjMmhuenYwbHZJQTFhR2ozNGpvQdIBgwJBVV95cUxOVVVzcUVsTmhVUlNVY1E0RnBoVWo3elQ3TFRPTlhlTU9LVEs5OEFyUzBxZVNQRExBaHMwYk1VRXRLZFMyYWFGMmFuSjZ3MXBjaVdaSXc4Ull4d3FKRWJvX2x1WkxiZHFJZ1pYUXhIMnc4c2FEYkhySlJnTDE0LXJ3VkRqNnJXajJYTUNsczlKbHIxSGNUR3JGR3lSSEtSTGhXY3ZmYW85VzExc0JZMGlUeVRMbXBOeGl6b0g0NUdDMEpUbVRPbUFObWY3UXF5UHBvWlFNeVF4eC1PNkJVR3g0YXZoLWptc0kyQUY3ZXJkTGRqOGY4dkJLT3MwMVRYWEFnRnpZ?oc=5",
+      "domain": "The Economic Times",
+      "topic": "Edible oil",
+      "seendate": "20260812T070000Z"
+    },
+    {
       "title": "India's edible oil imports hit 10-month peak in July on higher palm buying, dealers say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR1lzdEYzQ1IyR0VOSkxhRlYxWm9UcGVXeGY1MDQxeUhPMFVtcGU4cnNEUGF2UmR6MlFiQ0ZuaDBwdmZSRDNHbkE0b3BqWl9vOFZlV0k3VnhHWDNGZjNGU09XLXVJU1F5V0Rlc0l2X0RQUWo0bmw1NUEzX2MwOHI0RXYzaTBGRDBzbGpmcTk1T3VudnFWeWV4UzVkUzFPQ3lqU1Iwdl9GWnBWbTV6dUc3NXdwN2pFcDhsNElkUkxwSm8xTG5SZXc?oc=5",
       "domain": "Reuters",
@@ -206,25 +213,18 @@
       "seendate": "20260721T070000Z"
     },
     {
-      "title": "Fuel prices expected to fall in coming months, says Hardeep Puri - Autocar India",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHUtbkFfRDBzcko2dzRGemxqTnM3d1UxQ3dzOWNkTUJpbjAyRF9PWEVyUnZ0ODhONkhGbHZHTm5jODhTbThMc2Mxd243dGVmYlNSQkVXWTNXbDdabW9SNTFQb1c4cTBsOFB6NWRVUmFDQkVKeFJRa28zUVhvQWlZeW5vMk5jTGxuT1Z1eU1VQ1FXSjdCUWxLYm1ndW5vX1ZnUGFwVndkUkE5V0pl0gGyAUFVX3lxTFA5aWQ5R1NWUmxvYjBKN0ZJZkpnZllUYlAtUHRQTFdhWlJaQ0phWEYxOVlNRVYzSTlrNWg4cFByYkRBRHB1TUdCWjVXV3RBMk9iamRJb2x2aEJFNGZpQjY3eVB3d25TanR0bm5wX0h2TjdVWS05N2w0Z1l3OTZwSXBxdzVBUk5KaFp1SnJkSlVkMTV3dlRibUVkXzI5Ui1oQjg1SXRxc3JrMDNGSlJ1UURYMEE?oc=5",
-      "domain": "Autocar India",
-      "topic": "Fuel",
-      "seendate": "20260609T070000Z"
-    },
-    {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 | Akashvani News - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260524T231817Z"
-    },
-    {
       "title": "Iran war, edible oil price shock, weak rupee & monsoon could hit India middle-class hard in FY27 - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHlRR0ZZN1R3M0tLaWo0YmRfUm80NW5PLXJ2bjYydVpOTW41OWVaWUNzcmMtZW9KZEhOazZBcnZGcV9zYk5qeExTc0ZTTFlBVmhLb0NEQXhQTWlvdDNHV05lMTlvRVdoLUpmR1U3djBuYVM5NEFNeTRVY1c3cHlTX1dnTGoybHFCbmF0MXFwbGtEeHpKUUJNa1dObHBfM3J5ZGZaZklTYld5ZFpjcWhRaGRjbGJqbzlmLWdVMHgzS0VTMFNlZ3cxNmwweWtBQ0N30gHWAUFVX3lxTE9oZklxN0dwSkk0TWJlaURHZEFlZ1BEaUNZaHRlUHFCd3JWS2tHR0pxMHZYVzF6d1diUE9ZbHAyZF9pWjdObmkySWMtcTJGOGxrc0YtU1hsd2VGZWlVbnpGbE9IY2wyaVJHbldkcU5FV1B0N3hzalYyTlE4Zy03czlPVTZobUUtNi0xc2c4Z0NhUXV4TDBETUlJd1M0MXNXU2hQeDB0dWJORktfV3cyb1BZWl9FQzZCX0ZsZ2lvTi0zbjdhM09xZnBZM0F3ZmlYdElmdnMyWUE?oc=5",
       "domain": "ThePrint",
       "topic": "Edible oil",
       "seendate": "20260511T070000Z"
+    },
+    {
+      "title": "India is increasing oil palm plantings - UkrAgroConsult",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYUlnUlhJSjVpdDFPT1FFTHdSQjhVWEdUTU44dkRVUVNGWW5raGIwb2VhZnR5VHNuWnh3OEx3NTBuMGVUY2pnYnJBczIzbmVPSlZYNll4bmpCTzlhRnhpNm10a2h0MUxJbGcyZmJ1bVZpYjF2LThHQnhZZXRCdUU?oc=5",
+      "domain": "UkrAgroConsult",
+      "topic": "Palm oil",
+      "seendate": "20260128T080000Z"
     },
     {
       "title": "National Mission on Edible Oils - www.pib.gov.in",
