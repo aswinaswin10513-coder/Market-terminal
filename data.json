@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:27:35.428808+00:00",
+  "updated": "2026-11-14T18:37:09.992862+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -31,11 +31,32 @@
   "commodities": [],
   "news": [
     {
+      "title": "Rs 1.5/kg CNG hike in Mumbai region, up Rs 5.5 in 75 days, rekindles autorickshaw fare row; unions seek R - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPX1VGcVpOMEtmVnNoVWJwTXRUd2Vjdi15eEF6Q2RxSzZkdjIzd2t3T1NzQlpZMzVpMkR0SnFvaFlrRmFHTThtbzlKMHNTRlJxV0JsTWNYTVd5U2UyLXdwdS1JR3VJdTU4dDNXUzBwamRxVG5aeEFtNklwYUp6S090RkRJcm9aN0pQZDhCTWZlRVgyLWZMWTQ1bUY4UEpWb0h3Sm92SFVDb0dsQU9VS18wTlQ5V3Z6ZXhtaWxKWEc1UTE0d0RzcnFncXBzYkRqSnIyWV8yZC0wSE9EeDZlT3VwcFJlOUFoSHVHU1ktYWtEejNKejhqQ3d4dkp5V2tCQ3BNTnNOcjRIQ0M2TXBQS0QzbXZOQldNVHRvQWc3ZzBDcUpIWUcxV1pGWlVjNlLSAbICQVVfeXFMTkJBdDFmUXp5VlVBZjZJSnI3UjdsQkRaYVotUWd0TUhEQnQ5SlpLeGNuY25RQU0tUUxqT1A5cVhZNmJMbTdQeHV1bk5MeEtleWdfeXNTemxiT1UzZEhZRElya253V2V3WEQ4LUVGMkJ5SlZOTFpGcDZqbWJzZHF0YkU2RjNsMUxZbU12QWhKWjc2MWZFRGJZdVdkRm9lMFYyR0ExVzlfVDZhb1ZuZzhZRzVHY1JtaG5DbTY0NjRHYUNiNUZ3cFE1dnFwWUpJYXFCbGtiQ2h2Nk02a1VhMVRJZDVzTWlEOVVvblQyLV9EaVRzNkJyWnNBSmI3TXd6X1p0Uy1hX3FQMWl0Q0t4T1FZUHNqT29JQmFjM3NmcVlQTW8xNURWYzBmV1pVOFF4T0VfX0VB?oc=5",
+      "domain": "The Times of India",
+      "topic": "Fuel",
+      "seendate": "20261114T134500Z"
+    },
+    {
       "title": "Indonesia’s palm oil policy shift may raise costs for India’s edible oil industry in 2027 - SME Futures",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnNwUm0zSWZoR2d5VzZXelRtUXRCRmd0TjJIbE56WWV2QzVwaV9wd0dyQjBiTEZJZklHektWc2c5Tl93MXFmZXZ4QkR4OWMtNGJ5TlBZN2lpRWhvRXZwbDlrWnFzYy1MMUhQMjlvaFpDckNQQmN6QVhfaGxiSF85REZhZ2hkVnprUTBkNzJYR1NSOTdmVGtESy1XampUbHhhbi1mN3RBRXplSC1TTE5WNQ?oc=5",
       "domain": "SME Futures",
       "topic": "Palm oil",
-      "seendate": "20261114T052949Z"
+      "seendate": "20261114T110815Z"
+    },
+    {
+      "title": "India Provides Fuel At One Of The Lowest Prices Globally: Hardeep Puri - Sarkaritel.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXVyQ0IxZ28yZTVkX0s0WjMxOG5hZHJyd1VCTVhkRU5rVDFvY2ZLS0FWMjMxcEl1enV0cUI3UERER2VMQnVZc2lpZEYzeHVPTl9LZWc4NWlxSi1RVTlWWV96Nm0tbWE3cXBnNEFlN2o1b1AxU0VaNC1vRkdGMzRXR3FVdWlxaVk?oc=5",
+      "domain": "Sarkaritel.com",
+      "topic": "Fuel",
+      "seendate": "20261114T091408Z"
+    },
+    {
+      "title": "Petroleum products fuel India’s record goods exports in October, but oil prices push up import bill too - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWDJzVzl5aWRlMTdOSVlKR0FlMlhjdUlpaGdhTFQ0TWpsSFdoU0E3WVlGbGc1cE10eEJDTlNGcF9HS1dOUVVFUXphaDZublZfck1TeG15bzU5MVJMeXhkWXhsR29XajdjR0ZlLUI3aEF5WjZNdVI0NFFSdHFKRF94OGhZR2RkVVRCWEZUdzRhWlltUmFXR3EtUG5ublJydTZHazV3LWdaWklUTHEtc1E1bkxfcVJ5bDZHWWVYc1RMSVdtako5djlIMzVHeEZRaVhJNGUzMdIB2gFBVV95cUxQaTFpVmJuclY3NmdIeUxTOUFrbDdjZTJFUlJPX0tZRlVJdmlNcXR2ZFlTSWFxNWI5Mk5LRjNUN3FPV0hCS2dialRvZTg0WExIQXRJeHdYNW9FLTZ6Y21SaTFSQ2pDLXFOX3dtSjNhMHdhM0daaE1kY1JkTmdzQ1NqVDZOeVl0bWQtWXJHZEFha3JCV2NwVzZWSTlCaWl3R2N3bGdhcUJHcWVDVlEtT3dLSnVoZ1hUMURUYmdFTVJRazNhLVBpcXVtVDZBVVQ3aEpWQzNSREo4ZHRrQQ?oc=5",
+      "domain": "ThePrint",
+      "topic": "Fuel",
+      "seendate": "20261114T084738Z"
     },
     {
       "title": "India imports over half its edible oil, faces food risks: NITI Aayog VC - Business Standard",
@@ -66,8 +87,8 @@
       "seendate": "20261113T130538Z"
     },
     {
-      "title": "Indonesia Palm Oil Policy 2027: Will New Export Rules and B50 Biodiesel Mandate Make Edible Oil Costlier in India? - Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNE5FTUhWRWFvaUNzeU5oVjNZcmkwaWRsdTNGVlRraFVVUURxY2lnODVCZ2lYOFFUaERkSk1ibGZwZWNiTURSb2FuWkdPX3ZfUzNKWXBYbUtFWkRCcUVqQm9kSjF0b282YmUydlZjMmR5Zm4xaUhMN2ZDU1U2UUdZZ181Sm9EaHFHMTZRR2xteVdmcll3emtqZ0IzWmdmLTROR0tfdGh6dGhHYXVlbDBVdlB1amtxcVVKLXpWNWplS1pmbjRRTXV4N1ZkRGktY3hRQnJiZkYyZmNyeU5CaUhmZGduM3MzVEZ5M3Jkam1KSERNWmpEcHlHeFluc0k5LWc?oc=5",
+      "title": "Indonesia Palm Oil Policy 2027: Will New Export Rules And B50 Biodiesel Mandate Make Edible Oil Costlier In India? - Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNE5FTUhWRWFvaUNzeU5oVjNZcmkwaWRsdTNGVlRraFVVUURxY2lnODVCZ2lYOFFUaERkSk1ibGZwZWNiTURSb2FuWkdPX3ZfUzNKWXBYbUtFWkRCcUVqQm9kSjF0b282YmUydlZjMmR5Zm4xaUhMN2ZDU1U2UUdZZ181Sm9EaHFHMTZRR2xteVdmcll3emtqZ0IzWmdmLTROR0tfdGh6dGhHYXVlbDBVdlB1amtxcVVKLXpWNWplS1pmbjRRTXV4N1ZkRGktY3hRQnJiZkYyZmNyeU5CaUhmZGduM3MzVEZ5M3Jkam1KSERNWmpEcHlHeFluc0k5LWfSAYYCQVVfeXFMUFBaa0djdXpVOVgxUDNIckJLbXpCOE9lTEltdUxqLWZKbnlCVnpWSndsT1V1LVpxWnB0NmRhX3I5eEt5QUh4S1FZcUFWMHpWZ2RMbDVKM3hycTNmY3ZOVmlSYXRfdzRwWXJNNDdmN2h2Y3pBXy1GcTRqQmdBTHREYTEyb25JcTRLMHJHaXBHZ2tubWFTS3hwQ1BGTWhFMk9pTHdDSkZkeEk5SzJMQ2xQY2cyNGYyVXJuQ3pCNDFFRGRaNnoyWkw2c3FWQUE4U2dEOWRBdXNmazFXWUhVOTlmZjlSZjE2Ty1lWHdfbTdieXFwRmZVNXpZYjVZRDNmeENMWmtmY09nQQ?oc=5",
       "domain": "Jagran Josh",
       "topic": "Palm oil",
       "seendate": "20261113T095144Z"
@@ -87,11 +108,11 @@
       "seendate": "20261113T053656Z"
     },
     {
-      "title": "Airlines facing challenging times; skies were a lot rosier a year ago: AAPA DG - ET Infra",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ2NGTG1jRExlaUdHU0h3SmpFczM3d3liSFNtd0ZnVWZud3FVcXdJVDQ3ZGF1VWdyT2ZiTVZwYWZWckdnXzBKYUJ5S3YzQ29MZ3I2WGd0eVZCZ1U5MVBobzhpRXl5V0FmYlNHSXNZekJFTU8temFZM3A3QjkxcmRFSTZYOGlaWUJlUXRFSDRvb0F6aG5TMmpjRjJ0WW5iMmRwVzQ3UzNMUWJtMklIdG5DbklINGt6STltU0w0QTQ0a2JhenBiNHJNLTFIMUpCOXVsMTRjS0tFdWhjOUnSAd8BQVVfeXFMTXVaSzZJQ2ZueFViNnFDNExickZ0cWJ0UHR4V0MyMGRZT0oxM2drdmdsa3MxUUxmOGJuQ0c0WWxtbVlvaUhmVjNxMThSRURVZnpaVWJCNXVpbS16TXhCQlpITUxMZkREUWpvWFh6UWVXOVhCaktQcDFOVWhiakMzQlhSOHl3SVlUUU5ZalJlZW1uRGtwNVlUUzFkVzc3azAwVkNpQUVjaVA3RVZiSmNRR28wNVdITGVHclRkWXhsV1hKcldRVDVZbzJpQ0p6QjN6el9QYjdSdFFkcU42LTJ5dw?oc=5",
-      "domain": "ET Infra",
+      "title": "PM Modi showcases India’s agricultural growth, says farmers shielded from global fuel price shock (Lead) - tennews.in",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVlyUjNkQ2taZV9VeExnZWFQNU5wQWVHLTMtV3gwOHgxdnZsaHU3T2lYcEFKeHlpbDJwQ2FGd3czMVUwZTNCTVdXdXhCall0bkhlN20wdy1vbTRPdDBlaWpBbU5NWnFSX0VsUmZwY3hiQ1hJLXNTTS1BTEpiYjRPOUo4REZEYUg0M21GZThDU2NCN21zOGl4VWQ0bWh2eGZEcEtSanpsY2JIYl8xRUVTdTYzeFpXdkpIWnNpNA?oc=5",
+      "domain": "tennews.in",
       "topic": "Fuel",
-      "seendate": "20261112T180946Z"
+      "seendate": "20261113T033552Z"
     },
     {
       "title": "PM says govt absorbed Rs 43 of Rs 50 per litre diesel price hike to protect farmers - India Today",
@@ -99,6 +120,13 @@
       "domain": "India Today",
       "topic": "Fuel",
       "seendate": "20261112T174520Z"
+    },
+    {
+      "title": "India’s renewable energy expansion saves over $100 billion in fuel imports: IEA - BioEnergy Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0xyR3dGZzhBUUNwc1ZMdWtiOFlPWDBhS3VlYXNhMXVyWm5wQ0NOWktpRnNkUnVpb0xaOWhvelR0YWtJVzlCVVhkSnl2M2ZqUmR4TnNtVjdKMzYtczhQLXdHdmFXX3JxZGYxME1oSmk4eVhWWUs2NzM1Nm1iMkZ1bDk2LXBCenRJQ0xWeEhmUUFzUy1XVjZLRm44bFBkVmhIazhkcnpWZw?oc=5",
+      "domain": "BioEnergy Times",
+      "topic": "Fuel",
+      "seendate": "20261112T070651Z"
     },
     {
       "title": "Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens - Bloomberg",
@@ -190,34 +218,6 @@
       "domain": "orfonline.org",
       "topic": "Palm oil",
       "seendate": "20260721T070000Z"
-    },
-    {
-      "title": "Fuel prices expected to drop in the coming months, Indian oil minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV8xbHd4amxYTGEwekJPVGpqMENGdENIeXpFaDNVdkJSZm5JMDM4WmVxV1BYVHN6MmNZZlNrZVgxWmdURmpwNDZMTTZKVG1kR0ZFdVVwR0NUeElETjhVd0Z0bm9jQVJmcGNXenRPeGxGQl9iRVJFeDVfVVlIeFZsWnhPSVdvSWxTcDV4YWFhWU84UGtmSXRUWTdLRl9BUVhGd3VFVFd0MGw0WVRTX0N6b2xn?oc=5",
-      "domain": "Reuters",
-      "topic": "Fuel",
-      "seendate": "20260608T070000Z"
-    },
-    {
-      "title": "From Pandemic to War: The Crude–Fuel Price Gap in India - FACTLY",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NVXduMGpza1hSZzllMWszQzNNQ0QxcEV6UktlNlJuUjlrRF84RVAzV1doVUYteUU2MVpjRDNwM2gtUFktbnVjdG5ITGoyc1ZzMkdpMk5JY3hiSmFzazQ2ZDZOeXdWT2p6WThDdkQ0WkkxbW9VUXhRNXNYZGNsUQ?oc=5",
-      "domain": "FACTLY",
-      "topic": "Fuel",
-      "seendate": "20260601T070000Z"
-    },
-    {
-      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 | Akashvani News - News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
-      "domain": "News On AIR",
-      "topic": "Fuel",
-      "seendate": "20260524T231817Z"
-    },
-    {
-      "title": "India hikes petrol, diesel prices as economic woes mount - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGhhblZ0YnROenJtemEtQlFQUXU2YjZMMDBiY0xsUVJ3aFBReko0VGJmOFo1ZkVwQjNCcUNqVUlkWWxPNEJyUGVOR1RZNTZOZ090M2xQRmtvVzdoNnZVLXFVRVFIRlZ2dkVOLXhrSC11aWRqc2MwaUlsS05kR3A4UWc4dlVJZUF5dkwxQkxMUGdzczF1Tko4NXpGLUtsLWpoSm9aedIBpAFBVV95cUxNQ2hVWGlmemlMTU5lVGMtMXE3aHJudXNEMjJwSkRsbWNyNUx2MmF2RnhtSllVd0hGaEhIVk84bkxtOUhmZHF6aGVza2xUTUhiVXVzTHd5NHVGYTRqem9XYkwxWGNIYmJQbXdBVHFQUmdvaS1LblhHNXJGcFZyTkhzQ0o4TXVva1IxWks0OGhnanBueTMyTk9SM2F3TEs0a0dRRGhWbQ?oc=5",
-      "domain": "DW.com",
-      "topic": "Fuel",
-      "seendate": "20260515T070000Z"
     }
   ],
   "alerts": []
