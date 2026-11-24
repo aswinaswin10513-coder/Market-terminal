@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:54:58.425615+00:00",
+  "updated": "2026-11-24T22:52:31.582443+00:00",
   "funds": [
     {
       "name": "UTI Nifty 50 Index Fund Direct Growth",
@@ -24,12 +24,26 @@
     {
       "name": "USD / INR",
       "price": 92.92,
-      "change_pct": 0.26,
+      "change_pct": 0.0,
       "alert": false
     }
   ],
   "commodities": [],
   "news": [
+    {
+      "title": "Mustard oil prices rise in India amid declining raw material stocks - УкрАгроКонсалт",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGhYbWswZWl6OVFBZnFUbGtfa2thMGc4VHFtTkxzZkdYOXFQOC1ycVhRci1IY1ppTDI2b2FZZFBuTmt6RzNzdHFWMl80TWMzaXZDNXFla1FWb2dZbUtGT2xXVDhMVDNtWXdlS2pfM0ZSYkRRWkFEWW1XM2V3SWlYWk9Ta19Ka2V3NXBhS3k1OTh0N2ZMUVdQWXREdjdXdkJhenRzOGd3?oc=5",
+      "domain": "УкрАгроКонсалт",
+      "topic": "Edible oil",
+      "seendate": "20261124T133323Z"
+    },
+    {
+      "title": "India's edible oil vulnerability deepens as import costs surge to Rs 2 lakh crore - AgroSpectrum India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVE9hbm1tVXZmcFlfU3hpWDVJS3NqQkpPZWg4dGxrVzRyeWZJLXd4VUNldDVaUllabUJ1M2p0SEd1UEFMTExIdVo5eGNmdi13bS1MVWFFbmlEVUhtWExVNzV0T0NVdkpSdkhIZEtETjl3MzViR3hNM2pCbnh4VkxhOVA0T1RrVnZVcncyMTA3Y2dtbHBfSHdZc01IbFJDTWI2WUNveXB3YllNdFl2ZWI2aHMtamFFOVBnUmVGcVRKdEpSVTA2dFJ6TA?oc=5",
+      "domain": "AgroSpectrum India",
+      "topic": "Palm oil",
+      "seendate": "20261124T121440Z"
+    },
     {
       "title": "Soybean Price India, 24 Nov 2026: Imports Drive Complex — CMB News - CMB News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczB1V25yQlRwLWJDRDZZS1JUNXBVbmJXcXd3VTF4VjdSYzNkTkhmV3NIWHUyYkRnaDRmcHJKeUJnd004a1FJajBfclNyOFpNS2pScjhlTkNtUWhzc1NNSVVaTG05R3hqNU96SzF1enAyU0ZlVU5ZVGNtVXMxWnFmS2xxeFJzOUZSUXZQQnRRT0xtWU9DSFE?oc=5",
@@ -101,13 +115,6 @@
       "seendate": "20261122T132931Z"
     },
     {
-      "title": "Oil, gas import bill up 60% in Oct as Brent surges, LPG use declines - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZm5ueWI0VFl1WVJrVUF1SGw5Sy1WU3hmdFotOU5Ld2toSVBnYlBXYVlPMk1GYm9fcXJFSnRJYnBtVGdiMkN5VDYzUnE0RTR5M19hdGwyTUFtaHExYlJxcjFmTFdYOV9kYlRMOS1WUzNnb1lZY2dHVHB0MWhEVmFkVDlsRE01Q1ZQQmMyOWItQUtVZTNBTjNDOVRwTWdqTVhYY2FFdEFuY3ZmOURlZnZpZkdQaEVMTEx3dlZNNFBPbzlvSjNfMkd4LXdHRVrSAdIBQVVfeXFMTnZhMkQxTHBaN2ZQd0R5ODFFc3JmWEZTbzlMTGx1eXZ0NWhtbG0zWGxXYTdnZTg5ajFmU1k3cy10eDJfdHk3Rm5rMS12aGRpQlB0M0lJbUVWU0U5anZtem1FZVZVSzFmdmxuR2puQWJlVWR2cEtvNjhUSnltSURZclJwMlNfeFdHX0lySU4tVHcxUEdVNk55YVBLUmVfUnp1VmpKRjdnMi03UF9CU2FJTHZhNXBzdFNfUHp6elV1UktsV1pIaDBtUWgyYUdtb0NLSHNR?oc=5",
-      "domain": "Business Standard",
-      "topic": "Edible oil",
-      "seendate": "20261122T062313Z"
-    },
-    {
       "title": "India’s palm oil opportunity: Shaping a more sustainable global trade - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVQY0wyZTl0QWJPQjVtWGo1ejRMTFk1MFZVcHVTVHVpV2R1Z0VrbWFIZFNlVGh6N29KVmVyUzVZcnNaOUYwTVlyT0E4eUhLYko3U1V5WUlJY29TSERkVmtKMTl6TzVYdTd5Sk5QTGE1R1M4NTZzdWZlS1VUVnRzczNXcGYxdDVFRzI2RGhKTzFocFI2YW5sQVhMRTUxaVgycllwNjV2THJFRE8zRUVVZ0VmdlBwaE1ySUZlek1hTWptSTdyY2hBVXY2REpwQUNEQkpTaHY4bGRsZ1d5Mkpr0gHmAUFVX3lxTE50aHkzT1ZaMEowTVdaZzk1OHNtckV1MHM4cUZSOXpzR2ZMU2RSQ2dycGhUUVVsNDNQNzctX2w4VVdoZ1Y0OFBuaUs5ekhwYWtHeWc3MjBoZDVwWHZWN29TczgyaWgydW5TTjl3MUxxMElVWnY5MGtDTWJfcFpBRlhUdGZQbENBNlcwZzhIbk1yNjNCeDI3eGctNlRoazZWeGVKVmlFY1k1blZBRE9tcGpkNXRTTl9jVlowMHRIa2ttbzl0UFNJcE5Db2cyVXdXd2J4T0IxNWZfOVBkNy16ajY5Tk16R0xB?oc=5",
       "domain": "BusinessLine",
@@ -143,13 +150,6 @@
       "seendate": "20261104T080000Z"
     },
     {
-      "title": "India May Raise Fuel Prices in November, Oxford Economics Says - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGhtX2ZmMDFLN2EwdEtDRENBY3pfajl0eUduemN4ajdpWWxfZnpsMTVpNFZuUk1yYk94Wm10eC1vYmRGOHNHOUVxREI1ZVJUR253SU1XQmd1UWdTLXhMNnVPeUNreXdCdFVObHFqMFBiQUxOcjhMS1BMOXNTem0tN21LNURjNTU3RDFOQ1l0aDc0OTVFQ1BhT19nbWFDazVwelB4NXQ0QTVWSEx3YzZVS1hDd3hMUDdYZEZsblJSZWxpS0oxMlJFMkd2SWQ4YUU?oc=5",
-      "domain": "Construction World",
-      "topic": "Fuel",
-      "seendate": "20261021T070000Z"
-    },
-    {
       "title": "India eyes new palm oil sources as Indonesia, Malaysia raise biofuel blends - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWERMazl2RXE1dEJ5M0VZZGJpdXVUd3h5elJRNTZKVThJRTdtRXB4cnpGUUNqcWVHYldsOWcwUjBvRU43VjVzaXJrU1UzRmdsbWVqcGtMX20tWEVrVWVLUkhYZjljNVM5alJleGE5U3N4Wnl4Ym9nSTNUbXVyU0J4YUNGY05JYmw2YU15VTdPb0JHVi10SEJBM0k5VnlBbDNSZ1VkSFQ2V1RfVEFrYl9RMktrLXBPMHFCeEdWTjAwR0dNMVgwdDdOa0ZWbVJhQnU5SDg2cVRXdjHSAd4BQVVfeXFMTmIybVc5bUc4bW1udndiRGNnaXJuQ0tUWE9SVVZFOFFoV21pc05nelZHSVlXR1VEQ3FKTzJtV2hTRXA2dzF0Wll6UTNEbEFXV1ppa3pLT1loTlJOTW9CTUVNQUJKNkJHaDJ1MnhYVFBxLVFaMnc4aHlFQUE2aEdfamlVcGlfRW43RVpBZDF3bEgwZm9tanlWOUJMYkFRYzUyWmw1NnhNUnNjX1liOW9RWGotaVAtNHNlS2RzLXNJNFBRanhUQ24yTGJGdV9Pckp2Wnd6RUZLNFUxeDdVWlhR?oc=5",
       "domain": "Business Standard",
@@ -162,13 +162,6 @@
       "domain": "The Indian Express",
       "topic": "Edible oil",
       "seendate": "20261005T070000Z"
-    },
-    {
-      "title": "Why UK diesel prices have breached the £2 per litre mark - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5",
-      "domain": "BBC",
-      "topic": "Fuel",
-      "seendate": "20261002T070000Z"
     },
     {
       "title": "India Steps Up Palm Oil Buying as Tax Cut Spurs Restocking - Bloomberg.com",
@@ -199,25 +192,32 @@
       "seendate": "20260923T070000Z"
     },
     {
-      "title": "India's August fuel demand falls month-on-month to lowest level in two years - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2IxdElDLTVJYWFhR3pnUDVTMm1IbERBSUVRTUlXWHMweUU3RmR1cDRnNnYzbklPMGFWa1laeUZpTGpLT0pxR3hQcmpnX2hrSkl0MG5xSEVwVk1fYUJfTVFCMzVVbTdUQVBHWkRyNGZnUVdqTlAxTkVxUWc3VV82SWZ0V0kyMVZTM3kwMDJLeG1OeDFQYTRvTHYtMnlFVkliWWZNNUlLN2NqRHVEZnpzbUxDOTZnV29G?oc=5",
-      "domain": "Reuters",
-      "topic": "Fuel",
-      "seendate": "20260908T070000Z"
-    },
-    {
-      "title": "The ‘No Palm Oil’ Pitfall - orfonline.org",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51R21renJNZXFGUHo4V1l5VjVpLTg1UGpOMlQ4QUVhdy12MHBoWnBCU2J5a0ktbG9VRUZQVEotOW8wNHE2dF8wcldYdUJDYVVJM2xra3luaERkSTlxelJIaFM1R3UwOUt4X3c?oc=5",
-      "domain": "orfonline.org",
-      "topic": "Palm oil",
-      "seendate": "20260721T070000Z"
-    },
-    {
       "title": "Geopolitical Risks Highlight India’s Reliance on Edible Oil Imports - CME Group",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVlzZHlvODVXeEVvU29mUDBhTVNsWWh5NHlkREp0VnVzOGVVdDFfS25qOUo5c003RDNZeW9LamY4bjhwdlBkLTZUcTRYWjZnSm8xOUZfc0ZVRGxlMG9ETmxwekhlSzVHVVpXUXZTTmwtd09Xd2I0N2JmUVlyNmRZREVfM051UDltUmV2cjhSUHk3Q1pyWXVaOEZkTWx5LVVfWFlTRElsSkJWRUZLa1l2bk1jd1c5WFhZMURCQ0xLUy1rSXc?oc=5",
       "domain": "CME Group",
       "topic": "Edible oil",
       "seendate": "20260720T070000Z"
+    },
+    {
+      "title": "Fuel prices expected to drop in the coming months, Indian oil minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV8xbHd4amxYTGEwekJPVGpqMENGdENIeXpFaDNVdkJSZm5JMDM4WmVxV1BYVHN6MmNZZlNrZVgxWmdURmpwNDZMTTZKVG1kR0ZFdVVwR0NUeElETjhVd0Z0bm9jQVJmcGNXenRPeGxGQl9iRVJFeDVfVVlIeFZsWnhPSVdvSWxTcDV4YWFhWU84UGtmSXRUWTdLRl9BUVhGd3VFVFd0MGw0WVRTX0N6b2xn?oc=5",
+      "domain": "Reuters",
+      "topic": "Fuel",
+      "seendate": "20260608T070000Z"
+    },
+    {
+      "title": "Petrol & diesel prices hiked by Rs 3/L; CNG prices hiked in Delhi by Rs 2 | Akashvani News - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDVmREtjeEZ6UXRDZEdyZW1jMFZZellPWkpJeS10NmRuYW5WWXo0cThsQzhaTm5fX0pjVGFRN1htbnZsVGNUUnZSNHZYSlVUS083TFFSMEV1T25rLVBKN1BfVnpwUk1hdUxpLXNMOWtESk5NNjVHQk9OaTBkQWdvUXZPN21CMDZ4Y1hPdUJSYk1PeGlVR3B4Nm9BckRkblc2aU5zUlZwT04?oc=5",
+      "domain": "News On AIR",
+      "topic": "Fuel",
+      "seendate": "20260524T231817Z"
+    },
+    {
+      "title": "India hikes petrol, diesel prices as economic woes mount - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGhhblZ0YnROenJtemEtQlFQUXU2YjZMMDBiY0xsUVJ3aFBReko0VGJmOFo1ZkVwQjNCcUNqVUlkWWxPNEJyUGVOR1RZNTZOZ090M2xQRmtvVzdoNnZVLXFVRVFIRlZ2dkVOLXhrSC11aWRqc2MwaUlsS05kR3A4UWc4dlVJZUF5dkwxQkxMUGdzczF1Tko4NXpGLUtsLWpoSm9aedIBpAFBVV95cUxNQ2hVWGlmemlMTU5lVGMtMXE3aHJudXNEMjJwSkRsbWNyNUx2MmF2RnhtSllVd0hGaEhIVk84bkxtOUhmZHF6aGVza2xUTUhiVXVzTHd5NHVGYTRqem9XYkwxWGNIYmJQbXdBVHFQUmdvaS1LblhHNXJGcFZyTkhzQ0o4TXVva1IxWks0OGhnanBueTMyTk9SM2F3TEs0a0dRRGhWbQ?oc=5",
+      "domain": "DW.com",
+      "topic": "Fuel",
+      "seendate": "20260515T070000Z"
     }
   ],
   "alerts": [
